@@ -14,6 +14,7 @@ Requirements:
 
 Suggestion:
 - STM32, ESP32. Depending on the autonomous decision making something more powerful could be necessary.
+- If RTOS is necessary the board must support it.
 
 ## Communication 
 
