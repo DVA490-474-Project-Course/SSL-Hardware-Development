@@ -1,4 +1,4 @@
-# Wheels from Participants 2024
+## Wheels from Participants 2024
 - In all the papers reviewed from 2024, 4 omni wheels are consistently used. 
 - 3D-printed wheels made from PLA did not hold up. 
 - The wheel size depends on the weight of the robot. 
