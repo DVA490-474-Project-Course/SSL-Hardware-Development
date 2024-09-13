@@ -13,6 +13,6 @@
 
 ## Limitations
 - heat management
-- Material selektion 
+- Material selection 
 - Current rating
 - Mechanical wear
