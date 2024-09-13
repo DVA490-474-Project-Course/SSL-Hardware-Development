@@ -18,3 +18,9 @@ As there are no links to the given batteries, the weights are based on similar p
 - safe to handle.
 - Lightweight.
 - Correct C rating.
+
+
+# Limitations
+- Size
+- Weight
+- Capacity
