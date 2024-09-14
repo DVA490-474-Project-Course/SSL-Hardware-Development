@@ -35,9 +35,9 @@
 
 
   ## Calculations
-  The mass of the golf ball: 0.046kg
-  v=8.5m/s
-  stroke length 0.02m
+  -The mass of the golf ball: 0.046kg
+  -v=8.5m/s
+  -stroke length 0.02m
 
   ## Kinetic Energy: 
   $$E_k = \frac{1}{2} m v^2 = 1.66 J$$
@@ -47,4 +47,5 @@
   $$ F = \frac{E_k}{d} = 83.1 N $$
   ## Power Required: 
   $$ P=V \cdot I $$
-  
+
+  -DSOL-1151-24C can work 
