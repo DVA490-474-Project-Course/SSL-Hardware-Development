@@ -40,13 +40,11 @@
   stroke length 0.02m
 
   ## Kinetic Energy: 
-  $$E_k = \frac{1}{2} m v^2$$
-  $$E_k = 1.66 J$$
+  $$E_k = \frac{1}{2} m v^2 = 1.66 J$$
   ## Work:
   $$W = F \cdot d = E_k$$
   ### Required force: 
-  $$ F = \frac{E_k}{d} $$
-  $$ F = 83.1 N $$
+  $$ F = \frac{E_k}{d} = 83.1 N $$
   ## Power Required: 
   $$ P=V \cdot I $$
   
