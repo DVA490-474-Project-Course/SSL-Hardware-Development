@@ -32,7 +32,7 @@
 | RoboFEI         |                                     | 1000mikroF 200V |            |     |
 | Tigers Mannheim |                                     | 3600mikroF 240V | 8.5 m/s    |     |
 | Robot jacket    |                                     | 4000mikroF 250V | 6 m/s      |     |
-
+| KgpKubs 2017    |  Their own design with description  |                 |            |     |
 
   ## Calculations
   -The mass of the golf ball: 0.046kg
