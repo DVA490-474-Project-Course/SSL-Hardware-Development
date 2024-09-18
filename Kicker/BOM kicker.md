@@ -10,12 +10,12 @@
 
 ## IC  (Capacitor charger Controller)
 
-| Name   | Price                        | Max V |     |     |     |     |     |     |
-| ------ | ---------------------------- | ----- | --- | --- | --- | --- | --- | --- |
-| LT3750 | 120 kr (digikey), 75 farnell | 3-24V |     |     |     |     |     |     |
+| Name   | Price                        | Max V |    
+| ------ | ---------------------------- | ----- |
+| LT3750 | 120 kr (digikey), 75 farnell | 3-24V |     
 
 # Capacitor 
 
-| Name   | Price                        | Max V |     |     |     |     |     |     |
-| ------ | ---------------------------- | ----- | --- | --- | --- | --- | --- | --- |
-| LT3750 | 120 kr (digikey), 75 farnell | 3-24V |     |     |     |     |     |     |
+| Name   | Price                        | Max V |    
+| ------ | ---------------------------- | ----- | 
+| LT3750 | 120 kr (digikey), 75 farnell | 3-24V |    
