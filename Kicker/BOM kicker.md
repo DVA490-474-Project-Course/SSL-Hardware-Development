@@ -12,7 +12,22 @@
 
 | Name   | Price                        | Max V |    
 | ------ | ---------------------------- | ----- |
-| LT3750 | 120 kr (digikey), 75 farnell | 3-24V |     
+| LT3750 | 120 kr (digikey), 75 farnell | 3-24V |  
+
+### Reasons for this component: 
+- Charges Any Size Capacitor
+- Easily Adjustable Output Voltage
+- Drives High Current NMOS FETs
+- Primary-Side Sense—No Output Voltage Divider Necessary
+- Wide Input Range: 3V to 24V
+- Drives Gate to VCC – 2V
+- Available in 10-Lead MS Package
+- Emergency Warning Beacons
+- Professional Photoflash Systems
+- Security/Inventory Control Systems
+- High Voltage Power Supply
+- Electric Fences
+- Detonators
 
 # Capacitor 
 
