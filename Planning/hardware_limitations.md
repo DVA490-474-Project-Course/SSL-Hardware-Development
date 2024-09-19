@@ -1,5 +1,7 @@
 ## Shape
-0.18 meters wide and 0.15 meters high cylinder at any point in time.
+- 0.18 meters wide and 0.15 meters high cylinder at any point in time.
+- Radius of 85mm or larger
+- Linear cut off infront, must be at a distance of 55mm from the centre
 
 ## Dribbling
 The roller can actively exert spin on the ball is allowed if:
