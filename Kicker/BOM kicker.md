@@ -33,11 +33,13 @@
 - Electric Fences
 - Detonators
 
-# Capacitor 
 
 | Name   | Price                        | Max V |    
 | ------ | ---------------------------- | ----- | 
-|  |  | |    
+| Capacitor  |  | |    
+| Diod  |  | |   
 
 ### Reasons for Capacitor
 The capacitor is needed to provide hight voltage to the solenoid so that it can kick the golfball.  
+### Reasons for Diod
+To prevent backfeed
