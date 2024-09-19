@@ -8,6 +8,7 @@
 ### Sensor & Embedded system
 
 - Decide on which sensors we want to use if that is not done already.
+    - Create initial sensor schematics, ideally it would be done using KiCad but blockdiagram is okay, try to include as much information as possible e.g. voltages and power consumption.
 - Research ways to sample the data from these sensors. Initial idea is to use FreeRTOS + micro-ROS on the ESP32.
     - There is no need to program for this task, we want to find out information about efficient/easy ways this could be done.
 
