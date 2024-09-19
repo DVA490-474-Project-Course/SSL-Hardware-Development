@@ -8,13 +8,17 @@
 | Delta electronics DSMS-0730-12 | 230.45              |                    | 12VDC        |               | 4.5 ohm         | 40.2g    | 3.8W  |     |
 | DSOS-0416-09D                  | 92.89               |                    | 9VDC         |               | 22.6ohm         |          |       |     |
 
+### LEDEX 195207-228  
+- The solenoid needs to be light weighted and not to expensive. It needs to be able to kick the golf ball.
+- Henrik has ordered LEDEX 195207-228            
+
 ## IC  (Capacitor charger Controller)
 
 | Name   | Price                        | Max V |    
 | ------ | ---------------------------- | ----- |
-| LT3750 | 120 kr (digikey), 75 farnell | 3-24V |  
+| LT3750 | 120 kr (digikey), 75kr (farnell) | 3-24V |  
 
-### Reasons for this component: 
+### Reasons for LT3750: 
 - Charges Any Size Capacitor
 - Easily Adjustable Output Voltage
 - Drives High Current NMOS FETs
@@ -34,3 +38,6 @@
 | Name   | Price                        | Max V |    
 | ------ | ---------------------------- | ----- | 
 |  |  | |    
+
+### Reasons for Capacitor
+The capacitor is needed to provide hight voltage to the solenoid so that it can kick the golfball.  
