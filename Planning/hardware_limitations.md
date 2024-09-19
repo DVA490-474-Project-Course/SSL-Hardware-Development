@@ -13,3 +13,4 @@ The roller can actively exert spin on the ball is allowed if:
 We are allowed to use any wireless communication except for bluetooth.
 
 The wireless communication has to follow legal regulations of the country. 
+
