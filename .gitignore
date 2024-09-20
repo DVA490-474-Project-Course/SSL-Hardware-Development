@@ -1,0 +1,39 @@
+
+# KiCad files to ignore
+
+# Backup files
+*~
+
+# Autosave files
+_autosave-*
+
+# Swap files (temporary working files)
+*.kicad_pcb-bak
+*.sch-bak
+*.bak
+
+# Sym-lib-table and fp-lib-table backup files
+*.lib-tmp
+*.dcm-tmp
+
+# Temporary files generated during use
+*.tmp
+*.vtmp
+*.log
+
+# Simulation files
+*.net
+*.raw
+*.spice
+*.cschem
+
+# Intermediate plot files
+*.ps
+*.pdf
+*.svg
+*.png
+*.eps
+*.drl
+
+# Cache files
+*.kicad
