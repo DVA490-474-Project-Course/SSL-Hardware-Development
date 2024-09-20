@@ -77,10 +77,10 @@ Welcome to the SSL Robot Project repository! This project encompasses both hardw
     - Visit the [Wiki](https://github.com/yourusername/SSL-Robot-Project/wiki) for detailed guides and API documentation.
 
 ## Contributing
-We welcome contributions! Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to get involved.
+We welcome contributions! Please read our [CONTRIBUTING.md](Documentation/CONTRIBUTING.md) for guidelines on how to get involved.
 
 ## License
-This project is licensed under the [MIT License](./LICENSE.md).
+This project is licensed under the [MIT License](Documentation/LICENSE.md).
 
 ## Contact
 For any questions or support, please open an issue or contact the project maintainers.
