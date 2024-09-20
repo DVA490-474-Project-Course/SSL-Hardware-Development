@@ -1,5 +1,9 @@
 # SSL-Hardware-Development
 
+## Overview
+Welcome to the SSL Robot Project repository! This project encompasses both hardware and software components essential for building and controlling an SSL robot. Our goal is to create a robust, scalable, and maintainable robot platform.
+
+## Repository Structure
 - **3D_Models**: Contains all 3D models related to the robot design.
 - **Circuits**: Circuit designs for various robot components.
 - **BOM**: Bill of Materials for each component.
@@ -9,6 +13,48 @@
 - **Misc**: Miscellaneous files and references.
 - **Simulations**: Simulation scripts and models.
 - **Documentation**: Comprehensive project documentation and guides.
+
+
+/SSL-Robot-Project
+├── /3D_Models
+│   ├── /CAD_Files            # All CAD files for different robot parts
+│   ├── /STL_Files            # STL exports for 3D printing
+│   └── /Renderings           # Renders of the 3D models
+├── /Circuits
+│   ├── /Motor_Control        # Motor circuit design files
+│   ├── /Kicker               # Kicker circuit design files
+│   ├── /Dribbler             # Dribbler circuit design files
+│   └── /Sensor               # Sensor circuit design files
+├── /BOM                      # Bill of Materials for different components
+│   ├── /Motor_Control_BOM
+│   ├── /Kicker_BOM
+│   ├── /Dribbler_BOM
+│   └── /Sensor_BOM
+├── /Software
+│   ├── /Motor_Control
+│   │   ├── /Firmware          # Firmware code for motor controllers
+│   │   │   ├── /src           # Source code files
+│   │   │   ├── /include       # Header files
+│   │   │   ├── /tests         # Unit and integration tests
+│   │   │   └── README.md      # Firmware-specific documentation
+│   │   ├── /Software_Doc      # Documentation related to motor control software
+│   │   │   ├── /API_Docs      # API documentation if applicable
+│   │   │   └── /User_Guides   # User manuals or setup guides
+│   │   ├── /Libraries         # Any libraries or dependencies specific to motor control
+│   │   └── /Examples          # Example projects or usage scenarios
+│   ├── /Kicker_Control        # Similar structure for kicker control software
+│   ├── /Dribbler_Control      # Similar structure for dribbler control software
+│   └── /Sensor_Control        # Similar structure for sensor control software
+├── /Design_Documents          # Technical specifications, design decisions
+├── /Meeting_Notes             # Notes from each project meeting
+├── /Misc                      # Any other miscellaneous files
+├── /Simulations               # Simulation files or scripts if applicable
+├── /Documentation             # General documentation for the project
+│   ├── README.md              # Overview of the project
+│   ├── CONTRIBUTING.md        # Guidelines for contributing
+│   ├── LICENSE.md             # Licensing information
+│   └── /Wiki_Links            # Links to relevant wiki pages
+└── .gitignore                 # Git ignore file
 
 ## Getting Started
 
