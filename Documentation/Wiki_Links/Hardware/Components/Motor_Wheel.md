@@ -2,6 +2,7 @@
 ## Info
 
 - **Name**: [Turnigy Multistar 4225-610Kv](https://hobbyking.com/en_us/turnigy-multistar-4225-610kv-16pole-multi-rotor-outrunner.html?___store=en_us#qa[bW9kZT03JnBhZ2U9MSZxdWVzdGlvbl9zZWFyY2hfY29udGVudD0=])
+- **Datasheet**: N/A
 
 
 | **Specification**                  | **Value**                                    |

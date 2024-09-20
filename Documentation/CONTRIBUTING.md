@@ -71,7 +71,7 @@ To contribute to the motor control or other software:
 
 Good documentation is critical for onboarding new contributors and maintaining clarity. To improve or update the documentation:
 1. Fork the repository and clone your fork.
-2. Work on a feature branch (e.g., `docs-meeting-notes`).
+2. Work on a feature branch (e.g., `docs-component-info`).
 3. Make sure to update or create relevant `README.md` files, wiki pages, or guides.
 4. Submit a Pull Request with your changes.
 
