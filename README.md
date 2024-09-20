@@ -62,7 +62,7 @@ Welcome to the SSL Robot Project repository! This project encompasses both hardw
 ### Setup Instructions
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/SSL-Robot-Project.git
+    git clone git@github.com:DVA490-474-Project-Course/SSL-Hardware-Development.git
     cd SSL-Robot-Project
     ```
 
