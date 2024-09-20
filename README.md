@@ -26,10 +26,6 @@ Welcome to the SSL Robot Project repository! This project encompasses both hardw
 │   ├── /Dribbler             # Dribbler circuit design files
 │   └── /Sensor               # Sensor circuit design files
 ├── /BOM                      # Bill of Materials for different components
-│   ├── /Motor_Control_BOM
-│   ├── /Kicker_BOM
-│   ├── /Dribbler_BOM
-│   └── /Sensor_BOM
 ├── /Software
 │   ├── /Motor_Control
 │   │   ├── /Firmware          # Firmware code for motor controllers
