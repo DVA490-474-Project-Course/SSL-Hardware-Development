@@ -22,10 +22,10 @@ Provide a brief overview of the hardware, its purpose, and the target users.
 Describe the system architecture, main features, and working principles.
 
 ## Components
-See [BOM](../../BOM/)
+See **[BOM](../../BOM/)** for a full list of components.
 ### List of Major Components
 - **[BLDC Motor](Hardware/Components/Motor_Wheel.md)**
-- **Component 2**: Description, model, and purpose.
+- **[Electronics Speed Controller (ESC)](Hardware/Components/ESC.md)**
   
 ## Schematics & Diagrams
 Include diagrams for electrical circuits, mechanical layout, and connectivity.
