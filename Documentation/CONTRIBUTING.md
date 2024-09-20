@@ -90,7 +90,7 @@ Before submitting a pull request (PR):
 3. Include **clear commit messages** describing the changes (see [Git Commit Messages](#git-commit-messages)).
 4. For software:
    - Ensure you’ve written or updated **tests**.
-   - Run **linting** and **formatting checks** (e.g., with tools like `clang-format` or `black`).
+   - Run **linting** and **formatting checks** (e.g., with tools like `clang-format`).
 5. For hardware:
    - Ensure you’ve updated all relevant **BOMs** and **documentation**.
 6. If your PR relates to an issue, link it in the PR description (e.g., `Closes #23`).
