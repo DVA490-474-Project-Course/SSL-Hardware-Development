@@ -16,7 +16,7 @@
 
 | Name   | Price                        | Max V |    
 | ------ | ---------------------------- | ----- |
-| LT3750 | 120 kr (digikey), 75kr (farnell) | 3-24V |  
+| LT3750 | 149 kr (digikey), 75 kr (farnell) | 3-24V |  
 
 ### Reasons for LT3750: 
 - Charges Any Size Capacitor
@@ -38,8 +38,11 @@
 | ------ | ---------------------------- | ----- | 
 | Capacitor  |  | |    
 | Diod  |  | |   
+| Transformer  |  | |   
 
 ### Reasons for Capacitor
 The capacitor is needed to provide hight voltage to the solenoid so that it can kick the golfball.  
 ### Reasons for Diod
 To prevent backfeed
+### Reasons for Transformer
+This component is needed for LT3750
