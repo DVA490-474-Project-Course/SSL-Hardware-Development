@@ -14,7 +14,7 @@ Welcome to the SSL Robot Project repository! This project encompasses both hardw
 - **Simulations**: Simulation scripts and models.
 - **Documentation**: Comprehensive project documentation and guides.
 
-
+```bash
 /SSL-Robot-Project
 ├── /3D_Models
 │   ├── /CAD_Files            # All CAD files for different robot parts
@@ -55,6 +55,7 @@ Welcome to the SSL Robot Project repository! This project encompasses both hardw
 │   ├── LICENSE.md             # Licensing information
 │   └── /Wiki_Links            # Links to relevant wiki pages
 └── .gitignore                 # Git ignore file
+```
 
 ## Getting Started
 
