@@ -75,6 +75,11 @@ Good documentation is critical for onboarding new contributors and maintaining c
 3. Make sure to update or create relevant `README.md` files, wiki pages, or guides.
 4. Submit a Pull Request with your changes.
 
+**General Information**:
+
+**Updating component information** see [Motor_Wiki](Hardware/Components/Motor_Wheel.md) for a template.
+Make any changes necessary for your component. If a datasheet is available, upload it to [Design_Documents/Datasheets](../Design_Documents/Datasheets/), give it a readable name and link to it from your component wiki page.
+
 ---
 
 ## Pull Request Guidelines
