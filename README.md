@@ -74,7 +74,7 @@ Welcome to the SSL Robot Project repository! This project encompasses both hardw
     - Follow the instructions in `README.md` to build and deploy the firmware.
 
 3. **Accessing Documentation**
-    - Visit the [Wiki](https://github.com/yourusername/SSL-Robot-Project/wiki) for detailed guides and API documentation.
+    - Visit the [Wiki](Documentation/Wiki_Links/Homepage.md) for detailed guides and API documentation.
 
 ## Contributing
 We welcome contributions! Please read our [CONTRIBUTING.md](Documentation/CONTRIBUTING.md) for guidelines on how to get involved.
