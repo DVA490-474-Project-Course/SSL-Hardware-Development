@@ -57,7 +57,7 @@ Welcome to the SSL Robot Project repository! This project encompasses both hardw
 
 ### Prerequisites
 - **Hardware**: Access to the necessary hardware components as listed in the BOM.
-- **Software**: Install required software dependencies (refer to `/Software` documentation).
+- **Software**: Install required software dependencies (refer to [Dependencies](Software/Software_Dependencies.md) documentation).
 
 ### Setup Instructions
 1. **Clone the Repository**
