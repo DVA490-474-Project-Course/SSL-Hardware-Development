@@ -127,7 +127,7 @@ For motor control and other software, follow these coding standards:
    - Use docstrings for functions to describe input/output.
 
 If you're writing C or C++ firmware:
-- Stick to **ANSI C** standards for portability.
+- Stick to **[Google C++](https://google.github.io/styleguide/cppguide.html)** standards for portability.
 - Make sure to test with multiple compilers (e.g., `gcc`, `clang`).
 
 ### File Naming Conventions
@@ -136,7 +136,7 @@ Use descriptive and consistent names for files:
 - Circuit files: `MotorControl_v1.kicad`, `Kicker_v2.sch`.
 - 3D models: `WheelAssembly_v1.step`, `Chassis_v3.stl`.
 - Software: `motor_control_firmware.c`, `pwm_control_module.h`.
-- Documentation: `Meeting_2024-09-21.md`, `MotorControl_Specifications.pdf`.
+- Documentation: `2024-09-21_Meeting.md`, `MotorControl_Specifications.pdf`.
 
 ---
 
@@ -170,6 +170,3 @@ Thank you for contributing! If you have any questions, feel free to reach out vi
 
 ---
 
-### Final Notes:
-- If you’re working with a specific team, feel free to add team-specific contribution workflows (like assigning reviewers or testing).
-- If you foresee needing to add a testing environment setup section (e.g., for hardware-in-the-loop testing), add that in the “Setting Up the Project” section.
