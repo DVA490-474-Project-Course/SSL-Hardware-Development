@@ -20,3 +20,6 @@
 | **Number of Poles**                 | 16 poles                                    |
 | **Mounting Holes Spacing**          | 19mm / 25mm (M3 thread)                     |
 | **Max Efficiency**                  | 87%                                         |
+## Reason
+This component provides a good tradeoff between torque, RPM and price.
+Ideally we would want a high torque at low speeds for fast acceleration and high RPM. This motor provides a sufficient torque at low speeds but can still reach high RPM values.
