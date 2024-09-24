@@ -12,6 +12,7 @@ _autosave-*
 *.kicad_pcb-bak
 *.sch-bak
 *.bak
+*.lck
 
 # Sym-lib-table and fp-lib-table backup files
 *.lib-tmp
