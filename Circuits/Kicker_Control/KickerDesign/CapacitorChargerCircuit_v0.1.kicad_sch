@@ -1267,7 +1267,7 @@
 		)
 	)
 	(hierarchical_label "outtest"
-		(shape input)
+		(shape output)
 		(at 189.23 68.58 0)
 		(fields_autoplaced yes)
 		(effects
@@ -1371,7 +1371,7 @@
 		)
 		(instances
 			(project ""
-				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/d53044a6-8882-4c0b-a6e2-5a56de409c7c"
+				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/34d36afa-17bc-4d5b-982e-06ce0cee35e6"
 					(reference "Q2")
 					(unit 1)
 				)
@@ -1441,7 +1441,7 @@
 		)
 		(instances
 			(project ""
-				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/d53044a6-8882-4c0b-a6e2-5a56de409c7c"
+				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/34d36afa-17bc-4d5b-982e-06ce0cee35e6"
 					(reference "C2")
 					(unit 1)
 				)
@@ -1507,7 +1507,7 @@
 		)
 		(instances
 			(project "KickerCircuit_v01"
-				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/d53044a6-8882-4c0b-a6e2-5a56de409c7c"
+				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/34d36afa-17bc-4d5b-982e-06ce0cee35e6"
 					(reference "#PWR06")
 					(unit 1)
 				)
@@ -1573,7 +1573,7 @@
 		)
 		(instances
 			(project "KickerCircuit_v01"
-				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/d53044a6-8882-4c0b-a6e2-5a56de409c7c"
+				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/34d36afa-17bc-4d5b-982e-06ce0cee35e6"
 					(reference "#PWR07")
 					(unit 1)
 				)
@@ -1641,7 +1641,7 @@
 		)
 		(instances
 			(project "KickerCircuit_v01"
-				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/d53044a6-8882-4c0b-a6e2-5a56de409c7c"
+				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/34d36afa-17bc-4d5b-982e-06ce0cee35e6"
 					(reference "R4")
 					(unit 1)
 				)
@@ -1709,7 +1709,7 @@
 		)
 		(instances
 			(project ""
-				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/d53044a6-8882-4c0b-a6e2-5a56de409c7c"
+				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/34d36afa-17bc-4d5b-982e-06ce0cee35e6"
 					(reference "R3")
 					(unit 1)
 				)
@@ -1775,7 +1775,7 @@
 		)
 		(instances
 			(project ""
-				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/d53044a6-8882-4c0b-a6e2-5a56de409c7c"
+				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/34d36afa-17bc-4d5b-982e-06ce0cee35e6"
 					(reference "#PWR05")
 					(unit 1)
 				)
@@ -1845,7 +1845,7 @@
 		)
 		(instances
 			(project "KickerCircuit_v01"
-				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/d53044a6-8882-4c0b-a6e2-5a56de409c7c"
+				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/34d36afa-17bc-4d5b-982e-06ce0cee35e6"
 					(reference "C3")
 					(unit 1)
 				)
@@ -1911,7 +1911,7 @@
 		)
 		(instances
 			(project "KickerCircuit_v01"
-				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/d53044a6-8882-4c0b-a6e2-5a56de409c7c"
+				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/34d36afa-17bc-4d5b-982e-06ce0cee35e6"
 					(reference "#PWR08")
 					(unit 1)
 				)
@@ -1981,7 +1981,7 @@
 		)
 		(instances
 			(project "KickerCircuit_v01"
-				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/d53044a6-8882-4c0b-a6e2-5a56de409c7c"
+				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/34d36afa-17bc-4d5b-982e-06ce0cee35e6"
 					(reference "C4")
 					(unit 1)
 				)
@@ -2051,7 +2051,7 @@
 		)
 		(instances
 			(project "KickerCircuit_v01"
-				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/d53044a6-8882-4c0b-a6e2-5a56de409c7c"
+				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/34d36afa-17bc-4d5b-982e-06ce0cee35e6"
 					(reference "R5")
 					(unit 1)
 				)
@@ -2143,16 +2143,11 @@
 		)
 		(instances
 			(project ""
-				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/d53044a6-8882-4c0b-a6e2-5a56de409c7c"
+				(path "/a7a112f4-0a48-49be-a5c8-a832ec6f12fb/34d36afa-17bc-4d5b-982e-06ce0cee35e6"
 					(reference "LT1")
 					(unit 1)
 				)
 			)
-		)
-	)
-	(sheet_instances
-		(path "/"
-			(page "1")
 		)
 	)
 )
