@@ -1475,7 +1475,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 62.23) (xy 149.86 62.23)
+			(xy 149.86 62.23) (xy 163.83 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2540,7 +2540,7 @@
 		)
 	)
 	(sheet
-		(at 161.29 60.96)
+		(at 163.83 60.96)
 		(size 12.7 3.81)
 		(fields_autoplaced yes)
 		(stroke
@@ -2552,7 +2552,7 @@
 		)
 		(uuid "34d36afa-17bc-4d5b-982e-06ce0cee35e6")
 		(property "Sheetname" "CVDC"
-			(at 161.29 60.2484 0)
+			(at 163.83 60.2484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2561,13 +2561,23 @@
 			)
 		)
 		(property "Sheetfile" "CapacitorChargerCircuit_v0.1.kicad_sch"
-			(at 161.29 65.3546 0)
+			(at 163.83 65.3546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
 			)
+		)
+		(pin "V_OUT" output
+			(at 163.83 62.23 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "1d2d5735-ff1f-49e5-8fcc-3f9e2a44d584")
 		)
 		(instances
 			(project "KickerCircuit_v.01"
