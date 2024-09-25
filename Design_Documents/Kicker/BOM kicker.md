@@ -14,9 +14,9 @@
 
 ## IC  (Capacitor charger Controller)
 
-| Name   | Price                        | Max V |    
-| ------ | ---------------------------- | ----- |
-| LT3750 | 149 kr (digikey), 75 kr (farnell) | 3-24V |  
+| Name   | Price                        | Max V |  Website  |
+| ------ | --------------------------------- | ----- | ------------------------------------------------------------------------------------- | 
+| LT3750 | 149 kr (digikey), 75 kr (farnell) | 3-24V |  https://www.digikey.se/en/products/detail/analog-devices-inc/LT3750AEMS-PBF/14683705 |
 
 ### Reasons for LT3750: 
 - Charges Any Size Capacitor
@@ -34,11 +34,11 @@
 - Detonators
 
 
-| Name   | Price                        | Max V |    
-| ------ | ---------------------------- | ----- | 
-| Capacitor  |  | |    
-| Diod  |  | |   
-| DA2034-ALD  | 98,56  | |   
+| Name   | Price                        | Max V | Website   |
+| ------ | ---------------------------- | ----- |---------- |
+| Capacitor  |  | |    |
+| Diod  |  | |   |
+| DA2034-ALD  | 98,56  | |  https://www.mouser.se/ProductDetail/Coilcraft/DA2034-ALD?qs=ZYnrCdKdyedtN304hL7iMg%3D%3D |
 
 ### Reasons for Capacitor
 The capacitor is needed to provide hight voltage to the solenoid so that it can kick the golfball.  
