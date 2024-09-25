@@ -167,31 +167,31 @@
 				)
 			)
 		)
-		(symbol "dk_Transistors-FETs-MOSFETs-Single:IRLB8721PBF"
+		(symbol "dk_Rectangular-Connectors-Headers-Male-Pins:B4B-PH-K-S_LF__SN_"
 			(pin_names
-				(offset 0)
+				(offset 1.016)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "Q"
-				(at -2.6924 3.6322 0)
+			(property "Reference" "J"
+				(at -2.54 -1.27 0)
 				(effects
 					(font
-						(size 1.524 1.524)
+						(size 1.27 1.27)
 					)
 					(justify right)
 				)
 			)
-			(property "Value" "IRLB8721PBF"
-				(at 3.4544 0 90)
+			(property "Value" "B4B-PH-K-S_LF__SN_"
+				(at 3.81 -3.81 0)
 				(effects
 					(font
-						(size 1.524 1.524)
+						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:TO-220-3"
+			(property "Footprint" "digikey-footprints:PinHeader_1x4_P2mm_Drill1mm"
 				(at 5.08 5.08 0)
 				(effects
 					(font
@@ -201,7 +201,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.infineon.com/dgdl/irlb8721pbf.pdf?fileId=5546d462533600a40153566056732591"
+			(property "Datasheet" "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
 				(at 5.08 7.62 0)
 				(effects
 					(font
@@ -211,7 +211,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "MOSFET N-CH 30V 62A TO-220AB"
+			(property "Description" "CONN HEADER VERT 4POS 2MM"
 				(at 0 0 0)
 				(effects
 					(font
@@ -220,7 +220,7 @@
 					(hide yes)
 				)
 			)
-			(property "Digi-Key_PN" "IRLB8721PBF-ND"
+			(property "Digi-Key_PN" "455-1706-ND"
 				(at 5.08 10.16 0)
 				(effects
 					(font
@@ -230,7 +230,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "IRLB8721PBF"
+			(property "MPN" "B4B-PH-K-S(LF)(SN)"
 				(at 5.08 12.7 0)
 				(effects
 					(font
@@ -240,7 +240,7 @@
 					(hide yes)
 				)
 			)
-			(property "Category" "Discrete Semiconductor Products"
+			(property "Category" "Connectors, Interconnects"
 				(at 5.08 15.24 0)
 				(effects
 					(font
@@ -250,7 +250,7 @@
 					(hide yes)
 				)
 			)
-			(property "Family" "Transistors - FETs, MOSFETs - Single"
+			(property "Family" "Rectangular Connectors - Headers, Male Pins"
 				(at 5.08 17.78 0)
 				(effects
 					(font
@@ -260,7 +260,7 @@
 					(hide yes)
 				)
 			)
-			(property "DK_Datasheet_Link" "https://www.infineon.com/dgdl/irlb8721pbf.pdf?fileId=5546d462533600a40153566056732591"
+			(property "DK_Datasheet_Link" "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
 				(at 5.08 20.32 0)
 				(effects
 					(font
@@ -270,7 +270,7 @@
 					(hide yes)
 				)
 			)
-			(property "DK_Detail_Page" "/product-detail/en/infineon-technologies/IRLB8721PBF/IRLB8721PBF-ND/2127670"
+			(property "DK_Detail_Page" "/product-detail/en/jst-sales-america-inc/B4B-PH-K-S(LF)(SN)/455-1706-ND/926613"
 				(at 5.08 22.86 0)
 				(effects
 					(font
@@ -280,7 +280,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description_1" "MOSFET N-CH 30V 62A TO-220AB"
+			(property "Description_1" "CONN HEADER VERT 4POS 2MM"
 				(at 5.08 25.4 0)
 				(effects
 					(font
@@ -290,7 +290,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "Infineon Technologies"
+			(property "Manufacturer" "JST Sales America Inc."
 				(at 5.08 27.94 0)
 				(effects
 					(font
@@ -310,7 +310,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "IRLB8721PBF-ND HEXFET®"
+			(property "ki_keywords" "455-1706-ND PH"
 				(at 0 0 0)
 				(effects
 					(font
@@ -319,10 +319,10 @@
 					(hide yes)
 				)
 			)
-			(symbol "IRLB8721PBF_0_1"
-				(circle
-					(center -1.27 0)
-					(radius 3.302)
+			(symbol "B4B-PH-K-S_LF__SN__1_1"
+				(rectangle
+					(start -1.27 0)
+					(end 8.89 -2.54)
 					(stroke
 						(width 0)
 						(type solid)
@@ -331,201 +331,9 @@
 						(type background)
 					)
 				)
-				(circle
-					(center 0 -1.905)
-					(radius 0.127)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 -1.397)
-					(radius 0.127)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.397) (xy -2.54 -1.397)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.508 0.508) (xy 0.3048 0.3048)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.524 0.508) (xy 1.7272 0.7112)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 -2.54) (xy -3.048 -2.54) (xy -3.048 1.397)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.54) (xy 0 0) (xy -2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0 1.397) (xy -2.54 1.397)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.127 -1.905) (xy 1.016 -1.905) (xy 1.016 1.397) (xy 1.016 1.905) (xy -0.127 1.905)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 1.905)
-					(radius 0.127)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "IRLB8721PBF_1_1"
-				(polyline
-					(pts
-						(xy -2.54 -1.397) (xy -2.54 -1.905)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -1.397) (xy -2.54 -0.889)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 0) (xy -2.54 -0.508)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 0) (xy -2.54 0.508)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 1.905) (xy -2.54 0.889)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.524 0.508) (xy 0.508 0.508)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 0) (xy -1.778 0.508) (xy -1.778 -0.508) (xy -2.54 0)
-					)
+				(rectangle
+					(start -0.254 -1.143)
+					(end 0.254 -1.651)
 					(stroke
 						(width 0)
 						(type solid)
@@ -534,10 +342,9 @@
 						(type outline)
 					)
 				)
-				(polyline
-					(pts
-						(xy 1.016 0.508) (xy 0.508 -0.254) (xy 1.524 -0.254) (xy 1.016 0.508)
-					)
+				(rectangle
+					(start 2.286 -1.143)
+					(end 2.794 -1.651)
 					(stroke
 						(width 0)
 						(type solid)
@@ -546,10 +353,32 @@
 						(type outline)
 					)
 				)
-				(pin bidirectional line
-					(at -7.62 -2.54 0)
+				(rectangle
+					(start 4.826 -1.143)
+					(end 5.334 -1.651)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 7.366 -1.143)
+					(end 7.874 -1.651)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(pin passive line
+					(at 0 2.54 270)
 					(length 2.54)
-					(name "G"
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -564,10 +393,10 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 0 5.08 270)
+				(pin passive line
+					(at 2.54 2.54 270)
 					(length 2.54)
-					(name "D"
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -582,10 +411,10 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 0 -5.08 90)
+				(pin passive line
+					(at 5.08 2.54 270)
 					(length 2.54)
-					(name "S"
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -593,6 +422,24 @@
 						)
 					)
 					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 2.54 270)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -701,13 +548,23 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 34.29) (xy 57.15 34.29)
+			(xy 58.42 45.72) (xy 62.23 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1865c1e8-3705-45d8-b850-1a6d4094a7be")
+		(uuid "4102d61d-ec3b-4665-a43b-eadf56acc28e")
+	)
+	(wire
+		(pts
+			(xy 58.42 55.88) (xy 62.23 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "462b9869-3baf-4771-acb2-2c24e9174ff1")
 	)
 	(wire
 		(pts
@@ -721,43 +578,33 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 55.88) (xy 57.15 53.34)
+			(xy 58.42 38.1) (xy 62.23 38.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "93f014f0-928f-4289-ae90-0062cdcbcce0")
+		(uuid "8978073b-299c-4da0-9206-853ed04baa03")
 	)
 	(wire
 		(pts
-			(xy 57.15 34.29) (xy 57.15 43.18)
+			(xy 58.42 40.64) (xy 62.23 40.64)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9b21c40b-8bd5-4553-87e9-15b4625be810")
+		(uuid "cbbd42fa-7d20-4383-9ba2-a3fe304d08bc")
 	)
 	(wire
 		(pts
-			(xy 43.18 50.8) (xy 49.53 50.8)
+			(xy 58.42 43.18) (xy 62.23 43.18)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a806a7a0-c8b4-4a2f-9aed-063988f4b07c")
-	)
-	(wire
-		(pts
-			(xy 57.15 55.88) (xy 62.23 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "db4ce73e-5d06-4c18-9343-6c3ba96289d7")
+		(uuid "cd0e21a6-397b-4fb4-8bef-956d178ba94a")
 	)
 	(rectangle
 		(start 22.86 22.86)
@@ -771,19 +618,9 @@
 		)
 		(uuid 0b70599e-5815-48a5-8d14-f1f4e30dbfd8)
 	)
-	(text "30V 62A MosFET for turning on \nthe power for the dribbler"
-		(exclude_from_sim no)
-		(at 76.2 34.798 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "0a5fe439-2f63-4b34-84ae-100bb89ca13d")
-	)
-	(global_label "Dribbler_On"
+	(global_label "PWM"
 		(shape input)
-		(at 43.18 50.8 180)
+		(at 58.42 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -793,7 +630,51 @@
 		)
 		(uuid "1eab1136-096d-4373-9f23-5008b70eabe2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.2487 50.8 0)
+			(at 51.262 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "V-"
+		(shape input)
+		(at 58.42 45.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a662b505-f7f3-418e-8640-e98f4f2678f3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 52.7738 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "V+"
+		(shape input)
+		(at 58.42 43.18 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b4e80250-7c16-4d08-9ac1-d46ebabe9d8f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 52.7738 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -805,7 +686,7 @@
 	)
 	(global_label "VBAT"
 		(shape input)
-		(at 49.53 34.29 180)
+		(at 58.42 55.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -815,7 +696,29 @@
 		)
 		(uuid "d1756783-f5a6-4bf9-90dc-fc878154dbbf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 42.13 34.29 0)
+			(at 51.02 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Reverse"
+		(shape input)
+		(at 58.42 40.64 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "de86a80f-ec17-4878-8dfc-6fd4af20ee67")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 48.1171 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -909,7 +812,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Dribbler_ESC"
+		(property "Value" "Dribbler_ESC_XT60"
 			(at 67.564 60.96 0)
 			(effects
 				(font
@@ -961,45 +864,35 @@
 		)
 	)
 	(symbol
-		(lib_id "dk_Transistors-FETs-MOSFETs-Single:IRLB8721PBF")
-		(at 57.15 48.26 0)
+		(lib_id "dk_Rectangular-Connectors-Headers-Male-Pins:B4B-PH-K-S_LF__SN_")
+		(at 64.77 45.72 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "82e5462c-4665-48b4-9382-72def3818ee1")
-		(property "Reference" "Q1"
-			(at 60.96 46.9899 0)
+		(uuid "82d0a8fd-9458-4775-b157-6c7ce73bf9ea")
+		(property "Reference" "J2"
+			(at 68.58 40.6399 90)
 			(effects
 				(font
-					(size 1.524 1.524)
+					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "IRLB8721PBF"
-			(at 60.96 49.5299 0)
+		(property "Value" "B4B-PH-K-S_LF__SN_"
+			(at 68.58 43.1799 90)
 			(effects
 				(font
-					(size 1.524 1.524)
+					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:TO-220-3"
-			(at 62.23 43.18 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.infineon.com/dgdl/irlb8721pbf.pdf?fileId=5546d462533600a40153566056732591"
-			(at 62.23 40.64 0)
+		(property "Footprint" "digikey-footprints:PinHeader_1x4_P2mm_Drill1mm"
+			(at 59.69 40.64 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -1008,8 +901,18 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "MOSFET N-CH 30V 62A TO-220AB"
-			(at 57.15 48.26 0)
+		(property "Datasheet" "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
+			(at 57.15 40.64 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "CONN HEADER VERT 4POS 2MM"
+			(at 64.77 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1017,8 +920,8 @@
 				(hide yes)
 			)
 		)
-		(property "Digi-Key_PN" "IRLB8721PBF-ND"
-			(at 62.23 38.1 0)
+		(property "Digi-Key_PN" "455-1706-ND"
+			(at 54.61 40.64 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -1027,8 +930,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "IRLB8721PBF"
-			(at 62.23 35.56 0)
+		(property "MPN" "B4B-PH-K-S(LF)(SN)"
+			(at 52.07 40.64 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -1037,8 +940,8 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Discrete Semiconductor Products"
-			(at 62.23 33.02 0)
+		(property "Category" "Connectors, Interconnects"
+			(at 49.53 40.64 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -1047,8 +950,8 @@
 				(hide yes)
 			)
 		)
-		(property "Family" "Transistors - FETs, MOSFETs - Single"
-			(at 62.23 30.48 0)
+		(property "Family" "Rectangular Connectors - Headers, Male Pins"
+			(at 46.99 40.64 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -1057,8 +960,8 @@
 				(hide yes)
 			)
 		)
-		(property "DK_Datasheet_Link" "https://www.infineon.com/dgdl/irlb8721pbf.pdf?fileId=5546d462533600a40153566056732591"
-			(at 62.23 27.94 0)
+		(property "DK_Datasheet_Link" "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
+			(at 44.45 40.64 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -1067,8 +970,8 @@
 				(hide yes)
 			)
 		)
-		(property "DK_Detail_Page" "/product-detail/en/infineon-technologies/IRLB8721PBF/IRLB8721PBF-ND/2127670"
-			(at 62.23 25.4 0)
+		(property "DK_Detail_Page" "/product-detail/en/jst-sales-america-inc/B4B-PH-K-S(LF)(SN)/455-1706-ND/926613"
+			(at 41.91 40.64 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -1077,8 +980,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "MOSFET N-CH 30V 62A TO-220AB"
-			(at 62.23 22.86 0)
+		(property "Description_1" "CONN HEADER VERT 4POS 2MM"
+			(at 39.37 40.64 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -1087,8 +990,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Infineon Technologies"
-			(at 62.23 20.32 0)
+		(property "Manufacturer" "JST Sales America Inc."
+			(at 36.83 40.64 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -1098,7 +1001,7 @@
 			)
 		)
 		(property "Status" "Active"
-			(at 62.23 17.78 0)
+			(at 34.29 40.64 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -1107,19 +1010,22 @@
 				(hide yes)
 			)
 		)
+		(pin "3"
+			(uuid "0b70cb01-be41-499c-a305-6dc1a2e0941d")
+		)
 		(pin "2"
-			(uuid "ab950b16-8ab1-437e-95ba-f27084a49041")
+			(uuid "153b2259-09c0-4f6f-bb5c-0af83f5e6224")
 		)
 		(pin "1"
-			(uuid "95b15a36-cf1b-4667-96e8-a145afde7fb6")
+			(uuid "9031a816-33f6-4650-b395-615794695e8e")
 		)
-		(pin "3"
-			(uuid "c74925de-4c0a-4fa7-a65e-c10b1ffbd611")
+		(pin "4"
+			(uuid "f4eba48a-8ca9-408a-8e1e-848b3bbfcbcf")
 		)
 		(instances
 			(project ""
 				(path "/ec51de40-29d4-4d77-b10b-52a3fd594a69"
-					(reference "Q1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
