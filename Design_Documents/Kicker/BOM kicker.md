@@ -38,7 +38,7 @@
 | ------ | ---------------------------- | ----- | 
 | Capacitor  |  | |    
 | Diod  |  | |   
-| Transformer  |  | |   
+| DA2034-ALD  | 98,56  | |   
 
 ### Reasons for Capacitor
 The capacitor is needed to provide hight voltage to the solenoid so that it can kick the golfball.  
