@@ -15,6 +15,7 @@
 ## IC  (Capacitor charger Controller)
 
 | Name   | Price                        | Max V |  Website  |
+| ------ | --------------------------------- | ----- | ------------------------------------------------------------------------------------- | 
 | LT3750 | 149 kr (digikey), 75 kr (farnell) | 3-24V |  https://www.digikey.se/en/products/detail/analog-devices-inc/LT3750AEMS-PBF/14683705 |
 
 ### Reasons for LT3750: 
