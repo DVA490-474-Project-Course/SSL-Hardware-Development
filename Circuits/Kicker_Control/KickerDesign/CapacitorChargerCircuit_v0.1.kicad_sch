@@ -2205,7 +2205,7 @@
 	)
 	(text_box "To set the target output voltage: \nV_OUT=(N*1.24V*RV_OUT/RGB)-V_DIODE"
 		(exclude_from_sim no)
-		(at 62.23 127 0)
+		(at 29.21 111.76 0)
 		(size 41.91 7.62)
 		(stroke
 			(width 0)
