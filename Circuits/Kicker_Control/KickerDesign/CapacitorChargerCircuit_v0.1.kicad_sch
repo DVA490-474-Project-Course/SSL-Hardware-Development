@@ -1464,12 +1464,6 @@
 		(uuid "4511cff7-9aaa-4968-b7b0-8e9ed3af3038")
 	)
 	(junction
-		(at 137.16 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "45306fb9-f848-4b56-9077-68affbc4056b")
-	)
-	(junction
 		(at 189.23 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1528,6 +1522,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a599af55-2413-42c5-b6e9-d83550d540fc")
+	)
+	(junction
+		(at 125.73 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a9db3c82-2999-4f54-8310-d2fca0bff128")
 	)
 	(junction
 		(at 236.22 120.65)
@@ -1618,6 +1618,16 @@
 			(type default)
 		)
 		(uuid "0d8de0b7-f82e-483b-8df2-19285e1ccff5")
+	)
+	(wire
+		(pts
+			(xy 125.73 62.23) (xy 151.13 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14265056-76c3-4dd6-b2ed-66e888cd8ee9")
 	)
 	(wire
 		(pts
@@ -2001,16 +2011,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 62.23) (xy 151.13 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "815ba70e-6584-43d0-afce-a87ff83d30a7")
-	)
-	(wire
-		(pts
 			(xy 165.1 90.17) (xy 189.23 90.17)
 		)
 		(stroke
@@ -2081,6 +2081,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 87.63) (xy 137.16 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bf29f40-a088-4a76-a33b-f47b29932395")
+	)
+	(wire
+		(pts
 			(xy 101.6 90.17) (xy 105.41 90.17)
 		)
 		(stroke
@@ -2111,7 +2121,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 87.63) (xy 137.16 62.23)
+			(xy 125.73 87.63) (xy 125.73 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2381,7 +2391,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 62.23) (xy 137.16 62.23)
+			(xy 113.03 62.23) (xy 125.73 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2441,7 +2451,7 @@
 	)
 	(text_box "To set the target output voltage: \nV_OUT=(N*1.24V*RV_OUT/RGB)-V_DIODE"
 		(exclude_from_sim no)
-		(at 62.23 127 0)
+		(at 39.37 127 0)
 		(size 41.91 7.62)
 		(stroke
 			(width 0)
