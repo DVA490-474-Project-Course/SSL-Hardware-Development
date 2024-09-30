@@ -4,6 +4,7 @@
 # Backup files
 *~
 *.zip
+*#
 
 # Autosave files
 _autosave-*
