@@ -1514,7 +1514,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 88.9) (xy 149.86 90.17)
+			(xy 149.86 86.36) (xy 149.86 90.17)
 		)
 		(stroke
 			(width 0)
@@ -1554,7 +1554,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 74.93) (xy 149.86 81.28)
+			(xy 149.86 74.93) (xy 149.86 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1604,7 +1604,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 83.82) (xy 182.88 90.17)
+			(xy 182.88 82.55) (xy 182.88 90.17)
 		)
 		(stroke
 			(width 0)
@@ -1734,7 +1734,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 74.93) (xy 182.88 81.28)
+			(xy 182.88 74.93) (xy 182.88 80.01)
 		)
 		(stroke
 			(width 0)
@@ -1761,6 +1761,25 @@
 			(type default)
 		)
 		(uuid "fc5b3a87-ae83-483f-8aec-033880aaeeaf")
+	)
+	(text_box "Right now this circuit is designed for 100V. \nThe solenoid can handle 44V for 8 sec."
+		(exclude_from_sim no)
+		(at 40.64 137.16 0)
+		(size 77.47 43.18)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "4c6d862e-1efa-44a9-a593-d5f1bbd3f6ce")
 	)
 	(global_label "On_signal{slash}Off_signal"
 		(shape input)
@@ -2052,7 +2071,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 149.86 85.09 270)
+		(at 149.86 82.55 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2061,7 +2080,7 @@
 		(fields_autoplaced yes)
 		(uuid "4bcb2af7-badf-40ea-bbea-9a75206b0b26")
 		(property "Reference" "D1"
-			(at 152.4 83.8199 90)
+			(at 152.4 81.2799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2070,7 +2089,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 152.4 86.3599 90)
+			(at 152.4 83.8199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2079,7 +2098,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 145.415 85.09 0)
+			(at 145.415 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2088,7 +2107,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 149.86 85.09 0)
+			(at 149.86 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2097,7 +2116,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 149.86 85.09 0)
+			(at 149.86 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2106,7 +2125,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 149.86 85.09 0)
+			(at 149.86 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2115,7 +2134,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 149.86 85.09 0)
+			(at 149.86 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2496,7 +2515,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 187.96 81.28 0)
+		(at 187.96 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2505,7 +2524,7 @@
 		(fields_autoplaced yes)
 		(uuid "b80b3187-12b5-45ef-9a11-a63b9ab0629f")
 		(property "Reference" "J1"
-			(at 190.5 81.2799 0)
+			(at 190.5 80.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2514,7 +2533,7 @@
 			)
 		)
 		(property "Value" "Solenoid"
-			(at 190.5 83.8199 0)
+			(at 190.5 82.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2523,7 +2542,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 81.28 0)
+			(at 187.96 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2532,7 +2551,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 187.96 81.28 0)
+			(at 187.96 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2541,7 +2560,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 187.96 81.28 0)
+			(at 187.96 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
