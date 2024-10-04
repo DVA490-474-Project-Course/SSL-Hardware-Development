@@ -39,7 +39,8 @@
   - The mass of the golf ball: 0.046kg
   - v=6.5m/s
   - stroke length 0.02m
-
+  - 100V
+    
   ## Kinetic Energy: 
   $$E_k = \frac{1}{2} m v^2 = 1.66 J$$
   ## Work:
