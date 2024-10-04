@@ -12,7 +12,7 @@
 - Minimize energy loss during charging and discharging. 
 
 ## Limitations
-- heat management
+- Heat management
 - Material selection 
 - Current rating
 - Mechanical wear
@@ -37,7 +37,7 @@
 
   ## Calculations
   -The mass of the golf ball: 0.046kg
-  -v=8.5m/s
+  -v=6.5m/s
   -stroke length 0.02m
 
   ## Kinetic Energy: 
@@ -49,4 +49,8 @@
   ## Power Required: 
   $$ P=V \cdot I $$
 
-  -DSOL-1151-24C can work 
+  ## Capacitor Calculations: 
+  $$E = \frac{1}{2} 0.046 \cdot 6.5^2 = 0.951 J$$
+  $$E = \frac{1}{2} C V^2 J$$
+  $$C = \frac{2 \cdot E}{V^2} = 190.2uF J$$
+
