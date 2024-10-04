@@ -36,9 +36,9 @@
 | RFC Cambridge 2016| SOTUH032051.                        |.                |.           |.    |
 
   ## Calculations
-  -The mass of the golf ball: 0.046kg
-  -v=6.5m/s
-  -stroke length 0.02m
+  - The mass of the golf ball: 0.046kg
+  - v=6.5m/s
+  - stroke length 0.02m
 
   ## Kinetic Energy: 
   $$E_k = \frac{1}{2} m v^2 = 1.66 J$$
