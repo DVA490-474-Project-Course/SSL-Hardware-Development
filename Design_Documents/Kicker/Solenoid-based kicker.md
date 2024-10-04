@@ -52,5 +52,5 @@
   ## Capacitor Calculations: 
   - $$E = \frac{1}{2} 0.046 \cdot 6.5^2 = 0.951 J$$
   - $$E = \frac{1}{2} C V^2 J$$
-  - $$C = \frac{2 \cdot E}{V^2} = 190.2uF J$$
+  - $$C = \frac{2 \cdot E}{V^2} = 190.2uF $$
 
