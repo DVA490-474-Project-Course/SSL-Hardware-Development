@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "STSPIN32F0")(type "KiCad")(uri "/home/pontus/Downloads/ul_STSPIN32F0/KiCADv6/2024-10-06_21-12-04.kicad_sym")(options "")(descr ""))
+  (lib (name "SQS178ELNW-T1-GE3")(type "KiCad")(uri "/home/pontus/Downloads/ul_SQS178ELNW-T1-GE3/KiCADv6/2024-10-06_21-39-46.kicad_sym")(options "")(descr ""))
+)
