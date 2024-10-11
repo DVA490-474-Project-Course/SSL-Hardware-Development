@@ -1,0 +1,130 @@
+\documentclass[a4paper,12pt]{article}
+
+% Packages for formatting
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{lipsum}
+\geometry{margin=1in}
+\usepackage{booktabs} % For better table formatting
+\usepackage[table]{xcolor} % For color
+\usepackage{graphicx} % For including images, if necessary
+\usepackage{tabularx} % For including images, if necessary
+\usepackage{longtable}
+\usepackage{amsmath} % For mathematical symbols, if needed
+
+% Custom command for better table spacing
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+
+\title{Bill of Materials (BOM) Explanation}
+\author{ Pontus Svensson / RoboCup }
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section*{Introduction}
+This document provides an explanation of the Bill of Materials (BOM) we want to use in the project. Each component listed in the BOM is described in detail, including its purpose and other relevant specifications. 
+
+\section*{Component Overview}
+The table below outlines the components used in this project along with their purpose and additional information.
+\begin{centering}
+\begin{longtable}{|p{3cm}|p{3cm}|p{3cm}|p{1cm}|p{2cm}| }
+        \caption{Component Descriptions for the Project} \label{tab:component_bom} \\
+        \hline
+        \rowcolor{gray!50}
+        \textbf{Component} & \textbf{Description} & \textbf{Purpose} & \textbf{\#} & \textbf{á price (price per robot) SEK}\\
+        \endhead
+        \hline
+
+        \rowcolor{gray!50}
+        \textbf{Total price for 1 robot} & \textbf{8398.47}
+        \endlastfoot
+        \hline
+
+        DF45L024048-A & Brushless direct current (BLDC) motor with integrated hall sensors for the wheels & Used to spin the wheels of the robot. & 4 & 830.4 (3273.60)\\
+        \hline
+        Hobbywing FPV XRotor 3110 900KV & Brushelss DC motor & High revolutions per minute (RPM) motor used to control the dribbler. & 1 & 175.20 (175.20) \\
+        \hline
+        B-G431B-ESC1 & BLDC motor driver & Motor driver with embedded $\mu\text{Controller}$ current sensing and hall sensing to form a closed-loop control algorithm & 5 & 208.96 (1044.8) \\
+        \hline
+        NUCLEO-H723ZG & $\mu\text{Controller}$ & Computational power and real-time processing capabilities, supports $\mu\text{ROS}$ & 1 & 322.58 (322.58) \\
+        \hline
+        Raspberry Pi 4 Model B/8GB & Single-board computer & Processing camera input and performing local path planning & 1 & 979 (979) \\
+        \hline
+        SX1280IMLTRT & Radio frequency (RF) transceiver & Used to transmit data over 2.4Ghz network & 1 & 75.44 (75.44) \\
+        \hline
+        SKY66122-11 & Integrated front-end-moduel (FEM) & Simplified integration with the RF circuit & 1 & 40.48 (40.48) \\
+        \hline
+        6s 1300mAh -120C - GNB HV XT60 & LiPo-battery & Used to power the robot & 1 & 351.20 (351.20) \\
+        \hline
+        LT3750 & Charging controller for the capacitors of the kicker & Charge controller for the kicker circuit & 1 & 146.93 (146.93)\\
+        \hline
+        iC-PX2604 + PX01S 26-30 & Wheel encoders & Will be used for odometry of the robot & 4 & 224.40 (897.60) \\
+        \hline
+        WSEN-ISDS 6 Axis IMU & 6-DoF IMU & Well be used for odometry of the robot & 10 & N/A\\
+        \hline
+        Raspberry Pi Kameramodul 3 & Camera & Provide images in front of the robot to detect the ball and obstacles & 1 & 369 (369) \\
+        \hline
+        IR Break Beam Sensor - 5mm LEDs & Infrared (IR) sensor & Used to detect if the ball is close to the robot & 1 & 99 (99) \\
+        \hline
+        JST 6B-PH-K-S & Connector & Hall sensor connector from the motor & 4 & 3.85 (15.4) \\
+        \hline
+        JST B5P-VH & Connector & Motor connector & 4 & 4.06 (16.24) \\
+        \hline
+        Connectors & Passive component & Supplied by Würth & N/A & N/A \\
+        \hline
+        Shaft hub with clamping bracket 4mm & Coupler & Couple the wheels with the motor shaft & 4 & 139 (556) \\
+        \hline
+        Bearings & Bearings & Make the roller spin (dribbler) & 2 & 18 (36)\\
+        \hline
+        Resistors & Passive component & Supplied by Würth or 326 & N/A & N/A \\
+        \hline
+        Capacitors & Passive component & Supplied by Würth or 326 & N/A & N/A \\
+        \hline
+        Voltage regulators & DC/DC buck converters & Supplied by Würth & N/A & N/A \\
+        \hline
+        Solenoid & Solenoid & Supplied by MDU & 1 & N/A \\
+        \hline
+        PCB & Printed circuit board (PCB) & The students will supply any custom PCB designed & 2 & N/A\\
+        \hline
+
+\end{longtable}
+\end{centering}
+
+\section*{Reason for component choice}
+
+\subsection*{DF45L024048-A}
+The BLDC motor has a high torque at low speeds and can reach high revs per minute (RPM). This is necessary to ensure fast acceleration at low speeds. In order to have precise control of the motors, positional feedback of the magnets position and the phase current can be used to form a closed-loop PID system. The $\mu\text{Controller}$ would only need to send the desired velocity to the ESC and the closed-loop control will make sure the desired speed is met.
+On the contrary, using a BLDC motor without sensor feedback, additional components would be required, for example external hall sensors and external current sensing iCs. This would add complexity and introduce integration issues.
+We also have to take the size of the motor into account. Having to large footprint on the motors would cause the kicker (solenoid) to not fit in the chassi. Sensored BLDC motors are mainly used for RC cars, where positional accuracy is required for low speeds and they have a larger footprint and cheaper alternatives compared to the DF45L024048-A did not exist. 
+
+\subsection*{Hobbywing FPV XRotor 3110 900KV}
+The requirements for the dribbler motor is that it can reach high RPM (around $10\:000\text{ RPM}$). Positional accuracy for the dribbler motor does not have to be as precise compared with the motor for the wheels. Since we have current feedback for each phase we can calculate the RPM of the motor.
+
+\subsection*{B-G431B-ESC1}
+The chosen electronics speed controller (ESC) has an STSPIN32F0A system in package chip which has an integrated STM32 with hall sensor decoding logic aswell as current sensing capabilities. This makes this ESC a good fit with the DF45L024048-A BLDC motor. The PID system can be run on this chip for each motor offloading computational loads from the $\mu\text{Controller}$ making this a really efficient ESC for the price.
+
+\subsection*{NUCLEO-H723ZG}
+The NUCLEO-H723ZG $\mu\text{Controller}$ is chosen because of its high computational abilities which is based of the STM32H7237G chip. The $\mu\text{Controller}$ will be required to collect the data from the sensors, perform calculations with the data, send the data to the team server.
+
+\subsection*{Raspberry Pi 4 Model B/8GB}
+\subsection*{SX1280IMLTRT + SKY66122-11}
+\subsection*{iC-PX2604 + PX01S 26-30}
+\subsection*{WSEN-ISDS 6 Axis IMU}
+\subsection*{Raspberry Pi Kameramodul 3}
+\subsection*{IR Break Beam Sensor - 5mm LEDs}
+\subsection*{Connectors}
+\subsection*{Shaft hub with clamping bracket 4mm}
+\subsection*{Bearings}
+\subsection*{Resistors}
+\subsection*{Capacitors}
+\subsection*{Voltage regulators}
+\subsection*{Solenoid}
+\subsection*{PCB}
+\section*{Conclusion}
+This document serves as a reference for understanding the role of each component in the project. For any further technical details, please refer to the respective datasheets provided by the manufacturers.
+
+\end{document}
