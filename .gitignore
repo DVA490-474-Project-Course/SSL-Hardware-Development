@@ -40,3 +40,9 @@ _autosave-*
 
 # Cache files
 *.kicad
+
+# Latex
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
