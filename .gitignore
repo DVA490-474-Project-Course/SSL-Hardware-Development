@@ -32,11 +32,14 @@ _autosave-*
 
 # Intermediate plot files
 *.ps
-*.pdf
-*.svg
-*.png
 *.eps
 *.drl
 
 # Cache files
 *.kicad
+
+# Latex
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
