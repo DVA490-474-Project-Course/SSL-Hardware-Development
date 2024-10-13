@@ -147,7 +147,10 @@
   makes this ESC a good fit with the DF45L024048-A BLDC motor.
 
   % STSPIN32F0A
-  The STSPIN32F0A chip is a common choice for controlling BLDC motors in the SSL competitions which has been proven to be reliable and succesful \cite{ryllExtendedTeamDescription}
+  The STSPIN32F0A chip is a common choice for controlling BLDC motors in
+  the SSL competitions which has been proven to be reliable and
+  succesful
+  \cite{ryllExtendedTeamDescription}\cite{abousaleh2024TeamDescription}
 
   % PID system
   A PID system can be implemented on the chip to allow for precise
@@ -170,18 +173,68 @@
   Software Development Kit which is a graphical programming environtment
   from ST.
 
-  % Micro-controller
-  \subsection*{NUCLEO-H723ZG}
+  \subsection*{NUCLEO-H723ZG Microcontroller}
 
-  The NUCLEO-H723ZG $\mu\text{Controller}$ is chosen because of its high
-  computational abilities which is based of the STM32H7237G chip. The
-  $\mu\text{Controller}$ will be required to collect the data from the
-  sensors, perform calculations with the data, send the data to the team
-  server.
+  The \textbf{NUCLEO-H723ZG} microcontroller was selected due to its
+  robust computational capabilities and versatile feature set, driven by
+  the \textbf{STM32H723ZGT6} chip. The STM32H723ZG features an ARM
+  Cortex-M7 core operating at up to 480 MHz, providing good processing
+  power for handling multiple real-time tasks required in our
+  application.
+
+  Additionally, the STM32 series is widely adopted in RoboCup
+  competitions, including the \textbf{Small Size League (SSL)} \cite{ryllExtendedTeamDescription}\cite{zhaoZJUNlictExtendedTeam}\cite{wuCompilationErrorTeam}.
+  This widespread use underscores its reliability and effectiveness in
+  competititions.
+
+  To manage the various tasks and ensure smooth operation of our robot,
+  we will implement a control architecture using \textbf{micro-ROS} in
+  combination with \textbf{FreeRTOS} on the NUCLEO-H723ZG.
+
+  \textbf{FreeRTOS} is a real-time operating system that provides task
+  scheduling and resource management. Implementing FreeRTOS on the
+  NUCLEO-H723ZG allows us to handle multiple concurrent tasks
+  efficiently, such as sensor data processing, motor control, and
+  communication with other system components.
+
+  This also aligns with the collaboration with Universidad de Antioquia,
+  since they will use FreeRTOS to program the ESP32-S3.
+
+  The NUCLEO-H723ZG serves as the central processing unit, coordinating
+  various subsystems through the following workflow:
+
+  \begin{enumerate}
+  \item
+    \textbf{Sensor Data Acquisition:} The microcontroller collects data
+    from the IMU, wheel encoders, and IR break beam sensors. FreeRTOS
+    manages these tasks to ensure timely and efficient data processing.
+
+  \item
+    \textbf{Data Processing and Control:} The STM32H723ZG processes the
+    sensor data and executes control algorithms to manage the motors via
+    the \textbf{B-G431B-ESC1}.
+
+  \item
+    \textbf{Communication Handling:} micro-ROS facilitates communication
+    with the Raspberry Pi and team server, allowing for data
+    transmission and reception of control commands.
+
+  \item
+    \textbf{Actuator Control:} Based on the processed data, the
+    microcontroller sends commands to actuators such as the dribbler.
+  \end{enumerate}
 
   \subsection*{Raspberry Pi 4 Model B/8GB}
 
+  It is important to accurately detect the ball and other robots in a
+  timely manner, therefore we have decided to use a camera which image
+  input will be processed by the Raspberry Pi 4. The Raspberry pi has
+  been extensively used in the SSL competitions for this purpose
+  \cite{ommerExtendedTeamDescription}\cite{satoGreenTea2024Team}
+
   \subsection*{SX1280IMLTRT + SKY66122-11}
+
+  To obtain a reliable connection to the team server, we have opted to use the SX1280IMLTRT RF transceiver with the SKY66122-11 front-end-module.  
 
   \subsection*{iC-PX2604 + PX01S 26-30}
 
