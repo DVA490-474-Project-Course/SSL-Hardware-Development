@@ -43,3 +43,6 @@ _autosave-*
 *.fdb_latexmk
 *.fls
 *.synctex.gz
+*.fls
+*.bbl
+*.blg
