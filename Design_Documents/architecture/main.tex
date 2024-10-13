@@ -4,6 +4,7 @@
 \usepackage{geometry}
 \usepackage{array}
 \usepackage{lipsum}
+\usepackage{cite}
 \geometry{margin=1in}
 \usepackage{booktabs}
 % For better table formatting
@@ -71,7 +72,7 @@
       of the kicker & Charge controller for the kicker circuit & 1 &
       146.93 (146.93)\\ \hline iC-PX2604 + PX01S 26-30 & Wheel encoders
       & Will be used for odometry of the robot & 4 & 224.40 (897.60) \\
-      \hline WSEN-ISDS 6 Axis IMU & 6-DoF IMU & Well be used for
+      \hline WSEN-ISDS 6 Axis IMU & 6-DoF IMU & Will be used for
       odometry of the robot & 10 & N/A\\ \hline Raspberry Pi Kameramodul
       3 & Camera & Provide images in front of the robot to detect the
       ball and obstacles & 1 & 369 (369) \\ \hline IR Break Beam Sensor
@@ -96,99 +97,122 @@
 
   \section*{Reason for component choice}
 
-  \subsection*{DF45L024048-A} The BLDC motor has a high torque at low
-  speeds and can reach high revs per minute (RPM). This is necessary to
-  ensure fast acceleration at low speeds. In order to have precise
-  control of the motors, positional feedback of the magnets position and
-  the phase current can be used to form a closed-loop PID system. The
-  $\mu\text{Controller}$ would only need to send the desired velocity to
-  the ESC and the closed-loop control will make sure the desired speed
-  is met. On the contrary, using a BLDC motor without sensor feedback,
-  additional components would be required, for example external hall
-  sensors and external current sensing iCs. This would add complexity
-  and introduce integration issues. We also have to take the size of the
-  motor into account. Having to large footprint on the motors would
-  cause the kicker (solenoid) to not fit in the chassi. Sensored BLDC
-  motors are mainly used for RC cars, where positional accuracy is
-  required for low speeds and they have a larger footprint and cheaper
-  alternatives compared to the DF45L024048-A did not exist.
+  \subsection*{DF45L024048-A} % SSL robot motor characteristic
+  During competition a SSL-robot is most of the time accelerating
+  \cite{francaRob^oCInSmallSize}. Having a motor which can provide
+  sufficient torque at any given speed is crucial.
 
-  \subsection*{Hobbywing FPV XRotor 3110 900KV} The requirements for the
-  dribbler motor is that it can reach high RPM (around $10\:000\text{
-    RPM}$). Positional accuracy for the dribbler motor does not have to
-  be as precise compared with the motor for the wheels. Since we have
-  current feedback for each phase we can calculate the RPM of the motor.
+  % DF45L024048-A introduction
+  The DF45L024048-A BLDC motors provides a good tradeoff between torque
+  and RPM, with integrated hall sensors. The sensors detect the position
+  of the rotor relative to the stator which gives the ability to control
+  the motors using commutation. The motor controller uses the signals
+  from the hall sensors to determine the exact timing for switching the
+  current in the stator windings. This gives a smooth motor operation
+  while maximizing torque output.
 
-  \subsection*{B-G431B-ESC1} The chosen electronics speed controller
-  (ESC) has an STSPIN32F0A system in package chip which has an
-  integrated STM32 with hall sensor decoding logic and current sensing
-  capabilities. This makes this ESC a good fit with the DF45L024048-A
-  BLDC motor. The PID system can be run on this chip for each motor
-  offloading computational loads from the $\mu\text{Controller}$ and
-  allow for precise movement and rapid acceleration which is critical to
-  make quick directions changes and dribbling. The hall sensor feedback
-  support enables accurate rotor position allowing for good torque
-  control at low speeds. The size and weight of the ESC does also have
-  to be taken in consideration, the B-G431B-ESC1 has a small footprint
-  with a relatively low weight $286\text{g}$. With all the components
-  integrated on one board it will make the assembly process easier and
-  reduce any external components e.g. current sensing or hall sensing.
-  The programming for the integrated STM32 is done using STM32 Motor
-  Control Software Development Kit which is a graphical programming
-  environtment from ST.
-  \begin{longtable}{|p{3cm}|p{6cm}|p{6cm}|}
-    \caption{Pros and Cons of the B-G431B-ESC1 Motor Driver in the Robot
-      Setup} \\ \hline \textbf{Category} & \textbf{Pros} & \textbf{Cons
-    } \\ \hline \endfirsthead
+  % Other considerations
+  We also have to take the size of the motor into account. Having to
+  large footprint on the motors would cause the kicker (solenoid) to not
+  fit in the chassi. Using a general 5010 sensorless drone motor could
+  be used as demonstrated by \cite{veeraghanta2024TeamDescription} but
+  this motor would require a more sophisticated ESC which would take a
+  lot of time to develop and manufacture.
 
-    \multicolumn{3}{c}{{\tablename\ \thetable{} -- continued from
-        previous page}} \\ \hline \textbf{Category} & \textbf{Pros} &
-    \textbf{Cons} \\ \hline \endhead
+  % Provide sources for my claims
+  Using hall sensors is a common method utilized by several teams and
+  proven to be a winning concept \cite{ryllExtendedTeamDescription}\cite{abiyevNEUIslandersTeamDescription}\cite{wuCompilationErrorTeam}\cite{francaRob^oCInSmallSize}.
 
-    \hline \multicolumn{3}{|r|}{{Continued on next page}} \\ \hline
-    \endfoot
+  % Dribbler
+  \subsection*{Hobbywing FPV XRotor 3110 900KV}
 
-    \hline \endlastfoot
+  % Dribbler requirements
+  The requirements for the dribbler motor is that it can reach high RPM
+  (around $10\:000\text{ RPM}$).
 
-    \textbf{Integration and Control} & - Integrated microcontroller for
-    closed-loop control. \newline - Built-in current sensing and Hall
-    sensor feedback for precise, closed-loop control. \newline - Smooth
-    low-speed operation ideal for motor control. & - Requires
-    familiarity with STM32CubeIDE for firmware development, but
-    extensive documentation and community support make learning
-    manageable. \\ \hline \textbf{Compatibility with Motors} & - Direct
-    support for Hall-effect sensors in BLDC motors, perfect for
-    \textbf{DF45L024048-A} motors. \newline - Capable of handling
-    high-speed applications, like the dribbler motor (\textbf{Hobbywing
-      FPV XRotor 3110}). & - Limited to one motor per ESC, but its
-    compact size allows for easy integration of multiple units in the
-    robot. \\ \hline \textbf{Power Handling} & - Supports up to 48V,
-    making it fully compatible with the \textbf{6s 1300mAh} LiPo
-    battery. \newline & - Potential heat buildup under heavy loads, but
-    simple heat sinks or airflow can mitigate this for sustained
-    performance. \\ \hline \textbf{Size and Integration} & - Compact
-    design simplifies installation in space-constrained robots. \newline
-    - Reduces the need for additional wiring and external controllers,
-    leading to cleaner and more reliable assembly. & - Using multiple
-    ESCs requires careful layout, but it results in a modular design
-  \end{longtable}
+  % Motor driver
+  \subsection*{B-G431B-ESC1}
 
-  \subsection*{NUCLEO-H723ZG} The NUCLEO-H723ZG $\mu\text{Controller}$
-  is chosen because of its high computational abilities which is based
-  of the STM32H7237G chip. The $\mu\text{Controller}$ will be required
-  to collect the data from the sensors, perform calculations with the
-  data, send the data to the team server.
+  % Sensorless controller hiccups
+  A sensorless controller requires that the BLDC motor produce a
+  measurable back electromotive force (EMF) so the controller can
+  determine the position of the rotor and therefore cannot provide
+  smooth commutation at start up and low speeds.
+  \cite{roweInstrumentationControlHigh2012}
 
-  \subsection*{Raspberry Pi 4 Model B/8GB} \subsection*{SX1280IMLTRT +
-    SKY66122-11} \subsection*{iC-PX2604 + PX01S 26-30}
-  \subsection*{WSEN-ISDS 6 Axis IMU} \subsection*{Raspberry Pi
-    Kameramodul 3} \subsection*{IR Break Beam Sensor - 5mm LEDs}
-  \subsection*{Connectors} \subsection*{Shaft hub with clamping bracket
-    4mm} \subsection*{Bearings} \subsection*{Resistors}
-  \subsection*{Capacitors} \subsection*{Voltage regulators}
-  \subsection*{Solenoid} \subsection*{PCB} \section*{Conclusion} This
-  document serves as a reference for understanding the role of each
+  % Introduction to B-G431B-ESC1
+  The chosen electronics speed controller (ESC) has an STSPIN32F0A
+  system in package chip which has an integrated STM32 processor with
+  hall sensor decoding logic and current sensing capabilities. This
+  makes this ESC a good fit with the DF45L024048-A BLDC motor.
+
+  % STSPIN32F0A
+  The STSPIN32F0A chip is a common choice for controlling BLDC motors in the SSL competitions which has been proven to be reliable and succesful \cite{ryllExtendedTeamDescription}
+
+  % PID system
+  A PID system can be implemented on the chip to allow for precise
+  movement and rapid acceleration which is critical to make fast
+  directions changes.
+
+  % Implementation plan of the PID
+  The B-G431B-ESC1 will receive a desired velocity, to use this with in
+  a PID system the RPM of each motor is required. The RPM will be
+  retrieved by measuring the number of pulses from the hall sensors and
+  calculate the time between them.
+
+  % Size and weight
+  The size and weight of the ESC does also have to be taken in
+  consideration, the B-G431B-ESC1 has a small footprint with a
+  relatively low weight $286\text{g}$. With all the components
+  integrated on one board will make the assembly process easier and
+  reduce any external components e.g. hall sensing or mosfets. The
+  programming for the integrated STM32 is done using STM32 Motor Control
+  Software Development Kit which is a graphical programming environtment
+  from ST.
+
+  % Micro-controller
+  \subsection*{NUCLEO-H723ZG}
+
+  The NUCLEO-H723ZG $\mu\text{Controller}$ is chosen because of its high
+  computational abilities which is based of the STM32H7237G chip. The
+  $\mu\text{Controller}$ will be required to collect the data from the
+  sensors, perform calculations with the data, send the data to the team
+  server.
+
+  \subsection*{Raspberry Pi 4 Model B/8GB}
+
+  \subsection*{SX1280IMLTRT + SKY66122-11}
+
+  \subsection*{iC-PX2604 + PX01S 26-30}
+
+  \subsection*{WSEN-ISDS 6 Axis IMU}
+
+  \subsection*{Raspberry Pi Kameramodul 3}
+
+  \subsection*{IR Break Beam Sensor - 5mm LEDs}
+
+  \subsection*{Connectors}
+
+  \subsection*{Shaft hub with clamping bracket 4mm}
+
+  \subsection*{Bearings}
+
+  \subsection*{Resistors}
+
+  \subsection*{Capacitors}
+
+  \subsection*{Voltage regulators}
+
+  \subsection*{Solenoid}
+
+  \subsection*{PCB}
+
+  \section*{Conclusion}
+
+  This document serves as a reference for understanding the role of each
   component in the project. For any further technical details, please
   refer to the respective datasheets provided by the manufacturers.
 
+  \bibliographystyle{IEEEtran} \bibliography{DVA490_DVA474}
+  % Point to your .bib file (without the .bib extension)
 \end{document}
