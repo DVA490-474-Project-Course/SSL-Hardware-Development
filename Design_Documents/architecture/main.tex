@@ -2,6 +2,7 @@
 
 % Packages for formatting
 \usepackage{geometry}
+\usepackage{float}
 \usepackage{array}
 \usepackage{lipsum}
 \usepackage{cite}
@@ -128,7 +129,9 @@
 
   % Dribbler requirements
   The requirements for the dribbler motor is that it can reach high RPM
-  (around $10\:000\text{ RPM}$).
+  (around $10\:000\text{ RPM}$). No feedback is implemented for the
+  dribbler motor, due to the timeframe of the project we will not have
+  time to implement a control algorithm for the dribbler.
 
   % Motor driver
   \subsection*{B-G431B-ESC1}
@@ -208,6 +211,10 @@
   been extensively used in the SSL competitions for this purpose
   \cite{ommerExtendedTeamDescription}\cite{satoGreenTea2024Team}
 
+  The Raspberry Pi 4 was also chosen to be able to run the DWA path
+  planning algorithm, due to the timeframe of this project, implementing
+  DWA by ourself would require too much time.
+
   \subsection*{SX1280IMLTRT + SKY66122-11}
 
   To obtain a reliable connection to the team server, we have opted to
@@ -258,7 +265,7 @@
   Therefore we have chosen to use this clamp to ensure the coupling is
   secure.
 
-  \subsection*{Bearings}
+  \subsection*{Bearings} Bearings used for the roller.
 
   \subsection*{Resistors}
 
@@ -293,6 +300,17 @@
   transceiver, IMU and voltage regulators.
 
   \subsection*{Hardware Architecture}
+
+  Figure\Figure~\ref{fig:hardware_architecture} depicting the hardware
+  architecture of the proposed robot.
+
+  \begin{figure}[H]
+    \begin{center}
+      \includegraphics[width=0.95\textwidth]{Hardware_architecture.png}
+    \end{center}
+    \caption{Hardware Architecture}
+    \label{fig:hardware_architecture}
+  \end{figure}
 
   \subsection*{Hardware Interface}
 
