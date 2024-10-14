@@ -42,7 +42,7 @@
   - 100V
     
   ## Kinetic Energy: 
-  $$E_k = \frac{1}{2} m v^2 = 1.66 J$$
+  $$E_k = \frac{1}{2} m v^2 $$
   ## Work:
   $$W = F \cdot d = E_k$$
   ### Required force: 
