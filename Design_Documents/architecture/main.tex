@@ -175,12 +175,11 @@
 
   \subsection*{NUCLEO-H723ZG Microcontroller}
 
-  The \textbf{NUCLEO-H723ZG} microcontroller was selected due to its
-  robust computational capabilities and versatile feature set, driven by
-  the \textbf{STM32H723ZGT6} chip. The STM32H723ZG features an ARM
-  Cortex-M7 core operating at up to 480 MHz, providing good processing
-  power for handling multiple real-time tasks required in our
-  application.
+  The \text{NUCLEO-H723ZG} is a development board based on the
+  STM32H723ZG chip, it comes with all necessary peripheral communication
+  UART, SPI, I2C and CAN. The STM32H723ZG features an ARM Cortex-M7 core
+  operating at up to 480 MHz, providing good processing power for
+  handling multiple real-time tasks required in our application.
 
   Additionally, the STM32 series is widely adopted in RoboCup
   competitions, including the \textbf{Small Size League (SSL)} \cite{ryllExtendedTeamDescription}\cite{zhaoZJUNlictExtendedTeam}\cite{wuCompilationErrorTeam}.
@@ -200,30 +199,6 @@
   This also aligns with the collaboration with Universidad de Antioquia,
   since they will use FreeRTOS to program the ESP32-S3.
 
-  The NUCLEO-H723ZG serves as the central processing unit, coordinating
-  various subsystems through the following workflow:
-
-  \begin{enumerate}
-  \item
-    \textbf{Sensor Data Acquisition:} The microcontroller collects data
-    from the IMU, wheel encoders, and IR break beam sensors. FreeRTOS
-    manages these tasks to ensure timely and efficient data processing.
-
-  \item
-    \textbf{Data Processing and Control:} The STM32H723ZG processes the
-    sensor data and executes control algorithms to manage the motors via
-    the \textbf{B-G431B-ESC1}.
-
-  \item
-    \textbf{Communication Handling:} micro-ROS facilitates communication
-    with the Raspberry Pi and team server, allowing for data
-    transmission and reception of control commands.
-
-  \item
-    \textbf{Actuator Control:} Based on the processed data, the
-    microcontroller sends commands to actuators such as the dribbler.
-  \end{enumerate}
-
   \subsection*{Raspberry Pi 4 Model B/8GB}
 
   It is important to accurately detect the ball and other robots in a
@@ -234,31 +209,91 @@
 
   \subsection*{SX1280IMLTRT + SKY66122-11}
 
-  To obtain a reliable connection to the team server, we have opted to use the SX1280IMLTRT RF transceiver with the SKY66122-11 front-end-module.  
+  To obtain a reliable connection to the team server, we have opted to
+  use the SX1280IMLTRT RF transceiver with the SKY66122-11
+  front-end-module.
+
+  This implementation has been proven succesful by several teams \cite{ryllExtendedTeamDescription}\cite{barretoRoboIMEIgnitingInnovation}.
+  However, one drawback is that the components require a custom made
+  PCB. This will be solved by creating one mainboard with connectors to
+  our components, battery, motors, sensors and the NUCLEO-H723ZG. This
+  will enable a modular design where components can be swapped.
 
   \subsection*{iC-PX2604 + PX01S 26-30}
 
+  This wheel encoder comes as a complete module which will be easy to
+  integrate and in combination with the NUCLEO-H723ZG the resolution of
+  the encoder is increased. Since we also have a quotation at a
+  reasonable price we have chosen to use this encoder.
+
   \subsection*{WSEN-ISDS 6 Axis IMU}
+
+  Ther IMU we have chosen is supplied free of charge from Würth
+  electronics. It communicates using I2C or SPI which both are available
+  on the NUCLEO-H723ZG.
 
   \subsection*{Raspberry Pi Kameramodul 3}
 
+  The Raspberry Pi camera-module 3 is chosen because its seamless
+  integration with the Raspberry Pi 4.
+
   \subsection*{IR Break Beam Sensor - 5mm LEDs}
+
+  The IR Break Beam sensor will be connected using GPIO pins on the
+  NUCLEO-H723ZG with a pull-up resistor.
 
   \subsection*{Connectors}
 
+  Connectors for the main PCB board will be supplied by Würth
+  electronics.
+
   \subsection*{Shaft hub with clamping bracket 4mm}
+
+  From our research teams have noticed that if the coupling between the
+  motorshaft and wheels does not have a good fit, the shaft will start
+  to release tiny metal dust which will be collected by the hub of the
+  BLDC motor.
+
+  Therefore we have chosen to use this clamp to ensure the coupling is
+  secure.
 
   \subsection*{Bearings}
 
   \subsection*{Resistors}
 
+  Any Passive components required will be supplied by Würth electroncis
+  or if we can find it in 326.
+
   \subsection*{Capacitors}
+
+  Any Passive components required will be supplied by Würth electroncis
+  or if we can find it in 326.
 
   \subsection*{Voltage regulators}
 
+  The voltage regulators will be used to ensure our components reveice
+  the correct voltages, 3.3V, 5V, 12V will be integrated on the custom
+  PCB.
+
+  The voltage regulators was supplied by Würth electronics.
+
   \subsection*{Solenoid}
 
+  A custom made solenoid would be preferred, but due to time the
+  solenoid we will use is a generic solenoid for starting car engines.
+  Supplied by MDU.
+
   \subsection*{PCB}
+
+  As some of our components require a custom PCB, we will design two
+  PCBs. A mainboard and a kicker-board, the main board will host
+  connectors for the battery, motors, NUCLEO-H723ZG and pin headers for
+  powering the Raspberry Pi. The mainboard will also host the RF
+  transceiver, IMU and voltage regulators.
+
+  \subsection{Hardware Architecture}
+
+  \subsection{Hardware Interface}
 
   \section*{Conclusion}
 
