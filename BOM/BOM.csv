@@ -2,7 +2,7 @@ Part name,Quantity,Distributor ,Distributor Part Number,Manufacturer,Mfr Part nu
  DF45L024048-A –  Brushless DC motor ,4,https://www.nanotec.com/eu/en/products/1786-df45l024048-a,DF45L024048-A,,,818.4,3273.6,In stock,"BLDC motors for the wheels, compact size, light weight, contains hall sensors for encoder feedback
 Sensored ESC is required if these are used"
 Hobbywing FPV XRotor 3110 900KV ,1,https://www.elefun.se/p/prod.aspx?v=65193,65193,https://www.hobbywing.com/,HW30418005,175.2,175.2,In stock,BLDC motor for the dribbler
-B-G431B-ESC1 ,5,https://www.mouser.se/ProductDetail/511-B-G431B-ESC1,511-B-G431B-ESC1,https://www.mouser.se/manufacturer/stmicroelectronics/,B-G431B-ESC1 ,208.96,1044.8,,Datasheet
+B-G431B-ESC1 ,5,https://www.mouser.se/ProductDetail/511-B-G431B-ESC1,511-B-G431B-ESC1,https://www.mouser.se/manufacturer/stmicroelectronics/,B-G431B-ESC1 ,208.96,1044.8,In stock ,Datasheet
 Turnigy Plush-32 30A (2~4S) Brushless Speed Controller w/BEC (Rev1.1.0),4,https://hobbyking.com/en_us/turnigy-plush-32-30a-2-4s-brushless-speed-controller-w-bec-rev1-1-0.html,9351000124-0,,,154.81,619.23,In stock,Electronics Speed Controller
 Raspberry Pi 4 Model B/8GB ,1,https://www.electrokit.com/raspberry-pi-4-model-b/8gb,41017664 - Raspberry Pi,https://www.raspberrypi.com/,,979,979,In stock,Can be substituted with Raspberry Pi 4 Model B/4GB
 NUCLEO-H723ZG,1,https://www.mouser.se/ProductDetail/511-NUCLEO-H723ZG,511-NUCLEO-H723ZG ,https://www.mouser.se/manufacturer/stmicroelectronics/,NUCLEO-H723ZG,322.58,322.58,In stock,"If we do not develop our own pcb this microcontroller can be used instead of the ESP32 microcontroll-
