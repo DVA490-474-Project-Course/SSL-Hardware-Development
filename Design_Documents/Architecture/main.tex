@@ -1,4 +1,4 @@
-\documentclass[a4paper,4pt]{article}
+\documentclass[a4paper,8pt]{article}
 
 % Packages for formatting
 \usepackage{geometry}
@@ -8,27 +8,15 @@
 \usepackage{cite}
 \geometry{margin=1in}
 \usepackage{booktabs}
-% For better table formatting
 \usepackage[table]{xcolor}
-% For color
 \usepackage{graphicx}
-% For including images, if necessary
 \usepackage{tabularx}
-% For including images, if necessary
 \usepackage{longtable}
 \usepackage{amsmath}
-% For mathematical symbols, if needed
-% Add hyperref for clickable links in the TOC
-\usepackage[colorlinks=true, linkcolor=blue, urlcolor=blue,
-  citecolor=blue]{hyperref}
-
-% For the table of contents
+\usepackage{caption}
+\captionsetup{font=normalsize} % This will fix captions being resized
+\usepackage[colorlinks=true, linkcolor=blue, urlcolor=blue, citecolor=blue]{hyperref}
 \usepackage{tocloft}
-% Optional, for styling TOC if needed
-% Custom command for better table spacing
-\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
-\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
-\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
 
 \title{Bill of Materials (BOM) Explanation}
 \author{ Pontus Svensson / RoboCup }
@@ -54,65 +42,40 @@
   The table below outlines the components used in this project along
   with their purpose and additional information.
   \begin{center}
-    \begin{longtable}{|p{3cm}|p{3cm}|p{3cm}|p{1cm}|p{2cm}| }
+    \begin{longtable}{|p{3cm}|p{3cm}|p{3cm}|p{1cm}|p{3cm}| }
       \caption{Component Descriptions for the Project}
-      \label{tab:component_bom}
-      \\ \hline \rowcolor{gray!50} \textbf{Component} &
-      \textbf{Description} & \textbf{Purpose} & \textbf{\#} & \textbf{á
-        price (price per robot) SEK}\\ \endhead \hline
+      \\ \hline \rowcolor{gray!50} \textbf{Component} & \textbf{Description} & \textbf{Purpose} & \textbf{\#} & \textbf{á price (price per robot) SEK}\\ \endhead \hline
 
-      \rowcolor{gray!50} \textbf{Total price for 1 robot} &
-      \textbf{8440.9} \endlastfoot \hline
+      \rowcolor{gray!50} \textbf{Total price for 1 robot} & \textbf{8440.9} \endlastfoot \hline
 
-      DF45L024048-A & Brushless direct current (BLDC) motor with
-      integrated hall sensors for the wheels & Used to spin the wheels
-      of the robot. & 4 & 830.4 (3273.60)\\ \hline Hobbywing FPV XRotor
-      3110 900KV & Brushelss DC motor & High revolutions per minute
-      (RPM) motor used to control the dribbler. & 1 & 175.20 (175.20) \\
-      \hline B-G431B-ESC1 & BLDC motor driver & Motor driver with
-      embedded $\mu\text{Controller}$ current sensing and hall sensing
-      to form a closed-loop control algorithm & 5 & 208.96 (1044.8) \\
-      \hline NUCLEO-H723ZG & $\mu\text{Controller}$ & Computational
-      power and real-time processing capabilities, supports
-      $\mu\text{ROS}$ & 1 & 322.58 (322.58) \\ \hline Raspberry Pi 4
-      Model B/8GB & Single-board computer & Processing camera input and
-      performing local path planning & 1 & 979 (979) \\ \hline
-      SX1280IMLTRT & Radio frequency (RF) transceiver & Used to transmit
-      data over 2.4Ghz network & 1 & 75.44 (75.44) \\ \hline SKY66122-11
-      & Integrated front-end-moduel (FEM) & Simplified integration with
-      the RF circuit & 1 & 40.48 (40.48) \\ \hline 6s 1300mAh -120C -
-      GNB HV XT60 & LiPo-battery & Used to power the robot & 1 & 351.20
-      (351.20) \\ \hline LT3750 & Charging controller for the capacitors
-      of the kicker & Charge controller for the kicker circuit & 1 &
-      146.93 (146.93)\\ \hline iC-PX2604 + PX01S 26-30 & Wheel encoders
-      & Will be used for odometry of the robot & 4 & 224.40 (897.60) \\
-      \hline WSEN-ISDS 6 Axis IMU & 6-DoF IMU & Will be used for
-      odometry of the robot & 10 & N/A\\ \hline Raspberry Pi
-      Camera-module 3 & Camera & Provide images in front of the robot to
-      detect the ball and obstacles & 1 & 369 (369) \\ \hline IR Break
-      Beam Sensor - 5mm LEDs & Infrared (IR) sensor & Used to detect if
-      the ball is close to the robot & 1 & 99 (99) \\ \hline JST
-      6B-PH-K-S & Connector & Hall sensor connector from the motor & 4 &
-      3.85 (15.4) \\ \hline JST B5P-VH & Connector & Motor connector & 4
-      & 4.06 (16.24) \\ \hline Connectors & Passive component & Supplied
-      by Würth & N/A & N/A \\ \hline Shaft hub with clamping bracket 4mm
-      & Coupler & Couple the wheels with the motor shaft & 4 & 139 (556)
-      \\ \hline Bearings & Bearings & Make the roller spin (dribbler) &
-      2 & 18 (36)\\ \hline Resistors & Passive component & Supplied by
-      Würth or 326 & N/A & N/A \\ \hline Capacitors & Passive component
-      & Supplied by Würth or 326 & N/A & N/A \\ \hline Voltage
-      regulators & DC/DC buck converters & Supplied by Würth & N/A & N/A
-      \\ \hline Solenoid & Solenoid & Supplied by MDU & 1 & N/A \\
-      \hline PCB & Printed circuit board (PCB) & The students will
-      supply any custom PCB designed & 2 & N/A\\ \hline
+      DF45L024048-A & Brushless direct current (BLDC) motor with integrated hall sensors for the wheels & Used to spin the wheels of the robot. & 4 & 830.4 (3273.60)\\ \hline 
+      Hobbywing FPV XRotor 3110 900KV & Brushelss DC motor & High revolutions per minute (RPM) motor used to control the dribbler. & 1 & 175.20 (175.20) \\ \hline 
+      B-G431B-ESC1 & BLDC motor driver & Motor driver with embedded $\mu\text{Controller}$ current sensing and hall sensing to form a closed-loop control algorithm & 5 & 208.96 (1044.8) \\ \hline 
+      NUCLEO-H723ZG & $\mu\text{Controller}$ & Computational power and real-time processing capabilities, supports $\mu\text{ROS}$ & 1 & 322.58 (322.58) \\ \hline 
+      Raspberry Pi 4 Model B/8GB & Single-board computer & Processing camera input and performing local path planning & 1 & 979 (979) \\ \hline
+      SX1280IMLTRT & Radio frequency (RF) transceiver & Used to transmit data over 2.4Ghz network & 1 & 75.44 (75.44) \\ \hline 
+      SKY66122-11 & Integrated front-end-moduel (FEM) & Simplified integration with the RF circuit & 1 & 40.48 (40.48) \\ \hline 
+      6s 1300mAh -120C - GNB HV XT60 & LiPo-battery & Used to power the robot & 1 & 351.20 (351.20) \\ \hline 
+      LT3750 & Charging controller for the capacitors of the kicker & Charge controller for the kicker circuit & 1 & 146.93 (146.93)\\ \hline 
+      iC-PX2604 + PX01S 26-30 & Wheel encoders & Will be used for odometry of the robot & 4 & 224.40 (897.60) \\ \hline 
+      WSEN-ISDS 6 Axis IMU & 6-DoF IMU & Will be used for odometry of the robot & 10 & N/A\\ \hline 
+      Raspberry Pi Camera-module 3 & Camera & Provide images in front of the robot to detect the ball and obstacles & 1 & 369 (369) \\ \hline 
+      IR Break Beam Sensor - 5mm LEDs & Infrared (IR) sensor & Used to detect if the ball is close to the robot & 1 & 99 (99) \\ \hline 
+      JST 6B-PH-K-S & Connector & Hall sensor connector from the motor & 4 & 3.85 (15.4) \\ \hline 
+      JST B5P-VH & Connector & Motor connector & 4 & 4.06 (16.24) \\ \hline 
+      Connectors & Passive component & Supplied by Würth & N/A & N/A \\ \hline 
+      Shaft hub with clamping bracket 4mm & Coupler & Couple the wheels with the motor shaft & 4 & 139 (556) \\ \hline 
+      Bearings & Bearings & Make the roller spin (dribbler) & 2 & 18 (36)\\ \hline 
+      Resistors & Passive component & Supplied by Würth or 326 & N/A & N/A \\ \hline 
+      Capacitors & Passive component & Supplied by Würth or 326 & N/A & N/A \\ \hline 
+      Voltage regulators & DC/DC buck converters & Supplied by Würth & N/A & N/A \\ \hline 
+      Solenoid & Solenoid & Supplied by MDU & 1 & N/A \\ \hline 
+      PCB & Printed circuit board (PCB) & The students will supply any custom PCB designed & 2 & N/A\\ \hline
       LM74500\break-QDDFRQ1 & Reverse polarity protection & Used to
-      protect against wrong polarity connections & 1 & 16.45 (16.45) \\
-      \hline BUK9Y8R5-80EX & N-channel mosfet & Used with the
-      LM74500\break-QDDFRQ1 & 1 & 17.95 (17.95) \\ \hline SMBJ58A & TVS+
-      & ESD protection diode, used in reverse polarity circuit & 1 & 4.5
-      (4.5) \\ \hline SMBJ26A & TVS- & ESD protection diode, used in
-      reverse polairiy circuit & 1 & 3.53 (3.53) \\ \hline
-
+      protect against wrong polarity connections & 1 & 16.45 (16.45) \\ \hline 
+      BUK9Y8R5-80EX & N-channel mosfet & Used with the LM74500\break-QDDFRQ1 & 1 & 17.95 (17.95) \\ \hline 
+      SMBJ58A & TVS+ & ESD protection diode, used in reverse polarity circuit & 1 & 4.5 (4.5) \\ \hline 
+      SMBJ26A & TVS- & ESD protection diode, used in reverse polairiy circuit & 1 & 3.53 (3.53) \\ \hline
     \end{longtable}
   \end{center}
 
@@ -269,7 +232,7 @@
   electronics. It communicates using I2C or SPI which both are available
   on the NUCLEO-H723ZG.
 
-  \subsection{Raspberry Pi Kameramodul 3}
+  \subsection{Raspberry Pi Camera-module 3}
 
   The Raspberry Pi camera-module 3 is chosen because its seamless
   integration with the Raspberry Pi 4.
@@ -337,7 +300,7 @@
 
   \begin{figure}[H]
     \begin{center}
-      \includegraphics[width=0.95\textwidth]{Hardware_architecture.png}
+      \includegraphics[width=0.5\textwidth]{Hardware_architecture.png}
     \end{center}
     \caption{Hardware Architecture}
     \label{fig:hardware_architecture}
@@ -345,67 +308,44 @@
 
   \section{Hardware Interface}
 
-  \section{Appendix: Alternative BOM that has equal components to UdeA
+  \section{Alternative BOM that has equal components to UdeA
     Collaboration}
 
-  \begin{longtable}{|p{3cm}|p{3cm}|p{3cm}|p{1cm}|p{2cm}| }
-    \caption{Alternative BOM}
-    \label{tab:component_alt_bom}
-    \\ \hline \rowcolor{gray!50} \textbf{Component} &
-    \textbf{Description} & \textbf{Purpose} & \textbf{\#} & \textbf{á
-      price (price per robot) SEK}\\ \endhead \hline
+  \begin{small}
+    \begin{longtable}{|p{3cm}|p{3cm}|p{3cm}|p{1cm}|p{3cm}| }
+      \caption{Alternative BOM} \\ \hline 
+      \rowcolor{gray!50} \textbf{Component} & \textbf{Replaces} & \textbf{Purpose} & \textbf{\#} & \textbf{á price (price per robot) SEK}\\ \endhead \hline
 
-    \rowcolor{gray!50} \textbf{Total price for 1 robot} &
-    \textbf{8440.9} \endlastfoot \hline
+      \rowcolor{gray!50} \textbf{Total price for 1 robot} & \textbf{8440.9} \endlastfoot \hline
 
-    DF45L024048-A & Brushless direct current (BLDC) motor with
-    integrated hall sensors for the wheels & Used to spin the wheels of
-    the robot. & 4 & 830.4 (3273.60)\\ \hline Hobbywing FPV XRotor 3110
-    900KV & Brushelss DC motor & High revolutions per minute (RPM) motor
-    used to control the dribbler. & 1 & 175.20 (175.20) \\ \hline
-    B-G431B-ESC1 & BLDC motor driver & Motor driver with embedded
-    $\mu\text{Controller}$ current sensing and hall sensing to form a
-    closed-loop control algorithm & 5 & 208.96 (1044.8) \\ \hline
-    ESP32-S3-DevKitC-1-N32R8V & $\mu\text{Controller}$ & Chosen by UdeA
-    & 1 & 181.82 (181.82) \\ \hline Raspberry Pi 4 Model B/8GB &
-    Single-board computer & Processing camera input and performing local
-    path planning & 1 & 979 (979) \\ \hline SX1280IMLTRT & Radio
-    frequency (RF) transceiver & Used to transmit data over 2.4Ghz
-    network & 1 & 75.44 (75.44) \\ \hline SKY66122-11 & Integrated
-    front-end-moduel (FEM) & Simplified integration with the RF circuit
-    & 1 & 40.48 (40.48) \\ \hline 6s 1300mAh -120C - GNB HV XT60 &
-    LiPo-battery & Used to power the robot & 1 & 351.20 (351.20) \\
-    \hline LT3750 & Charging controller for the capacitors of the kicker
-    & Charge controller for the kicker circuit & 1 & 146.93 (146.93)\\
-    \hline iC-PX2604 + PX01S 26-30 & Wheel encoders & Will be used for
-    odometry of the robot & 4 & 224.40 (897.60) \\ \hline WSEN-ISDS 6
-    Axis IMU & 6-DoF IMU & Will be used for odometry of the robot & 10 &
-    N/A\\ \hline Raspberry Pi Kameramodul 3 & Camera & Provide images in
-    front of the robot to detect the ball and obstacles & 1 & 369 (369)
-    \\ \hline IR Break Beam Sensor - 5mm LEDs & Infrared (IR) sensor &
-    Used to detect if the ball is close to the robot & 1 & 99 (99) \\
-    \hline JST 6B-PH-K-S & Connector & Hall sensor connector from the
-    motor & 4 & 3.85 (15.4) \\ \hline JST B5P-VH & Connector & Motor
-    connector & 4 & 4.06 (16.24) \\ \hline Connectors & Passive
-    component & Supplied by Würth & N/A & N/A \\ \hline Shaft hub with
-    clamping bracket 4mm & Coupler & Couple the wheels with the motor
-    shaft & 4 & 139 (556) \\ \hline Bearings & Bearings & Make the
-    roller spin (dribbler) & 2 & 18 (36)\\ \hline Resistors & Passive
-    component & Supplied by Würth or 326 & N/A & N/A \\ \hline
-    Capacitors & Passive component & Supplied by Würth or 326 & N/A &
-    N/A \\ \hline Voltage regulators & DC/DC buck converters & Supplied
-    by Würth & N/A & N/A \\ \hline Solenoid & Solenoid & Supplied by MDU
-    & 1 & N/A \\ \hline PCB & Printed circuit board (PCB) & The students
-    will supply any custom PCB designed & 2 & N/A\\ \hline
-    LM74500\break-QDDFRQ1 & Reverse polarity protection & Used to
-    protect against wrong polarity connections & 1 & 16.45 (16.45) \\
-    \hline BUK9Y8R5-80EX & N-channel mosfet & Used with the
-    LM74500\break-QDDFRQ1 & 1 & 17.95 (17.95) \\ \hline SMBJ58A & TVS+ &
-    ESD protection diode, used in reverse polarity circuit & 1 & 4.5
-    (4.5) \\ \hline SMBJ26A & TVS- & ESD protection diode, used in
-    reverse polairiy circuit & 1 & 3.53 (3.53) \\ \hline
-
-  \end{longtable}
+      MN5208 Navigator Type UAV Multi-Motor KV340 & DF45L024048-A & BLDC motor & 4 & 1027.32 (4109.28)\\ \hline
+      Hobbywing FPV XRotor 3110 900KV & N/A & High revolutions per minute (RPM) motor used to control the dribbler. & 1 & 175.20 (175.20) \\ \hline 
+      B-G431B-ESC1 & N/A & Motor driver with embedded $\mu\text{Controller}$ current sensing and hall sensing to form a closed-loop control algorithm & 5 & 208.96 (1044.8)\\ \hline 
+      ESP32-S3-DevKitC-1-N32R8V & NUCLEO-H723ZG & Chosen by UdeA & 1 & 181.82 (181.82) \\ \hline 
+      Raspberry Pi 4 Model B/8GB & N/A & Processing camera input and performing local path planning & 1 & 979 (979) \\ \hline 
+      SX1280IMLTRT & N/A & Used to transmit data over 2.4Ghz network & 1 & 75.44 (75.44) \\ \hline 
+      SKY66122-11 & N/A & Simplified integration with the RF circuit & 1 & 40.48 (40.48) \\ \hline 
+      6s 1300mAh -120C - GNB HV XT60 & N/A & Used to power the robot & 1 & 351.20 (351.20) \\ \hline 
+      LT3750 & N/A & Charge controller for the kicker circuit & 1 & 146.93 (146.93)\\ \hline
+      AS5600-SO\_EK\_AB & iC-PX2604 + PX01S 26-30 & Will be used for odometry of the robot & 4 & 224.40 (897.60) \\ \hline 
+      WSEN-ISDS 6 Axis IMU & N/A & Will be used for odometry of the robot & 10 & N/A\\ \hline 
+      Raspberry Pi Kameramodul 3 & N/A & Provide images in front of the robot to detect the ball and obstacles & 1 & 369 (369) \\ \hline 
+      IR Break Beam Sensor - 5mm LEDs & N/A & Used to detect if the ball is close to the robot & 1 & 99 (99) \\ \hline 
+      Generic motor connectors & JST B5P-VH & Motor connector & 4 & 4.06 (16.24) \\ \hline
+      Connectors & Passive component & Supplied by Würth & N/A & N/A \\ \hline 
+      Shaft hub with clamping bracket 4mm & Coupler & Couple the wheels with the motor shaft & 4 & 139 (556) \\ \hline 
+      Bearings & Bearings & Make the roller spin (dribbler) & 2 & 18 (36)\\ \hline
+      Resistors & Passive component & Supplied by Würth or 326 & N/A & N/A \\ \hline 
+      Capacitors & Passive component & Supplied by Würth or 326 & N/A & N/A \\ \hline 
+      Voltage regulators & DC/DC buck converters & Supplied by Würth & N/A & N/A \\ \hline 
+      Solenoid & Solenoid & Supplied by MDU & 1 & N/A \\ \hline 
+      PCB & Printed circuit board (PCB) & The students will supply any custom PCB designed & 2 & N/A\\ \hline 
+      LM74500\break-QDDFRQ1 & Reverse polarity protection & Used to protect against wrong polarity connections & 1 & 16.45 (16.45) \\ \hline 
+      BUK9Y8R5-80EX & N-channel mosfet & Used with the LM74500\break-QDDFRQ1 & 1 & 17.95 (17.95) \\ \hline 
+      SMBJ58A & TVS+ & ESD protection diode, used in reverse polarity circuit & 1 & 4.5 (4.5) \\ \hline 
+      SMBJ26A & TVS- & ESD protection diode, used in reverse polairiy circuit & 1 & 3.53 (3.53) \\ \hline
+    \end{longtable}
+  \end{small}
 
   \section*{Conclusion}
 
@@ -413,6 +353,7 @@
   component in the project. For any further technical details, please
   refer to the respective datasheets provided by the manufacturers.
 
+  \newpage
   \bibliographystyle{IEEEtran} \bibliography{DVA490_DVA474}
   % Point to your .bib file (without the .bib extension)
 \end{document}
