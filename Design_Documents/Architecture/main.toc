@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Component Overview}{2}{section.2}%
+\contentsline {section}{\numberline {3}Reason for component choice}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}DF45L024048-A}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Hobbywing FPV XRotor 3110 900KV}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}B-G431B-ESC1}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}NUCLEO-H723ZG Microcontroller}{4}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Raspberry Pi 4 Model B/8GB}{5}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}SX1280IMLTRT + SKY66122-11}{5}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}iC-PX2604 + PX01S 26-30}{5}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}WSEN-ISDS 6 Axis IMU}{5}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Raspberry Pi Kameramodul 3}{5}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}IR Break Beam Sensor - 5mm LEDs}{5}{subsection.3.10}%
+\contentsline {subsection}{\numberline {3.11}Connectors}{5}{subsection.3.11}%
+\contentsline {subsection}{\numberline {3.12}Shaft hub with clamping bracket 4mm}{5}{subsection.3.12}%
+\contentsline {subsection}{\numberline {3.13}Bearings}{5}{subsection.3.13}%
+\contentsline {subsection}{\numberline {3.14}Resistors}{6}{subsection.3.14}%
+\contentsline {subsection}{\numberline {3.15}Capacitors}{6}{subsection.3.15}%
+\contentsline {subsection}{\numberline {3.16}Voltage regulators}{6}{subsection.3.16}%
+\contentsline {subsection}{\numberline {3.17}Solenoid}{6}{subsection.3.17}%
+\contentsline {subsection}{\numberline {3.18}PCB}{6}{subsection.3.18}%
+\contentsline {section}{\numberline {4}Hardware Architecture}{6}{section.4}%
+\contentsline {section}{\numberline {5}Hardware Interface}{7}{section.5}%
+\contentsline {section}{\numberline {6}Appendix: Alternative BOM that has equal components to UdeA Collaboration}{7}{section.6}%
