@@ -1,5 +1,5 @@
-Part name,Quantity,Distributor ,Distributor Part Number,Manufacturer,Mfr Part number,Á price,Estimated cost,Lead time,Notes
- DF45L024048-A –  Brushless DC motor ,4,https://www.nanotec.com/eu/en/products/1786-df45l024048-a,DF45L024048-A,,,818.4,3273.6,In stock,"BLDC motors for the wheels, compact size, light weight, contains hall sensors for encoder feedback
+Part name,Quantity,Distributor,Distributor Part Number,Manufacturer,Mfr Part number,Á price,Estimated cost,Lead time,Notes
+DF45L024048-A –  Brushless DC motor ,4,https://www.nanotec.com/eu/en/products/1786-df45l024048-a,DF45L024048-A,,,818.4,3273.6,In stock,"BLDC motors for the wheels, compact size, light weight, contains hall sensors for encoder feedback
 Sensored ESC is required if these are used"
 Hobbywing FPV XRotor 3110 900KV ,1,https://www.elefun.se/p/prod.aspx?v=65193,65193,https://www.hobbywing.com/,HW30418005,175.2,175.2,In stock,BLDC motor for the dribbler
 B-G431B-ESC1 ,5,https://www.mouser.se/ProductDetail/511-B-G431B-ESC1,511-B-G431B-ESC1,https://www.mouser.se/manufacturer/stmicroelectronics/,B-G431B-ESC1 ,208.96,1044.8,In stock ,Datasheet
@@ -8,7 +8,7 @@ NUCLEO-H723ZG,1,https://www.mouser.se/ProductDetail/511-NUCLEO-H723ZG,511-NUCLEO
 Er, ADC, communication, supports micro ros"
 SX1280IMLTRT,1,https://www.mouser.se/ProductDetail/Semtech/SX1280IMLTRT?qs=5aG0NVq1C4xuoq8G6ZzdxQ%3D%3D,947-SX1280IMLTRT ,https://www.mouser.se/manufacturer/semtech/,SX1280IMLTRT,75.44,75.44,In stock,RF Transceiver Long range 2.4 GHz Wireless Transceiver 
 SKY66122-11 ,1,https://www.mouser.se/ProductDetail/Skyworks-Solutions-Inc/SKY66122-11?qs=stqOd1AaK7%2F9zH4JdBCX2A%3D%3D,873-SKY66122-11 ,https://www.mouser.se/manufacturer/skyworks-solutions/,SKY66122-11,40.48,40.48,In stock,"RF Front End OFDM, 863 to 928 MHz, Wi-SUN, FEM"
- 6s 1300mAh -120C - GNB HV XT60 ,1,https://www.elefun.se/p/prod.aspx?v=63197,63197,http://www.gaonengbattery.com/,GNB13006S120AHV,351.2,351.2,In stock,Battery
+6s 1300mAh -120C - GNB HV XT60 ,1,https://www.elefun.se/p/prod.aspx?v=63197,63197,http://www.gaonengbattery.com/,GNB13006S120AHV,351.2,351.2,In stock,Battery
 "LT3750
 ",1,https://www.digikey.se/en/products/detail/analog-devices-inc/LT3750AEMS-PBF/14683705,LT3750AEMS#PBF ,https://www.digikey.se/sv/supplier-centers/analog-devices,LT3750EMS#TRPBF,146.93,146.93,In stock,"Capacitor charging controller for kicker
 Charges Any Size Capacitor      
@@ -37,6 +37,6 @@ LM74500QDDFRQ1 ,1,https://www.mouser.se/ProductDetail/Texas-Instruments/LM74500Q
 BUK9Y8R5-80EX ,1,https://www.mouser.se/ProductDetail/Nexperia/BUK9Y8R5-80EX?qs=5XOdhvmYM0NT76c8T6Twdw%3D%3D,771-BUK9Y8R5-80EX,https://www.mouser.se/manufacturer/nexperia/,BUK9Y8R5-80EX,17.94,17.94,In stock,Mosfet used with the reverse polarity protection component
 SMBJ58A,1,https://www.mouser.se/ProductDetail/Littelfuse/SMBJ58A?qs=zHiv0nsVGmrLotr%2Fg53Djg%3D%3D,576-SMBJ58A,https://www.mouser.se/manufacturer/littelfuse/,SMBJ58A,4.5,4.5,In stock,TVS+ diode for 24V reverse protection circuit
 SMBJ26A,1,https://www.mouser.se/ProductDetail/Bourns/SMBJ26A?qs=%252Bf8Cd6aE5bzyuNXx4QjGJA%3D%3D,652-SMBJ26A,https://www.mouser.se/manufacturer/bourns/,SMBJ26A,3.53,3.53,In stock,TVS- diode for 24V reverse protection circuit
-Bearings iglidur® M250 1x3x2mm,100,https://www.igusab.se/iglidur-ibh/sleeve-bearings/product-details/iglidur-m250-m?artnr=MSM-0103-02#quantity=100&dimensions=d1%3A1-d2%3A3,MSM-0103-02,https://www.igusab.se/,MSM-0103-02,3.34,334,in stock,Price dependent on the amount you buy
-O-ring 3.5x1.2mm NBR70,100,https://webbshop.teknikprodukter.se/o-ring-3-5x1-2-nbr70-210562334n70,210563282N70,,,2.8,280,in stock,Price dependent on the amount you buy
+Bearings with flange iglidur® M250,100,https://www.igusab.se/iglidur-ibh/flanged-bearings/product-details/iglidur-m250-m?artnr=MFM-0103-02#quantity=100&dimensions=d1%3A1-d2%3A3,MFM-0103-02,https://www.igusab.se/,MFM-0103-02,3.34,334,in stock,Price dependent on the amount you buy
+X-RING 3.63X2.62/NBR70,100,https://webbshop.teknikprodukter.se/x-ring-3-63x2-62-nbr70-2111395n70,2111395N70,,,6.2,620,in stock,Price dependent on the amount you buy
 Wheel hub 4mm,4,https://www.electrokit.com/axelnav-med-klamfaste-4mm,41020172,https://www.gobilda.com/,1309-0016-0004,139,556,in stock,
