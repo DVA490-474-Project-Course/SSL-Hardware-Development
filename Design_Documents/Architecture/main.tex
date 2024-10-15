@@ -25,7 +25,8 @@
 \begin{document}
 
   \maketitle
-
+  
+  \newpage
   \tableofcontents
 
   \newpage
@@ -46,14 +47,14 @@
       \caption{Component Descriptions for the Project}
       \\ \hline \rowcolor{gray!50} \textbf{Component} & \textbf{Description} & \textbf{Purpose} & \textbf{\#} & \textbf{á price (price per robot) SEK}\\ \endhead \hline
 
-      \rowcolor{gray!50} \textbf{Total price for 1 robot} & \textbf{8440.9} \endlastfoot \hline
+      \rowcolor{gray!50} \textbf{Total price for 1 robot} & \textbf{10457.69} \endlastfoot \hline
 
       DF45L024048-A & Brushless direct current (BLDC) motor with integrated hall sensors for the wheels & Used to spin the wheels of the robot. & 4 & 830.4 (3273.60)\\ \hline 
       Hobbywing FPV XRotor 3110 900KV & Brushelss DC motor & High revolutions per minute (RPM) motor used to control the dribbler. & 1 & 175.20 (175.20) \\ \hline 
       B-G431B-ESC1 & BLDC motor driver & Motor driver with embedded $\mu\text{Controller}$ current sensing and hall sensing to form a closed-loop control algorithm & 5 & 208.96 (1044.8) \\ \hline 
       NUCLEO-H723ZG & $\mu\text{Controller}$ & Computational power and real-time processing capabilities, supports $\mu\text{ROS}$ & 1 & 322.58 (322.58) \\ \hline 
       Raspberry Pi 4 Model B/8GB & Single-board computer & Processing camera input and performing local path planning & 1 & 979 (979) \\ \hline
-      TOF400C-VL53L1 & Lidar & Chose by UdeA for obstacle detection & 2 & 176.32 (176.32) \\ \hline
+      TOF400C-VL53L1 & Lidar & Chosen by UdeA for obstacle detection & 2 & 176.32 (176.32) \\ \hline
       VL6180 TOF & Lidar & Chosen by UdeA for obstacle detection & 1 & 39.62 (39.62) \\ \hline
       SX1280IMLTRT & Radio frequency (RF) transceiver & Used to transmit data over 2.4Ghz network & 1 & 75.44 (75.44) \\ \hline 
       SKY66122-11 & Integrated front-end-moduel (FEM) & Simplified integration with the RF circuit & 1 & 40.48 (40.48) \\ \hline 
@@ -78,6 +79,14 @@
       BUK9Y8R5-80EX & N-channel mosfet & Used with the LM74500\break-QDDFRQ1 & 1 & 17.95 (17.95) \\ \hline 
       SMBJ58A & TVS+ & ESD protection diode, used in reverse polarity circuit & 1 & 4.5 (4.5) \\ \hline 
       SMBJ26A & TVS- & ESD protection diode, used in reverse polairiy circuit & 1 & 3.53 (3.53) \\ \hline
+      M3 16mm galvanized steel countersunk screw, 100 pack & Mounting screws & Screws for robot chassi & 1 & 21.6 (21.6) \\ \hline
+      M3 galvanized steel locking washers, 200 pack & Washers & Chassi assembly & 1 & 69.7 (69.7) \\ \hline
+      M3 steel locking washers, 200 pack & Locking washers & Chassi assembly & 1 & 83.3 (83.3) \\ \hline
+      M3 stainless steel nut, 100 pack & Screw nut & Chassi assembly & 1 & 21.85 (21.85) \\ \hline
+      M3 threaded inserts 3mm, 50 pack & Threades inserts & Chassi assembly & 1 & 95 (95) \\ \hline
+      Bearings with flange iglidur® M250 & Bearings for miniwheels & Wheel assembly & 100 & 3.34 (334) \\ \hline
+      X-RING 3.63X2.62/NBR70 & Fasten the miniwheels & Wheel assembly & 100 & 6.2 (620) \\ \hline
+      Wheel hub 4mm & Fasten wheels to motor & Wheel assembly & 4 & 139 (556) \\ \hline
     \end{longtable}
   \end{center}
 
@@ -106,9 +115,9 @@
   be used as demonstrated by \cite{veeraghanta2024TeamDescription} but
   this motor would require a more sophisticated ESC which would take a
   lot of time to develop and manufacture. The problem with searching for
-  5010 drone motors is that they are most websites does not show the
+  5010 drone motors is that most websites does not show the
   full torque graph, they primarly show the torque when the motor is
-  already spinning at $40\%$ and above. Therefore finding a 5010 drone
+  already spinning at $40\%$ throttle and above. Therefore finding a 5010 drone
   motor with adequate torque at low speeds is deceptively difficult.
 
   % Provide sources for my claims
@@ -116,17 +125,14 @@
   proven to be a winning concept \cite{ryllExtendedTeamDescription}\cite{abiyevNEUIslandersTeamDescription}\cite{wuCompilationErrorTeam}\cite{francaRob^oCInSmallSize}.
 
   % Dribbler
-
   \subsection{Hobbywing FPV XRotor 3110 900KV}
 
   % Dribbler requirements
   The requirements for the dribbler motor is that it can reach high RPM
   (around $10\:000\text{ RPM}$). No feedback is implemented for the
-  dribbler motor, due to the timeframe of the project we will not have
-  time to implement a control algorithm for the dribbler.
+  dribbler motor, due to the timeframe of the project we will not implement a control algorithm for the dribbler.
 
   % Motor driver
-
   \subsection{B-G431B-ESC1}
 
   % Sensorless controller hiccups
@@ -146,7 +152,7 @@
   The STSPIN32F0A chip is a common choice for controlling BLDC motors in
   the SSL competitions which has been proven to be reliable and
   succesful
-  \cite{ryllExtendedTeamDescription}\cite{abousaleh2024TeamDescription}
+  \cite{ryllExtendedTeamDescription}\cite{abousaleh2024TeamDescription}.
 
   % PID system
   A PID system can be implemented on the chip to allow for precise
@@ -154,7 +160,7 @@
   directions changes.
 
   % Implementation plan of the PID
-  The B-G431B-ESC1 will receive a desired velocity, to use this with in
+  The B-G431B-ESC1 will receive a desired velocity, to use this within
   a PID system the RPM of each motor is required. The RPM will be
   retrieved by measuring the number of pulses from the hall sensors and
   calculate the time between them or by using the optical wheel
@@ -197,23 +203,25 @@
   efficiently, such as sensor data processing, motor control, and
   communication with other system components.
 
-  By using the STM32H723ZG chip we open the potential for future improvements without having to replace the hardware and potentially the need to program using another framework.
+  By using the STM32H723ZG chip we open the potential for future improvements without having to replace the hardware and potentially the need to re-program/port using another framework.
 
   \subsubsection{UdeA considerations}
 
-  The guys from UdeA will be programming on the ESP32-S3 with FreeRTOS as the framework. Their proposed method motor control is to use a AS5600 sensor for each motor to measure the RPM and using the ESP32-S3 to create a control-loop algorithm.
+  The guys from UdeA will be programming on the ESP32-S3 with FreeRTOS as their framework. Their proposed method for motor control is to use a AS5600 sensor for each motor to measure the RPM and using the ESP32-S3 to create a closed-loop control algorithm.
   
-  This will be a similar implementation as to our intended control-loop. We will use an optical wheel encoder to measure the RPM and for a closed control-loop.
+  This will be a similar implementation to our intended control-algorithm. We will use an optical wheel encoder to measure the RPM, and will be used as feedback to create a closed-loop PID algorithm.
 
-  From our perspective the programming that is required for this is similar to UdeAs and could be considered okay. We have gotten a really good quotation for optical encoders that we would like to use.
+  From our perspective the programming that is required for this is similar to UdeA. And thus we could still collaborate even though the microcontroller is different.
+
+  I have also not found any teams that have used the ESP32 as their main processor, and almost every team uses STM32 based controller or a Raspberry Pi compute module.
 
   \subsection{Raspberry Pi 4 Model B/8GB}
 
   It is important to accurately detect the ball and other robots in a
   timely manner, therefore we have decided to use a camera which image
   input will be processed by the Raspberry Pi 4. The Raspberry pi has
-  been extensively used in the SSL competitions for this purpose
-  \cite{ommerExtendedTeamDescription}\cite{satoGreenTea2024Team}.
+  been used in the SSL competitions for this purpose
+  \cite{ommerExtendedTeamDescription}\cite{satoGreenTea2024Team}. And thus a lot of information and open sourced firmware exist.
 
   The Raspberry Pi 4 was also chosen to be able to run the DWA path
   planning algorithm, due to the timeframe of this project, implementing
@@ -221,9 +229,9 @@
 
   \subsubsection{UdeA considerations}
 
-  UdeA has chosen two different components, TOF400C-VL53L1 and VL6180 TOF that is going to be used for obstacle detection and ball detection. Since we are going to run computationally intensive tasks on the Raspberry Pi replacing it would disrupt a lot of our planning between the software and hardware team.
+  UdeA has chosen two different components, TOF400C-VL53L1 and VL6180 TOF that is going to be used for obstacle detection and ball detection. Since we are going to run computationally intensive tasks on the Raspberry Pi, replacing it would disrupt a lot of our planning between the software and hardware team.
 
-  Our proposed idea is that we can add these components for extra input to allow us to collaborate when developing the software for these components. Since we both are going to use FreeRTOS and the pinout is the same for the lidar sensors we see this as something that can be done.
+  Our proposed idea is that we can add these components for extra input to allow us to collaborate when developing the software for these components. 
 
   \subsection{SX1280IMLTRT + SKY66122-11}
 
@@ -239,9 +247,11 @@
 
   \subsubsection{UdeA considerations}
 
-  I have not yet gotten it confirmed how UdeA has planned to communicate with the server laptop. But from my assumption they will use the WiFi card placed on the ESP32-S3. However this connection has proven to be unreliable from several teams during SSL competitions.
+  I have not yet gotten it confirmed how UdeA has planned to communicate with the server laptop. But from my assumption they will use the WiFi card placed on the ESP32-S3. 
 
-  Therefore we have opted for a different route that has been used by several teams and proven to be reliable.
+  Teams have acknowledged the difficulties with enabling a reliable connection to the team server, when using components like the nRF52 and Raspberry Pis. We have not found any teams that have used the ESP32 as their RF communication component.
+
+  Therefore we have opted for a different route that has been used by several teams and proven to be reliable. \cite{ryllExtendedTeamDescription2020}
 
   \subsection{iC-PX2604 + PX01S 26-30}
 
@@ -250,11 +260,13 @@
   the encoder is increased. Since we also have a quotation at a
   reasonable price we have chosen to use this encoder.
 
+  Optical wheel encoders is commonly used by teams competing in the SSL competitions.
+
   \subsubsection{UdeA considerations}
 
   UdeA has chosen to use the AS5600 magnetic encoder. This setup requires that a magnet is glued to the end of the shaft for every motor. This process also require that the magnet aligns properly and does not come loose during movement and vibrations, which we believe is unlikely. We have not gotten more information about how they intended to attach this sensor.
 
-  Therefore we would opt for using our optical wheel encoders instead since the integration is done with the wheel assembly and will attach using screws. Both sensor will be able to provide sensor values that can be used for RPM estimations and odometry.
+  Therefore we would opt for using our optical wheel encoders instead since the integration is done with the wheel assembly and will attach using screws, making the assembly streamlined. Both sensor will be able to provide sensor values that can be used for RPM estimations and odometry.
 
   \subsection{WSEN-ISDS 6 Axis IMU}
 
@@ -264,7 +276,7 @@
 
   \subsubsection{UdeA considerations}
 
-  UdeA has chosen to use two different 9-Dof IMU, however since we got our IMUs free of charge it is easier to just use those. The implementation of the sensors will be similar to some degree both our IMU and BNO055 IMU supports I2C as communication protocol.
+  UdeA has chosen to use two different 9-Dof IMUs, however since we got our IMUs free of charge it is smarter to just use those. The implementation of the sensors will be similar to some degree both our IMU and BNO055 IMU supports I2C as communication protocol.
 
   \subsection{Raspberry Pi Camera-module 3}
 
@@ -278,7 +290,7 @@
 
   \subsubsection{UdeA considerations}
 
-  UdeA has chosen to use GY-9960-3.3 APDS-9960 RGB sensor. They did not specify how this is going to be used or implemented during our meeting about their BOM. 
+  UdeA has chosen to use GY-9960-3.3 APDS-9960 RGB sensor. They did not specify how this is going to be used or implemented during our meeting about their BOM.
 
   \subsection{Connectors}
 
@@ -323,6 +335,10 @@
   solenoid we will use is a generic solenoid for starting car engines.
   Supplied by MDU.
 
+  \subsubsection{UTP considerations}
+
+  I would like to give UTP the task to develop a custom kicker that will fit inside our chassi. It would be preferred if the kicker could both kick and chip. However we need to know the size of our motors to let them know the available space for the solenoid in the robot.
+
   \subsection{PCB}
 
   As some of our components require a custom PCB, we will design two
@@ -344,14 +360,14 @@
     \label{fig:hardware_architecture}
   \end{figure}
 
-  \section{Hardware Interface}
+  % \section{Hardware Interface}
 
   \section{Alternative BOM that has equal components to UdeA
     Collaboration}
 
   \begin{small}
     \begin{longtable}{|p{3cm}|p{3cm}|p{3cm}|p{1cm}|p{3cm}| }
-      \caption{Alternative BOM} \\ \hline 
+      \caption{Alternative BOM that has equal components to UdeA} \\ \hline 
       \rowcolor{gray!50} \textbf{Component} & \textbf{Replaces} & \textbf{Purpose} & \textbf{\#} & \textbf{á price (price per robot) SEK}\\ \endhead \hline
 
       \rowcolor{gray!50} \textbf{Total price for 1 robot} & \textbf{8440.9} \endlastfoot \hline
@@ -385,7 +401,14 @@
       BUK9Y8R5-80EX & N-channel mosfet & Used with the LM74500\break-QDDFRQ1 & 1 & 17.95 (17.95) \\ \hline 
       SMBJ58A & TVS+ & ESD protection diode, used in reverse polarity circuit & 1 & 4.5 (4.5) \\ \hline 
       SMBJ26A & TVS- & ESD protection diode, used in reverse polairiy circuit & 1 & 3.53 (3.53) \\ \hline
-
+      M3 16mm galvanized steel countersunk screw, 100 pack & N/A & Chassi assembly & 1 & 21.6 (21.6) \\ \hline
+      M3 galvanized steel locking washers, 200 pack & Washers & Chassi assembly & 1 & 69.7 (69.7) \\ \hline
+      M3 steel locking washers, 200 pack & Locking washers & Chassi assembly & 1 & 83.3 (83.3) \\ \hline
+      M3 stainless steel nut, 100 pack & Screw nut & Chassi assembly & 1 & 21.85 (21.85) \\ \hline
+      M3 threaded inserts 3mm, 50 pack & Threades inserts & Chassi assembly & 1 & 95 (95) \\ \hline
+      Bearings with flange iglidur® M250 & Bearings for miniwheels & Wheel assembly & 100 & 3.34 (334) \\ \hline
+      X-RING 3.63X2.62/NBR70 & Fasten the miniwheels & Wheel assembly & 100 & 6.2 (620) \\ \hline
+      Wheel hub 4mm & Fasten wheels to motor & Wheel assembly & 4 & 139 (556) \\ \hline
     \end{longtable}
   \end{small}
   \subsubsection{MN5208}
@@ -448,13 +471,12 @@
 %
 % However this equation assumes the motor is running at \(100\%\) throttle and is therefore not the best indication of the torque at lower RPM.
 %
-  \section*{Conclusion}
+  % \section*{Conclusion}
+  %
+  % This document serves as a reference for understanding the role of each
+  % component in the project. For any further technical details, please
+  % refer to the respective datasheets provided by the manufacturers.
 
-  This document serves as a reference for understanding the role of each
-  component in the project. For any further technical details, please
-  refer to the respective datasheets provided by the manufacturers.
-
-  \newpage
   \bibliographystyle{IEEEtran} \bibliography{DVA490_DVA474}
   % Point to your .bib file (without the .bib extension)
 \end{document}
