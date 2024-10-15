@@ -1,32 +1,32 @@
-\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
-\contentsline {section}{\numberline {2}Component Overview}{2}{section.2}%
-\contentsline {section}{\numberline {3}Reason for component choice}{4}{section.3}%
-\contentsline {subsection}{\numberline {3.1}DF45L024048-A}{4}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Hobbywing FPV XRotor 3110 900KV}{4}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}B-G431B-ESC1}{4}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}UdeA considerations}{4}{subsubsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.4}NUCLEO-H723ZG Microcontroller}{4}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}UdeA considerations}{5}{subsubsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.5}Raspberry Pi 4 Model B/8GB}{5}{subsection.3.5}%
-\contentsline {subsubsection}{\numberline {3.5.1}UdeA considerations}{5}{subsubsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.6}SX1280IMLTRT + SKY66122-11}{5}{subsection.3.6}%
-\contentsline {subsubsection}{\numberline {3.6.1}UdeA considerations}{5}{subsubsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.7}iC-PX2604 + PX01S 26-30}{6}{subsection.3.7}%
-\contentsline {subsubsection}{\numberline {3.7.1}UdeA considerations}{6}{subsubsection.3.7.1}%
-\contentsline {subsection}{\numberline {3.8}WSEN-ISDS 6 Axis IMU}{6}{subsection.3.8}%
-\contentsline {subsubsection}{\numberline {3.8.1}UdeA considerations}{6}{subsubsection.3.8.1}%
-\contentsline {subsection}{\numberline {3.9}Raspberry Pi Camera-module 3}{6}{subsection.3.9}%
-\contentsline {subsection}{\numberline {3.10}IR Break Beam Sensor - 5mm LEDs}{6}{subsection.3.10}%
-\contentsline {subsubsection}{\numberline {3.10.1}UdeA considerations}{6}{subsubsection.3.10.1}%
-\contentsline {subsection}{\numberline {3.11}Connectors}{6}{subsection.3.11}%
-\contentsline {subsection}{\numberline {3.12}Shaft hub with clamping bracket 4mm}{6}{subsection.3.12}%
-\contentsline {subsection}{\numberline {3.13}Bearings}{6}{subsection.3.13}%
-\contentsline {subsection}{\numberline {3.14}Resistors}{6}{subsection.3.14}%
-\contentsline {subsection}{\numberline {3.15}Capacitors}{7}{subsection.3.15}%
-\contentsline {subsection}{\numberline {3.16}Voltage regulators}{7}{subsection.3.16}%
-\contentsline {subsection}{\numberline {3.17}Solenoid}{7}{subsection.3.17}%
-\contentsline {subsection}{\numberline {3.18}PCB}{7}{subsection.3.18}%
-\contentsline {section}{\numberline {4}Hardware Architecture}{7}{section.4}%
-\contentsline {section}{\numberline {5}Hardware Interface}{8}{section.5}%
-\contentsline {section}{\numberline {6}Alternative BOM that has equal components to UdeA Collaboration}{8}{section.6}%
-\contentsline {subsubsection}{\numberline {6.0.1}MN5208}{9}{subsubsection.6.0.1}%
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Component Overview}{3}{section.2}%
+\contentsline {section}{\numberline {3}Reason for component choice}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}DF45L024048-A}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Hobbywing FPV XRotor 3110 900KV}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}B-G431B-ESC1}{5}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}UdeA considerations}{6}{subsubsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.4}NUCLEO-H723ZG Microcontroller}{6}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}UdeA considerations}{6}{subsubsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.5}Raspberry Pi 4 Model B/8GB}{6}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}UdeA considerations}{6}{subsubsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.6}SX1280IMLTRT + SKY66122-11}{7}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1}UdeA considerations}{7}{subsubsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.7}iC-PX2604 + PX01S 26-30}{7}{subsection.3.7}%
+\contentsline {subsubsection}{\numberline {3.7.1}UdeA considerations}{7}{subsubsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.8}WSEN-ISDS 6 Axis IMU}{7}{subsection.3.8}%
+\contentsline {subsubsection}{\numberline {3.8.1}UdeA considerations}{7}{subsubsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.9}Raspberry Pi Camera-module 3}{7}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}IR Break Beam Sensor - 5mm LEDs}{7}{subsection.3.10}%
+\contentsline {subsubsection}{\numberline {3.10.1}UdeA considerations}{8}{subsubsection.3.10.1}%
+\contentsline {subsection}{\numberline {3.11}Connectors}{8}{subsection.3.11}%
+\contentsline {subsection}{\numberline {3.12}Shaft hub with clamping bracket 4mm}{8}{subsection.3.12}%
+\contentsline {subsection}{\numberline {3.13}Bearings}{8}{subsection.3.13}%
+\contentsline {subsection}{\numberline {3.14}Resistors}{8}{subsection.3.14}%
+\contentsline {subsection}{\numberline {3.15}Capacitors}{8}{subsection.3.15}%
+\contentsline {subsection}{\numberline {3.16}Voltage regulators}{8}{subsection.3.16}%
+\contentsline {subsection}{\numberline {3.17}Solenoid}{8}{subsection.3.17}%
+\contentsline {subsubsection}{\numberline {3.17.1}UTP considerations}{8}{subsubsection.3.17.1}%
+\contentsline {subsection}{\numberline {3.18}PCB}{8}{subsection.3.18}%
+\contentsline {section}{\numberline {4}Hardware Architecture}{8}{section.4}%
+\contentsline {section}{\numberline {5}Alternative BOM that has equal components to UdeA Collaboration}{9}{section.5}%
+\contentsline {subsubsection}{\numberline {5.0.1}MN5208}{11}{subsubsection.5.0.1}%
