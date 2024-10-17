@@ -256,7 +256,7 @@ colorlinks=true,linkcolor={black},citecolor={black},urlcolor={black}%
 
   I have not yet gotten it confirmed how UdeA has planned to communicate with the server laptop. But from my assumption they will use the WiFi card placed on the ESP32-S3. 
 
-  Teams have acknowledged the difficulties with enabling a reliable connection to the team server, when using components like the nRF52 and Raspberry Pis. We have not found any teams that have used the ESP32 as their RF communication component.
+  Teams have acknowledged the difficulties with enabling a reliable connection to the team server, when using components like the nRF52 and Raspberry Pis. Teams that did use the ESP32 for WiFi communication also faced a lot of problems \cite{bhatKgpKubs2020Team}.
 
   Therefore we have opted for a different route that has been used by several teams and proven to be reliable\cite{ryllExtendedTeamDescription}.
 
@@ -271,7 +271,7 @@ colorlinks=true,linkcolor={black},citecolor={black},urlcolor={black}%
 
   \subsubsection{UdeA considerations}
 
-  UdeA has chosen to use the AS5600 magnetic encoder. This setup requires that a magnet is glued to the end of the shaft for every motor. This process also require that the magnet aligns properly and does not come loose during movement and vibrations, which we believe is unlikely. We have not gotten more information about how they intended to attach this sensor.
+  UdeA has chosen to use the AS5600 magnetic encoder. This setup requires that a magnet is glued to the end of the shaft for every motor. This process also require that the magnet aligns properly and does not come loose during movement and vibrations. We have not gotten more information about how they intended to attach this sensor.
 
   Therefore we would opt for using our optical wheel encoders instead since the integration is done with the wheel assembly and will attach using screws, making the assembly streamlined. Both sensor will be able to provide sensor values that can be used for RPM estimations and odometry.
 
