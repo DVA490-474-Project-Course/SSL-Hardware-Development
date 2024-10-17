@@ -10,7 +10,7 @@ Hobbywing FPV XRotor 3110 900KV ,1,https://www.elefun.se/p/prod.aspx?v=65193,651
 PHR-6,8,https://www.elfa.se/sv/hylskontakthus-crimpanslutning-uttag-sockel-positioner-2mm-jst-phr/p/14301984?redirectQuery=PHR-6,143-01-984,https://www.elfa.se/sv/manufacturer/jst/man_jst,PHR-6,1.07,8.56,In stock,Hall sensor connector for the motor
 B6B-PH-K-S,10,https://www.elfa.se/sv/stiftlist-enradig-rak-6p-kontaktdon-anslutningsdon-positioner-2mm-jst-b6b-ph/p/14301948?itemList=compatible,143-01-948,https://www.elfa.se/sv/manufacturer/jst/man_jst,B6B-PH-K-S,5.43,54.3,In stock,Hall sensor connector for the motor
 VHR-5N,10,https://www.elfa.se/sv/crimp-kontakthus-uttag-sockel-positioner-96mm-jst-vhr-5n/p/30021738,300-21-738,https://www.elfa.se/sv/manufacturer/jst/man_jst,VHR-5N,2.22,22.2,In stock,Motor connectors
-Bearings with flange iglidur® M250,100,https://www.igusab.se/iglidur-ibh/flanged-bearings/product-details/iglidur-m250-m?artnr=MFM-0103-02#quantity=100&dimensions=d1%3A1-d2%3A3,MFM-0103-02,https://www.igusab.se/,MFM-0103-02,3.34,334,in stock,Price dependent on the amount you buy
+Bearings with flange iglidur® M250,200,https://www.igusab.se/iglidur-ibh/flanged-bearings/product-details/iglidur-m250-m?artnr=MFM-0103-02#quantity=100&dimensions=d1%3A1-d2%3A3,MFM-0103-02,https://www.igusab.se/,MFM-0103-02,3.34,334,in stock,Price dependent on the amount you buy
 X-RING 3.63X2.62/NBR70,100,https://webbshop.teknikprodukter.se/x-ring-3-63x2-62-nbr70-2111395n70,2111395N70,,,6.2,620,in stock,Price dependent on the amount you buy
 SEN0374,1,https://www.mouser.se/ProductDetail/DFRobot/SEN0374?qs=81r%252BiQLm7BRSXhV57X59YA%3D%3D,426-SEN0374,https://www.mouser.se/manufacturer/dfrobot/,SEN0374 ,191.48,191.48,4 left in stock,9Dof IMU
 Raspberry Pi RTC,1,https://www.mouser.se/ProductDetail/Seeed-Studio/103030277?qs=0lSvoLzn4L8soh3xbH07wQ%3D%3D,713-103030277,https://www.mouser.se/manufacturer/seeed-studio/,103030277,1,47.61,In stock,
@@ -26,11 +26,12 @@ Er, ADC, communication, supports micro ros"
 SX1280IMLTRT,1,https://www.mouser.se/ProductDetail/Semtech/SX1280IMLTRT?qs=5aG0NVq1C4xuoq8G6ZzdxQ%3D%3D,947-SX1280IMLTRT ,https://www.mouser.se/manufacturer/semtech/,SX1280IMLTRT,75.44,75.44,In stock,RF Transceiver Long range 2.4 GHz Wireless Transceiver 
 SKY66122-11 ,1,https://www.mouser.se/ProductDetail/Skyworks-Solutions-Inc/SKY66122-11?qs=stqOd1AaK7%2F9zH4JdBCX2A%3D%3D,873-SKY66122-11 ,https://www.mouser.se/manufacturer/skyworks-solutions/,SKY66122-11,40.48,40.48,In stock,"RF Front End OFDM, 863 to 928 MHz, Wi-SUN, FEM"
 B-G431B-ESC1 ,5,https://www.mouser.se/ProductDetail/511-B-G431B-ESC1,511-B-G431B-ESC1,https://www.mouser.se/manufacturer/stmicroelectronics/,B-G431B-ESC1 ,208.96,1044.8,In stock ,Datasheet
-Wheel hub 5mm,4,https://www.electrokit.com/axelnav-med-klamfaste-4mm,41020172,https://www.gobilda.com/,1309-0016-0004,139,556,in stock,
+Wheel hub 4mm,4,https://www.electrokit.com/axelnav-med-klamfaste-4mm,41020172,https://www.gobilda.com/,1309-0016-0004,139,556,in stock,
+"2-post pillow block, 32mm bore",4,https://eu.robotshop.com/products/servocity-1-side-2-post-pillow-block-32mm-bore_,RP-Sct-2151,https://www.servocity.com/,1602-0032,172.29,689.16,"On demand, 1 month delivery time","For extra support for the wheels, compatible with chosen hub."
 Raspberry Pi 4 Model B/8GB ,1,https://www.electrokit.com/raspberry-pi-4-model-b/8gb,41017664 - Raspberry Pi,https://www.raspberrypi.com/,,979,979,In stock,Can be substituted with Raspberry Pi 4 Model B/4GB
 Raspberry Pi Kameramodul 3,1,https://www.electrokit.com/raspberry-pi-kameramodul-3-12mp-75,41020240 - Raspberry Pi,https://www.raspberrypi.com/,,369,369,In stock,Needs to be ordered with Raspberry Pi 4 Model B/8GB or Raspberry Pi 4 Model B/4GB
 IR Break Beam Sensor - 5mm LEDs,1,https://www.electrokit.com/en/ir-barriar-sandare/mottagare-5mm,41015028,Adafruit,,99,99,In stock,Break beam to detect if a ball is close (within a few mm) to the dribbler.
-Bearings,4,https://www.electrokit.com/kullager-4mm,41019265,,,18,72,,Scavenge 326
+Bearings 5mm,6,https://www.electrokit.com/kullager-5mm,41019266,,,15,90,In stock,for dribbler assembly.
 "M3 threaded inserts 3mm, 50 pack",1,https://www.electrokit.com/ganginsats-m3-x-3mm-50-pack,41018554,,,95,95,In stock,
 APDS-9960,1,https://www.electrokit.com/apds-9960-rgb-och-rorelsesensor,41013512 – Sparkfun,https://www.sparkfun.com/,APDS-9960,199,199,In stock,"Chosen by UdeA, RGB sensor"
 TOF400C-VL53L1,1,https://www.amazon.com/Teyleten-Robot-TOF400C-VL53L1X-Distance/dp/B0CLDKMGZR,,https://www.mouser.se/manufacturer/stmicroelectronics/,VL53L1CBV0FY/1,176.32,176.32,In stock,"Chosen by UdeA, could not find from another seller"
