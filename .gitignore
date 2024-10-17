@@ -48,3 +48,7 @@ _autosave-*
 *.blg
 *.toc
 *.out
+
+
+# daff
+.gitattributes
