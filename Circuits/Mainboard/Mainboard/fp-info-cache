@@ -1,4 +1,4 @@
-23869553056429046
+23886708534723059
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,13 @@ audio belton reverb
 0
 7
 7
+B-G431B-ESC1
+STMicroelectronics-B-G431B-ESC1-MFG
+
+
+0
+0
+0
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -56692,6 +56699,27 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+FDSM 3.3V
+173010335
+173010335-1
+Power Supply
+0
+3
+3
+FDSM 5V
+173010542
+173010542
+Power Supply
+0
+3
+3
+FDSM 12V
+173011235
+173011235-1
+Power Supply
+0
+3
+3
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -67290,6 +67318,13 @@ Mounting 4.5mm 9774100982
 0
 8
 1
+NUCLEOH723ZG
+MODULE_NUCLEOH723ZG
+
+
+0
+248
+248
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
@@ -68529,6 +68564,13 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PSMN6R740MLDX
+PSMN6R740MLDX
+SOT1210_2022
+MOSFET (N-Channel)
+0
+11
+11
 Package_BGA
 Alliance_TFBGA-54_8x8mm_Layout9x9_P0.8mm
 Alliance TFBGA 54 pins, 8x8mm, 54 Ball, 9x9 Layout, 0.8mm Pitch, https://www.alliancememory.com/wp-content/uploads/pdf/dram/Alliance_Memory_64M-AS4C4M16SA-CI_v5.0_October_2018.pdf#page=54
@@ -88983,6 +89025,20 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SKY66122-11
+QFN50P400X400X100-25N-D
+QFN 4x4 Package Outline Drawing
+Integrated Circuit
+0
+25
+25
+SX1280IMLTRT
+QFN50P400X400X100-25N-D
+QFN 4x4 Package Outline Drawing
+Integrated Circuit
+0
+25
+25
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -96746,3 +96802,17 @@ Varistor VF
 0
 2
 2
+WSEN-ISDS
+2536030320001
+2536030320001-1
+Integrated Circuit
+0
+14
+14
+XT60PW-M
+CONN_XT60PW-M_AMA
+
+XT60PW-M 
+0
+4
+4
