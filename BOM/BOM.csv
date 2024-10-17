@@ -30,7 +30,7 @@ ECW-FD2J823KQ,3,https://www.mouser.se/ProductDetail/Panasonic/ECW-FD2J823KQ?qs=7
 CKG57NX7R2J474M500JH,3,https://www.mouser.se/ProductDetail/TDK/CKG57NX7R2J474M500JH?qs=NRhsANhppD%2BAmXDR5rVERg==&srsltid=AfmBOoq6Cuxbd6nyCQIY5tVuTNmRS7V2PxFLS3vDo-BHIQXRtagcsRo6,810-CKG57NX7R2J474M,https://www.mouser.se/manufacturer/tdk/,CKG57NX7R2J474M500JH,46,58,In stock ,Kicker circuit
 US1M,3,https://www.mouser.se/ProductDetail/Taiwan-Semiconductor/US1M?qs=tHU/lV7kTyQtvhnvJdnZJw==,821-US1M,https://www.mouser.se/manufacturer/taiwan-semiconductor/,US1M,3,11,In stock ,Kicker circuit
 FQB4N80TM,3,https://www.mouser.se/ProductDetail/onsemi-Fairchild/FQB4N80TM?qs=FOlmdCx%2BAA3dgdfgWff8ng==,512-FQB4N80TM,https://www.mouser.se/manufacturer/fairchild-semiconductor/,FQB4N80TM,25,7,In stock ,Kicker circuit
-LCQT-TSSOP20,1,https://www.mouser.se/ProductDetail/Aries-Electronics/LCQT-TSSOP20?qs=%2Bfs1VP4DyWlrsdP/9WqqKA==,535-LCQT-TSSOP20,https://www.mouser.se/manufacturer/aries/,LCQT-TSSOP20,76,48,In stock ,Kicker circuit
+IKB40N65ES5ATMA1,2,https://www.mouser.se/ProductDetail/Infineon-Technologies/IKB40N65ES5ATMA1?qs=MLItCLRbWsxz7jtfFbVz2w%3D%3D,726-IKB40N65ES5ATMA1,,IKB40N65ES5ATMA1 ,43.93,87.86,,Kicker Circuit
 195207-231,1,https://www.mouser.se/ProductDetail/Ledex/195207-231?qs=byeeYqUIh0N3hSxJ8HFfVg==,906-195207-231,https://www.mouser.se/manufacturer/ledex/,195207-231,426,19,In stock ,Kicker circuit
 Wheel hub 4mm,4,https://www.electrokit.com/axelnav-med-klamfaste-4mm,41020172,https://www.gobilda.com/,1309-0016-0004,139,556,in stock,Kicker circuit
 Raspberry Pi 4 Model B/8GB ,1,https://www.electrokit.com/raspberry-pi-4-model-b/8gb,41017664 - Raspberry Pi,https://www.raspberrypi.com/,,979,979,In stock,Can be substituted with Raspberry Pi 4 Model B/4GB
@@ -41,8 +41,7 @@ APDS-9960,1,https://www.electrokit.com/apds-9960-rgb-och-rorelsesensor,41013512 
 TOF400C-VL53L1,1,https://www.amazon.com/Teyleten-Robot-TOF400C-VL53L1X-Distance/dp/B0CLDKMGZR,,https://www.mouser.se/manufacturer/stmicroelectronics/,VL53L1CBV0FY/1,176.32,176.32,In stock,"Chosen by UdeA, could not find from another seller"
 VL6180 TOF,1,https://www.tinytronics.nl/en/sensors/distance/vl6180-time-of-flight-tof-distance-sensor,,https://www.st.com/en/imaging-and-photonics-solutions/vl6180.html,VL6180,33,33,In stock,"Chosen by UdeA, could not find from another seller"
 XT60PW-M,1,https://www.tme.eu/se/details/xt60pw-m/dc-kontaktdon/amass/,XT60PW-M,"https://www.tme.eu/se/katalog/p,amass_1260/",XT60PW-M,11.21,11.21,In stock,XT60 PCB connector
-"2-post pillow block, 32mm bore",4,https://eu.robotshop.com/products/servocity-1-side-2-post-pillow-block-32mm-bore,RP-Sct-2151,https://www.servocity.com/,1602-0032,172.29,689.16,"On demand, 1 month delivery time","For extra support for the wheels, compatible with chosen hub."
+"2-post pillow block, 32mm bore",4,https://eu.robotshop.com/products/servocity-1-side-2-post-pillow-block-32mm-bore_,RP-Sct-2151,https://www.servocity.com/,1602-0032,172.29,689.16,"On demand, 1 month delivery time","For extra support for the wheels, compatible with chosen hub."
 B5P-VH,10,https://se.farnell.com/jst-japan-solderless-terminals/b5p-vh-lf-sn/connector-header-5pos-3-96mm-1row/dp/2399164,JST (JAPAN SOLDERLESS TERMINALS) B5P-VH(LF)(SN),https://se.farnell.com/b/jst-japan-solderless-terminals,B5P-VH(LF)(SN),5.21,52.1,In stock,Motor connectors
 "OFFERT finns för nedanstående, se bifogad fil",,,,,,,,,
 OFFERT – BROADCOM AEDB-9140-A13,8,https://uk.farnell.com/broadcom-limited/aedb-9140-a13/encoder-3channel-500cpr-8mm/dp/1161087,BROADCOM AEDB-9140-A13,https://uk.farnell.com/b/broadcom,AEDB-9140-A13,309,2472,In stock,Offert från farnell med studentrabatt
-,,,,,1 Robot price,13640.25,,,
