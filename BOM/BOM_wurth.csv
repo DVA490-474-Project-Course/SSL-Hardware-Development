@@ -1,7 +1,11 @@
 Order code,Quantity,Description,Link
-885012207098,10,WCAP-CSGP MLCCs 50 V(DC) 0.1uF,https://www.we-online.com/en/components/products/WCAP-CSGP-50VDC?sq=885012207098#885012207098
-865080657018,10,WCAP-ASLI Aluminum Electrolytic Capacitors 220uF,https://www.we-online.com/en/components/products/WCAP-ASLI#865080657018
-61301621821,1,WR-PHD 2.54 mm SMT Dual Socket Header,https://www.we-online.com/en/components/products/PHD_2_54_DUAL_SOCKET_HEADER_6130XX21821#61301621821
-61303021821,1,Socket Header,https://www.we-online.com/en/components/products/PHD_2_54_DUAL_SOCKET_HEADER_6130XX21821#61303021821
-61302021821,1,Socket Header,https://www.we-online.com/en/components/products/PHD_2_54_DUAL_SOCKET_HEADER_6130XX21821#61302021821
-61303421821,1,Socket Header,https://www.we-online.com/en/components/products/PHD_2_54_DUAL_SOCKET_HEADER_6130XX21821#61303421821
+885012207098,10,WCAP-CSGP MLCCs 50 V(DC) 0.1uF 0805,https://www.we-online.com/en/components/products/WCAP-CSGP-50VDC?sq=885012207098#885012207098
+865080657018,10,WCAP-ASLI Aluminum Electrolytic Capacitors 220uF 0805,https://www.we-online.com/en/components/products/WCAP-ASLI#865080657018
+61301621821,1,Socket Header 16 Pins 2.54 mm,https://www.we-online.com/en/components/products/PHD_2_54_DUAL_SOCKET_HEADER_6130XX21821#61301621821
+61303021821,1,Socket Header 30 Pins 2.54 mm,https://www.we-online.com/en/components/products/PHD_2_54_DUAL_SOCKET_HEADER_6130XX21821#61303021821
+61302021821,1,Socket Header 20 Pins 2.54 mm,https://www.we-online.com/en/components/products/PHD_2_54_DUAL_SOCKET_HEADER_6130XX21821#61302021821
+61303421821,1,Socket Header 32 Pins 2.54 mm,https://www.we-online.com/en/components/products/PHD_2_54_DUAL_SOCKET_HEADER_6130XX21821#61303421821
+61307221821,2,Socket Header 72 Pins 2.54 mm,https://www.we-online.com/en/components/products/PHD_2_54_DUAL_SOCKET_HEADER_6130XX21821?sq=61307221821#61307221821
+61307221121,2,Pin Header 72 Pins 2.54 mm,https://www.we-online.com/en/components/products/PHD_2_54_THT_DUAL_PIN_HEADER_6130XX21121#61307221121
+,,,
+560112120001,4,Resistor 10Ohm 0805,https://www.we-online.com/en/components/products/WRIS-RSKS?sq=560112120001#560112120001
