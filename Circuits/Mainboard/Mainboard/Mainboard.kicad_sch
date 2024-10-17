@@ -162,6 +162,166 @@
 				)
 			)
 		)
+		(symbol "Connector:Conn_01x02_Pin"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x02_Pin"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x02, script generated"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x02_Pin_1_1"
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 0.8636 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 0.8636 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Device:C"
 			(pin_numbers hide)
 			(pin_names
@@ -10562,7 +10722,7 @@
 	)
 	(symbol
 		(lib_id "NUCLEO-H723ZG:NUCLEOH723ZG")
-		(at 373.38 157.48 0)
+		(at 356.87 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10571,7 +10731,7 @@
 		(fields_autoplaced yes)
 		(uuid "2a749d98-e028-423c-847b-e617c507fdc1")
 		(property "Reference" "U1"
-			(at 373.38 96.52 0)
+			(at 356.87 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10579,7 +10739,7 @@
 			)
 		)
 		(property "Value" "NUCLEOH723ZG"
-			(at 373.38 99.06 0)
+			(at 356.87 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10587,7 +10747,7 @@
 			)
 		)
 		(property "Footprint" "NUCLEOH723ZG:MODULE_NUCLEOH723ZG"
-			(at 373.38 157.48 0)
+			(at 356.87 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10597,7 +10757,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 373.38 157.48 0)
+			(at 356.87 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10606,7 +10766,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 373.38 157.48 0)
+			(at 356.87 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10615,7 +10775,7 @@
 			)
 		)
 		(property "MF" "STMicroelectronics"
-			(at 373.38 157.48 0)
+			(at 356.87 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10625,7 +10785,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "18.57 mm"
-			(at 373.38 157.48 0)
+			(at 356.87 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10635,7 +10795,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 373.38 157.48 0)
+			(at 356.87 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10645,7 +10805,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 373.38 157.48 0)
+			(at 356.87 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10655,7 +10815,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/NUCLEOH723ZG/STMicroelectronics/view-part/?ref=eda"
-			(at 373.38 157.48 0)
+			(at 356.87 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10665,7 +10825,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 373.38 157.48 0)
+			(at 356.87 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10675,7 +10835,7 @@
 			)
 		)
 		(property "PARTREV" "2"
-			(at 373.38 157.48 0)
+			(at 356.87 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10685,7 +10845,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/NUCLEOH723ZG/STMicroelectronics/view-part/?ref=snap"
-			(at 373.38 157.48 0)
+			(at 356.87 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10695,7 +10855,7 @@
 			)
 		)
 		(property "MP" "NUCLEOH723ZG"
-			(at 373.38 157.48 0)
+			(at 356.87 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10705,7 +10865,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=8820245&manufacturer=STMicroelectronics&part_name=NUCLEOH723ZG&search_term=None"
-			(at 373.38 157.48 0)
+			(at 356.87 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10715,7 +10875,7 @@
 			)
 		)
 		(property "Description_1" "\nSTM32H723 Nucleo-144 STM32H7 ARM® Cortex®-M7 MCU 32-Bit Embedded Evaluation Board\n"
-			(at 373.38 157.48 0)
+			(at 356.87 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10725,7 +10885,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "NUCLEOH723ZG"
-			(at 373.38 157.48 0)
+			(at 356.87 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10735,7 +10895,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 373.38 157.48 0)
+			(at 356.87 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10745,7 +10905,7 @@
 			)
 		)
 		(property "MANUFACTURER" "STMicroelectronics"
-			(at 373.38 157.48 0)
+			(at 356.87 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12011,7 +12171,7 @@
 	)
 	(symbol
 		(lib_id "B-G431B-ESC1:B-G431B-ESC1")
-		(at 256.54 49.53 0)
+		(at 458.47 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12020,7 +12180,7 @@
 		(fields_autoplaced yes)
 		(uuid "549466e4-3052-4c93-aed7-7e112bae2ee8")
 		(property "Reference" "U6"
-			(at 256.54 35.56 0)
+			(at 458.47 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12028,7 +12188,7 @@
 			)
 		)
 		(property "Value" "B-G431B-ESC1"
-			(at 256.54 38.1 0)
+			(at 458.47 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12036,7 +12196,7 @@
 			)
 		)
 		(property "Footprint" "B-G431B-ESC1:B-G431B-ESC1_MOUNT"
-			(at 254 49.53 0)
+			(at 455.93 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12045,7 +12205,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 254 49.53 0)
+			(at 455.93 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12054,7 +12214,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 256.54 49.53 0)
+			(at 458.47 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12382,6 +12542,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 78.74 186.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "83d15c69-b014-4f36-89af-797a640c91c4")
+		(property "Reference" "J3"
+			(at 79.375 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 79.375 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 78.74 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 78.74 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 78.74 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3b93428e-2717-44f7-bf5d-6b0c701bd47c")
+		)
+		(pin "1"
+			(uuid "6af0c2fe-c57a-41be-969d-9085599b63d2")
+		)
+		(instances
+			(project ""
+				(path "/778a7f39-1f28-457f-badd-61056e9c01e2"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "WPME-FDSM:173010335")
 		(at 227.33 118.11 0)
 		(unit 1)
@@ -12508,7 +12736,7 @@
 	)
 	(symbol
 		(lib_id "B-G431B-ESC1:B-G431B-ESC1")
-		(at 283.21 73.66 0)
+		(at 485.14 148.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12517,7 +12745,7 @@
 		(fields_autoplaced yes)
 		(uuid "854cb798-18e7-41f9-840a-eec88515031e")
 		(property "Reference" "U4"
-			(at 283.21 59.69 0)
+			(at 485.14 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12525,7 +12753,7 @@
 			)
 		)
 		(property "Value" "B-G431B-ESC1"
-			(at 283.21 62.23 0)
+			(at 485.14 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12533,7 +12761,7 @@
 			)
 		)
 		(property "Footprint" "B-G431B-ESC1:B-G431B-ESC1_MOUNT"
-			(at 280.67 73.66 0)
+			(at 482.6 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12542,7 +12770,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 280.67 73.66 0)
+			(at 482.6 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12551,7 +12779,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 283.21 73.66 0)
+			(at 485.14 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13575,7 +13803,7 @@
 	)
 	(symbol
 		(lib_id "B-G431B-ESC1:B-G431B-ESC1")
-		(at 311.15 49.53 0)
+		(at 513.08 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13584,7 +13812,7 @@
 		(fields_autoplaced yes)
 		(uuid "b1a8e6a4-4078-407f-95b9-a4efe9e31ed4")
 		(property "Reference" "U3"
-			(at 311.15 35.56 0)
+			(at 513.08 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13592,7 +13820,7 @@
 			)
 		)
 		(property "Value" "B-G431B-ESC1"
-			(at 311.15 38.1 0)
+			(at 513.08 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13600,7 +13828,7 @@
 			)
 		)
 		(property "Footprint" "B-G431B-ESC1:B-G431B-ESC1_MOUNT"
-			(at 308.61 49.53 0)
+			(at 510.54 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13609,7 +13837,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 308.61 49.53 0)
+			(at 510.54 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13618,7 +13846,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 311.15 49.53 0)
+			(at 513.08 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13975,7 +14203,7 @@
 	)
 	(symbol
 		(lib_id "B-G431B-ESC1:B-G431B-ESC1")
-		(at 283.21 49.53 0)
+		(at 485.14 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13984,7 +14212,7 @@
 		(fields_autoplaced yes)
 		(uuid "c3705789-0ceb-4467-b6f1-9e3e1c394fc9")
 		(property "Reference" "U2"
-			(at 283.21 35.56 0)
+			(at 485.14 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13992,7 +14220,7 @@
 			)
 		)
 		(property "Value" "B-G431B-ESC1"
-			(at 283.21 38.1 0)
+			(at 485.14 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14000,7 +14228,7 @@
 			)
 		)
 		(property "Footprint" "B-G431B-ESC1:B-G431B-ESC1_MOUNT"
-			(at 280.67 49.53 0)
+			(at 482.6 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14009,7 +14237,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 280.67 49.53 0)
+			(at 482.6 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14018,7 +14246,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 283.21 49.53 0)
+			(at 485.14 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14545,7 +14773,7 @@
 	)
 	(symbol
 		(lib_id "B-G431B-ESC1:B-G431B-ESC1")
-		(at 311.15 73.66 0)
+		(at 513.08 148.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14554,7 +14782,7 @@
 		(fields_autoplaced yes)
 		(uuid "db3ea60e-a94c-412b-84ab-324a64d4cff3")
 		(property "Reference" "U5"
-			(at 311.15 59.69 0)
+			(at 513.08 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14562,7 +14790,7 @@
 			)
 		)
 		(property "Value" "B-G431B-ESC1"
-			(at 311.15 62.23 0)
+			(at 513.08 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14570,7 +14798,7 @@
 			)
 		)
 		(property "Footprint" "B-G431B-ESC1:B-G431B-ESC1_MOUNT"
-			(at 308.61 73.66 0)
+			(at 510.54 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14579,7 +14807,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 308.61 73.66 0)
+			(at 510.54 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14588,7 +14816,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 311.15 73.66 0)
+			(at 513.08 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
