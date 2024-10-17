@@ -16,7 +16,7 @@ Raspberry Pi RTC,1,https://www.mouser.se/ProductDetail/Seeed-Studio/103030277?qs
 ",2,https://www.mouser.se/ProductDetail/Analog-Devices/LT3751IFEPBF?qs=hVkxg5c3xu8wGIOCrD9eEw%3D%3D,584-LT3751IFE#PBF,https://www.mouser.se/manufacturer/analog-devices/,LT3751IFE#PBF,147.09,294.18,In stock,"Capacitor charging controller for kicker
 "
 LM74500QDDFRQ1 ,2,https://www.mouser.se/ProductDetail/Texas-Instruments/LM74500QDDFRQ1?qs=stqOd1AaK7%252BDaolIEn1S7g%3D%3D,595-LM74500QDDFRQ1 ,https://www.mouser.se/manufacturer/texas-instruments/,LM74500QDDFRQ1,16.45,32.9,In stock,Reverse polarity protection
-BUK9Y8R5-80EX ,2,https://www.mouser.se/ProductDetail/Nexperia/BUK9Y8R5-80EX?qs=5XOdhvmYM0NT76c8T6Twdw%3D%3D,771-BUK9Y8R5-80EX,https://www.mouser.se/manufacturer/nexperia/,BUK9Y8R5-80EX,17.94,35.88,In stock,Mosfet used with the reverse polarity protection component
+PSMN6R7-40MLDX,2,https://www.mouser.se/ProductDetail/Nexperia/PSMN6R7-40MLDX?qs=XeJtXLiO41T0U8eRNXd8kw%3D%3D,771-PSMN6R7-40MLDX,https://www.mouser.se/manufacturer/nexperia/,PSMN6R7-40MLDX,5.77,11.54,In stock,Mosfet used with the reverse polarity protection component
 NUCLEO-H723ZG,1,https://www.mouser.se/ProductDetail/511-NUCLEO-H723ZG,511-NUCLEO-H723ZG ,https://www.mouser.se/manufacturer/stmicroelectronics/,NUCLEO-H723ZG,322.58,322.58,In stock,"If we do not develop our own pcb this microcontroller can be used instead of the ESP32 microcontroll-
 Er, ADC, communication, supports micro ros"
 SX1280IMLTRT,1,https://www.mouser.se/ProductDetail/Semtech/SX1280IMLTRT?qs=5aG0NVq1C4xuoq8G6ZzdxQ%3D%3D,947-SX1280IMLTRT ,https://www.mouser.se/manufacturer/semtech/,SX1280IMLTRT,75.44,75.44,In stock,RF Transceiver Long range 2.4 GHz Wireless Transceiver 
