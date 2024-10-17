@@ -1,8 +1,8 @@
-Part name,Quantity,Distributor,Distributor Part Number,Manufacturer,Mfr Part number,Á price,Estimated cost,Lead time,Notes
+Part name,Quantity,Distributor,Distributor Part Number,Manufacturer,Mfr Part number,Á price,1 Robot Cost,Lead time,Notes
 DF45L024048-A –  Brushless DC motor ,4,https://www.nanotec.com/eu/en/products/1786-df45l024048-a,DF45L024048-A,,,818.4,3273.6,In stock,"BLDC motors for the wheels, compact size, light weight, contains hall sensors for encoder feedback
 Sensored ESC is required if these are used"
-Hobbywing FPV XRotor 3110 900KV ,1,https://www.elefun.se/p/prod.aspx?v=65193,65193,https://www.hobbywing.com/,HW30418005,175.2,175.2,In stock,BLDC motor for the dribbler
-6s 1300mAh -120C - GNB HV XT60 ,1,https://www.elefun.se/p/prod.aspx?v=63197,63197,http://www.gaonengbattery.com/,GNB13006S120AHV,351.2,351.2,In stock,Battery
+Hobbywing FPV XRotor 3110 900KV ,1,https://www.elefun.se/p/prod.aspx?v=65193,65193,https://www.hobbywing.com/,HW30418005,219,219,In stock,BLDC motor for the dribbler
+6s 1300mAh -120C - GNB HV XT60 ,1,https://www.elefun.se/p/prod.aspx?v=63197,63197,http://www.gaonengbattery.com/,GNB13006S120AHV,442,442,In stock,Battery
 "M3 16mm galvanized steel countersunk screw, 100 pack",1,https://www.elfa.se/sv/foersaenkt-skruv-foersaenkt-huvud-torx-t10-m3-16mm-paket-med-100-delar-rnd-rnd-610-00397/p/30172632,301-72-632,https://www.elfa.se/sv/manufacturer/rnd/man_rnd,RND 610-00397,21.6,21.6,In stock,
 "M3 galvanized steel locking washers, 200 pack",1,https://www.elfa.se/sv/lasbricka-m3-foerzinkat-stal-bossard-az-2x6x0/p/30071826,300-71-826,https://www.bossard.com/se-sv/,"AZ 3,2X6X0,4",69.7,69.7,In stock,
 "M3 steel locking washers, 200 pack",1,https://www.elfa.se/sv/lasbricka-m3-stal-bossard-az-2x6x0-cll4880/p/30071831,300-71-831,https://www.bossard.com/se-sv/,"AZ S 3,2X6X0,4 / CLL4880 S",83.3,83.3,In stock,
@@ -15,28 +15,26 @@ X-RING 3.63X2.62/NBR70,100,https://webbshop.teknikprodukter.se/x-ring-3-63x2-62-
 SEN0374,1,https://www.mouser.se/ProductDetail/DFRobot/SEN0374?qs=81r%252BiQLm7BRSXhV57X59YA%3D%3D,426-SEN0374,https://www.mouser.se/manufacturer/dfrobot/,SEN0374 ,191.48,191.48,4 left in stock,9Dof IMU
 Raspberry Pi RTC,1,https://www.mouser.se/ProductDetail/Seeed-Studio/103030277?qs=0lSvoLzn4L8soh3xbH07wQ%3D%3D,713-103030277,https://www.mouser.se/manufacturer/seeed-studio/,103030277,1,47.61,In stock,
 "LT3751
-",1,https://www.mouser.se/ProductDetail/Analog-Devices/LT3751IFEPBF?qs=hVkxg5c3xu8wGIOCrD9eEw%3D%3D,584-LT3751IFE#PBF,https://www.mouser.se/manufacturer/analog-devices/,LT3751IFE#PBF,147.09,147.09,In stock,"Capacitor charging controller for kicker
+",2,https://www.mouser.se/ProductDetail/Analog-Devices/LT3751IFEPBF?qs=hVkxg5c3xu8wGIOCrD9eEw%3D%3D,584-LT3751IFE#PBF,https://www.mouser.se/manufacturer/analog-devices/,LT3751IFE#PBF,147.09,294.18,In stock,"Capacitor charging controller for kicker
 "
-LM74500QDDFRQ1 ,1,https://www.mouser.se/ProductDetail/Texas-Instruments/LM74500QDDFRQ1?qs=stqOd1AaK7%252BDaolIEn1S7g%3D%3D,595-LM74500QDDFRQ1 ,https://www.mouser.se/manufacturer/texas-instruments/,LM74500QDDFRQ1,16.45,16.45,In stock,Reverse polarity protection
-BUK9Y8R5-80EX ,1,https://www.mouser.se/ProductDetail/Nexperia/BUK9Y8R5-80EX?qs=5XOdhvmYM0NT76c8T6Twdw%3D%3D,771-BUK9Y8R5-80EX,https://www.mouser.se/manufacturer/nexperia/,BUK9Y8R5-80EX,17.94,17.94,In stock,Mosfet used with the reverse polarity protection component
-SMBJ58A,1,https://www.mouser.se/ProductDetail/Littelfuse/SMBJ58A?qs=zHiv0nsVGmrLotr%2Fg53Djg%3D%3D,576-SMBJ58A,https://www.mouser.se/manufacturer/littelfuse/,SMBJ58A,4.5,4.5,In stock,TVS+ diode for 24V reverse protection circuit
-SMBJ26A,1,https://www.mouser.se/ProductDetail/Bourns/SMBJ26A?qs=%252Bf8Cd6aE5bzyuNXx4QjGJA%3D%3D,652-SMBJ26A,https://www.mouser.se/manufacturer/bourns/,SMBJ26A,3.53,3.53,In stock,TVS- diode for 24V reverse protection circuit
+LM74500QDDFRQ1 ,2,https://www.mouser.se/ProductDetail/Texas-Instruments/LM74500QDDFRQ1?qs=stqOd1AaK7%252BDaolIEn1S7g%3D%3D,595-LM74500QDDFRQ1 ,https://www.mouser.se/manufacturer/texas-instruments/,LM74500QDDFRQ1,16.45,32.9,In stock,Reverse polarity protection
+BUK9Y8R5-80EX ,2,https://www.mouser.se/ProductDetail/Nexperia/BUK9Y8R5-80EX?qs=5XOdhvmYM0NT76c8T6Twdw%3D%3D,771-BUK9Y8R5-80EX,https://www.mouser.se/manufacturer/nexperia/,BUK9Y8R5-80EX,17.94,35.88,In stock,Mosfet used with the reverse polarity protection component
 NUCLEO-H723ZG,1,https://www.mouser.se/ProductDetail/511-NUCLEO-H723ZG,511-NUCLEO-H723ZG ,https://www.mouser.se/manufacturer/stmicroelectronics/,NUCLEO-H723ZG,322.58,322.58,In stock,"If we do not develop our own pcb this microcontroller can be used instead of the ESP32 microcontroll-
 Er, ADC, communication, supports micro ros"
 SX1280IMLTRT,1,https://www.mouser.se/ProductDetail/Semtech/SX1280IMLTRT?qs=5aG0NVq1C4xuoq8G6ZzdxQ%3D%3D,947-SX1280IMLTRT ,https://www.mouser.se/manufacturer/semtech/,SX1280IMLTRT,75.44,75.44,In stock,RF Transceiver Long range 2.4 GHz Wireless Transceiver 
 SKY66122-11 ,1,https://www.mouser.se/ProductDetail/Skyworks-Solutions-Inc/SKY66122-11?qs=stqOd1AaK7%2F9zH4JdBCX2A%3D%3D,873-SKY66122-11 ,https://www.mouser.se/manufacturer/skyworks-solutions/,SKY66122-11,40.48,40.48,In stock,"RF Front End OFDM, 863 to 928 MHz, Wi-SUN, FEM"
 B-G431B-ESC1 ,5,https://www.mouser.se/ProductDetail/511-B-G431B-ESC1,511-B-G431B-ESC1,https://www.mouser.se/manufacturer/stmicroelectronics/,B-G431B-ESC1 ,208.96,1044.8,In stock ,Datasheet
 Wheel hub 4mm,4,https://www.electrokit.com/axelnav-med-klamfaste-4mm,41020172,https://www.gobilda.com/,1309-0016-0004,139,556,in stock,
-"2-post pillow block, 32mm bore",4,https://eu.robotshop.com/products/servocity-1-side-2-post-pillow-block-32mm-bore_,RP-Sct-2151,https://www.servocity.com/,1602-0032,172.29,689.16,"On demand, 1 month delivery time","For extra support for the wheels, compatible with chosen hub."
 Raspberry Pi 4 Model B/8GB ,1,https://www.electrokit.com/raspberry-pi-4-model-b/8gb,41017664 - Raspberry Pi,https://www.raspberrypi.com/,,979,979,In stock,Can be substituted with Raspberry Pi 4 Model B/4GB
 Raspberry Pi Kameramodul 3,1,https://www.electrokit.com/raspberry-pi-kameramodul-3-12mp-75,41020240 - Raspberry Pi,https://www.raspberrypi.com/,,369,369,In stock,Needs to be ordered with Raspberry Pi 4 Model B/8GB or Raspberry Pi 4 Model B/4GB
-IR Break Beam Sensor - 5mm LEDs,1,https://www.electrokit.com/en/ir-barriar-sandare/mottagare-5mm,41015028,Adafruit,,99,99,In stock,Break beam to detect if a ball is close (within a few mm) to the dribbler.
 Bearings 5mm,6,https://www.electrokit.com/kullager-5mm,41019266,,,15,90,In stock,for dribbler assembly.
 "M3 threaded inserts 3mm, 50 pack",1,https://www.electrokit.com/ganginsats-m3-x-3mm-50-pack,41018554,,,95,95,In stock,
 APDS-9960,1,https://www.electrokit.com/apds-9960-rgb-och-rorelsesensor,41013512 – Sparkfun,https://www.sparkfun.com/,APDS-9960,199,199,In stock,"Chosen by UdeA, RGB sensor"
 TOF400C-VL53L1,1,https://www.amazon.com/Teyleten-Robot-TOF400C-VL53L1X-Distance/dp/B0CLDKMGZR,,https://www.mouser.se/manufacturer/stmicroelectronics/,VL53L1CBV0FY/1,176.32,176.32,In stock,"Chosen by UdeA, could not find from another seller"
 VL6180 TOF,1,https://www.tinytronics.nl/en/sensors/distance/vl6180-time-of-flight-tof-distance-sensor,,https://www.st.com/en/imaging-and-photonics-solutions/vl6180.html,VL6180,33,33,In stock,"Chosen by UdeA, could not find from another seller"
-B5P-VH,10,https://se.farnell.com/jst-japan-solderless-terminals/b5p-vh-lf-sn/connector-header-5pos-3-96mm-1row/dp/2399164,JST (JAPAN SOLDERLESS TERMINALS) B5P-VH(LF)(SN),https://se.farnell.com/b/jst-japan-solderless-terminals,B5P-VH(LF)(SN),5.21,52.1,In stock,Motor connectors
 XT60PW-M,1,https://www.tme.eu/se/details/xt60pw-m/dc-kontaktdon/amass/,XT60PW-M,"https://www.tme.eu/se/katalog/p,amass_1260/",XT60PW-M,11.21,11.21,In stock,XT60 PCB connector
+"2-post pillow block, 32mm bore",4,https://eu.robotshop.com/products/servocity-1-side-2-post-pillow-block-32mm-bore_,RP-Sct-2151,https://www.servocity.com/,1602-0032,172.29,689.16,"On demand, 1 month delivery time","For extra support for the wheels, compatible with chosen hub."
+B5P-VH,10,https://se.farnell.com/jst-japan-solderless-terminals/b5p-vh-lf-sn/connector-header-5pos-3-96mm-1row/dp/2399164,JST (JAPAN SOLDERLESS TERMINALS) B5P-VH(LF)(SN),https://se.farnell.com/b/jst-japan-solderless-terminals,B5P-VH(LF)(SN),5.21,52.1,In stock,Motor connectors
 "OFFERT finns för nedanstående, se bifogad fil",,,,,,,,,
 OFFERT – BROADCOM AEDB-9140-A13,8,https://uk.farnell.com/broadcom-limited/aedb-9140-a13/encoder-3channel-500cpr-8mm/dp/1161087,BROADCOM AEDB-9140-A13,https://uk.farnell.com/b/broadcom,AEDB-9140-A13,309,2472,In stock,Offert från farnell med studentrabatt
+,,,,,,,12977.25,,
