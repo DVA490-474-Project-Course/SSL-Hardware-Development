@@ -1,4 +1,6 @@
 (fp_lib_table
   (version 7)
   (lib (name "LM74500QDDFRQ1")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/LM74500QDDFRQ1")(options "")(descr ""))
+  (lib (name "NUCLEOH723ZG")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/NUCLEOH723ZG")(options "")(descr ""))
+  (lib (name "PSMN6R740MLDX")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/PSMN6R7-40MLDX")(options "")(descr ""))
 )

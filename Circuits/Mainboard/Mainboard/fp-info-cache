@@ -1,4 +1,4 @@
-23876469721426666
+23869553056429046
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64694,30 +64694,9 @@ Yellow 5381 Series LED
 2
 2
 LM74500QDDFRQ1
-DDF0008A-IPC_A
-
-LM74500QDDFRQ1 
-0
-8
-8
-LM74500QDDFRQ1
-DDF0008A-IPC_B
-
-LM74500QDDFRQ1 
-0
-8
-8
-LM74500QDDFRQ1
-DDF0008A-IPC_C
-
-LM74500QDDFRQ1 
-0
-8
-8
-LM74500QDDFRQ1
-DDF0008A-MFG
-
-LM74500QDDFRQ1 
+SOT65P280X110-8N
+DDF0008A
+Integrated Circuit
 0
 8
 8
@@ -96767,10 +96746,3 @@ Varistor VF
 0
 2
 2
-XT60PW-M
-CONN_XT60PW-M_AMA
-
-XT60PW-M 
-0
-4
-4
