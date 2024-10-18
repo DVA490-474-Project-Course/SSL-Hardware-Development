@@ -11,4 +11,8 @@
   (lib (name "SX1280IMLTRT")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/SX1280IMLTRT/SX1280IMLTRT.kicad_sym")(options "")(descr "RF transceiver"))
   (lib (name "SKY66122-11")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/SKY66122-11/SKY66122-11.kicad_sym")(options "")(descr ""))
   (lib (name "B-G431B-ESC1")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/B-G431B-ESC1/B-G431B-ESC1.kicad_sym")(options "")(descr ""))
+  (lib (name "TS2596CM533_RNG")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/TS2596CM533_RNG/TS2596CM533_RNG.kicad_sym")(options "")(descr ""))
+  (lib (name "AMRM00101040470MA1")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/AMRM00101040470MA1/AMRM00101040470MA1.kicad_sym")(options "")(descr ""))
+  (lib (name "B6B-PH-K-S")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/B6B-PH-K-S/B6B-PH-K-S.kicad_sym")(options "")(descr ""))
+  (lib (name "B5P-VH-LF-SN")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/B5P-VH_LF__SN_/B5P-VH_LF__SN_.kicad_sym")(options "")(descr ""))
 )
