@@ -11,4 +11,8 @@
   (lib (name "SX1280IMLTRT")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/SX1280IMLTRT")(options "")(descr ""))
   (lib (name "SKY66122-11")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/SX1280IMLTRT")(options "")(descr ""))
   (lib (name "B-G431B-ESC1")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/B-G431B-ESC1")(options "")(descr ""))
+  (lib (name "TS2596CM533_RNG")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/TS2596CM533_RNG")(options "")(descr ""))
+  (lib (name "AMRM00101040470MA1")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/AMRM00101040470MA1")(options "")(descr ""))
+  (lib (name "B6B-PH-K-S")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/B6B-PH-K-S")(options "")(descr ""))
+  (lib (name "B5P-VH-LF-SN")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/B5P-VH_LF__SN_")(options "")(descr ""))
 )

@@ -1,4 +1,11 @@
-23886844878435394
+23890303837138828
+AMRM00101040470MA1
+AMRM00101040470MA1
+AMRM00101040470MA1-1
+Inductor
+0
+2
+2
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90705,6 +90712,13 @@ Logo WEEE
 0
 0
 0
+TS2596CM533_RNG
+TS2596CM550RNG
+TS2596CM550 RNG-1
+Integrated Circuit
+0
+6
+6
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
