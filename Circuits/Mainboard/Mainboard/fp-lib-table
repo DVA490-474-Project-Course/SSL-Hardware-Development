@@ -24,4 +24,7 @@
   (lib (name "885012007063")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/885012007063_0805_C_1nF")(options "")(descr ""))
   (lib (name "LM2576-5.0WU-TR")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/LM2576-5.0WU-TR")(options "")(descr ""))
   (lib (name "LMR51430YDDCR")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/LMR51430YDDCR")(options "")(descr ""))
+  (lib (name "Altium_WRIS-RSKS (rev23a)")(type "Altium Designer")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/WE_560112120013_Libraries/Altium_WRIS-RSKS (rev23a).IntLib")(options "")(descr ""))
+  (lib (name "Eagle_WCAP-CSGP (rev24d)")(type "Eagle")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/WE_885012207098_Libraries/Eagle_WCAP-CSGP (rev24d).lbr")(options "")(descr ""))
+  (lib (name "SMA-J-P-H-RA-TH1")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/SMA-J-P-H-RA-TH1")(options "")(descr ""))
 )
