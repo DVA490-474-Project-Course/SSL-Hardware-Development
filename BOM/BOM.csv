@@ -10,7 +10,7 @@ PHR-6,8,https://www.elfa.se/sv/hylskontakthus-crimpanslutning-uttag-sockel-posit
 B6B-PH-K-S,10,https://www.elfa.se/sv/stiftlist-enradig-rak-6p-kontaktdon-anslutningsdon-positioner-2mm-jst-b6b-ph/p/14301948?itemList=compatible,143-01-948,https://www.elfa.se/sv/manufacturer/jst/man_jst,B6B-PH-K-S,5.43,54.3,In stock,Hall sensor connector for the motor
 VHR-5N,10,https://www.elfa.se/sv/crimp-kontakthus-uttag-sockel-positioner-96mm-jst-vhr-5n/p/30021738,300-21-738,https://www.elfa.se/sv/manufacturer/jst/man_jst,VHR-5N,2.22,22.2,In stock,Motor connectors
 X-RING 3.63X2.62/NBR70,100,https://webbshop.teknikprodukter.se/x-ring-3-63x2-62-nbr70-2111395n70,2111395N70,,,6.2,620,in stock,Price dependent on the amount you buy
-SEN0374,1,https://www.mouser.se/ProductDetail/DFRobot/SEN0374?qs=81r%252BiQLm7BRSXhV57X59YA%3D%3D,426-SEN0374,https://www.mouser.se/manufacturer/dfrobot/,SEN0374 ,191.48,191.48,4 left in stock,9Dof IMU
+SENS,1,https://www.mouser.se/ProductDetail/DFRobot/SEN0374?qs=81r%252BiQLm7BRSXhV57X59YA%3D%3D,426-SEN0374,https://www.mouser.se/manufacturer/dfrobot/,SEN0374 ,191.48,191.48,4 left in stock,9Dof IMU
 Raspberry Pi RTC,1,https://www.mouser.se/ProductDetail/Seeed-Studio/103030277?qs=0lSvoLzn4L8soh3xbH07wQ%3D%3D,713-103030277,https://www.mouser.se/manufacturer/seeed-studio/,103030277,1,47.61,In stock,
 "LT3751
 ",2,https://www.mouser.se/ProductDetail/Analog-Devices/LT3751IFEPBF?qs=hVkxg5c3xu8wGIOCrD9eEw%3D%3D,584-LT3751IFE#PBF,https://www.mouser.se/manufacturer/analog-devices/,LT3751IFE#PBF,147.09,294.18,In stock,"Capacitor charging controller for kicker
@@ -36,7 +36,7 @@ Raspberry Pi 4 Model B/8GB ,1,https://www.electrokit.com/raspberry-pi-4-model-b/
 Raspberry Pi Kameramodul 3,1,https://www.electrokit.com/raspberry-pi-kameramodul-3-12mp-75,41020240 - Raspberry Pi,https://www.raspberrypi.com/,,369,369,In stock,Needs to be ordered with Raspberry Pi 4 Model B/8GB or Raspberry Pi 4 Model B/4GB
 Bearings 5mm,6,https://www.electrokit.com/kullager-5mm,41019266,,,15,90,In stock,for dribbler assembly.
 "M3 threaded inserts 3mm, 50 pack",1,https://www.electrokit.com/ganginsats-m3-x-3mm-50-pack,41018554,,,95,95,In stock,
-APDS-9960,1,Ball d,41013512 – Sparkfun,https://www.sparkfun.com/,APDS-9960,199,199,In stock,"Chosen by UdeA, RGB sensor"
+APDS-9960,1,,41013512 – Sparkfun,https://www.sparkfun.com/,APDS-9960,199,199,In stock,"Chosen by UdeA, RGB sensor"
 TOF400C-VL53L1,1,https://www.amazon.com/Teyleten-Robot-TOF400C-VL53L1X-Distance/dp/B0CLDKMGZR,,https://www.mouser.se/manufacturer/stmicroelectronics/,VL53L1CBV0FY/1,176.32,176.32,In stock,"Chosen by UdeA, could not find from another seller"
 VL6180 TOF,1,https://www.tinytronics.nl/en/sensors/distance/vl6180-time-of-flight-tof-distance-sensor,,https://www.st.com/en/imaging-and-photonics-solutions/vl6180.html,VL6180,33,33,In stock,"Chosen by UdeA, could not find from another seller"
 XT60PW-M,1,https://www.tme.eu/se/details/xt60pw-m/dc-kontaktdon/amass/,XT60PW-M,"https://www.tme.eu/se/katalog/p,amass_1260/",XT60PW-M,11.21,11.21,In stock,XT60 PCB connector
