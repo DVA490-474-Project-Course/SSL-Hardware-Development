@@ -36,7 +36,7 @@ Raspberry Pi 4 Model B/8GB ,1,https://www.electrokit.com/raspberry-pi-4-model-b/
 Raspberry Pi Kameramodul 3,1,https://www.electrokit.com/raspberry-pi-kameramodul-3-12mp-75,41020240 - Raspberry Pi,https://www.raspberrypi.com/,,369,369,In stock,Needs to be ordered with Raspberry Pi 4 Model B/8GB or Raspberry Pi 4 Model B/4GB
 Bearings 5mm,6,https://www.electrokit.com/kullager-5mm,41019266,,,15,90,In stock,for dribbler assembly.
 "M3 threaded inserts 3mm, 50 pack",1,https://www.electrokit.com/ganginsats-m3-x-3mm-50-pack,41018554,,,95,95,In stock,
-APDS-9960,1,https://www.electrokit.com/apds-9960-rgb-och-rorelsesensor,41013512 – Sparkfun,https://www.sparkfun.com/,APDS-9960,199,199,In stock,"Chosen by UdeA, RGB sensor"
+APDS-9960,1,Ball d,41013512 – Sparkfun,https://www.sparkfun.com/,APDS-9960,199,199,In stock,"Chosen by UdeA, RGB sensor"
 TOF400C-VL53L1,1,https://www.amazon.com/Teyleten-Robot-TOF400C-VL53L1X-Distance/dp/B0CLDKMGZR,,https://www.mouser.se/manufacturer/stmicroelectronics/,VL53L1CBV0FY/1,176.32,176.32,In stock,"Chosen by UdeA, could not find from another seller"
 VL6180 TOF,1,https://www.tinytronics.nl/en/sensors/distance/vl6180-time-of-flight-tof-distance-sensor,,https://www.st.com/en/imaging-and-photonics-solutions/vl6180.html,VL6180,33,33,In stock,"Chosen by UdeA, could not find from another seller"
 XT60PW-M,1,https://www.tme.eu/se/details/xt60pw-m/dc-kontaktdon/amass/,XT60PW-M,"https://www.tme.eu/se/katalog/p,amass_1260/",XT60PW-M,11.21,11.21,In stock,XT60 PCB connector
@@ -44,3 +44,4 @@ XT60PW-M,1,https://www.tme.eu/se/details/xt60pw-m/dc-kontaktdon/amass/,XT60PW-M,
 B5P-VH,10,https://se.farnell.com/jst-japan-solderless-terminals/b5p-vh-lf-sn/connector-header-5pos-3-96mm-1row/dp/2399164,JST (JAPAN SOLDERLESS TERMINALS) B5P-VH(LF)(SN),https://se.farnell.com/b/jst-japan-solderless-terminals,B5P-VH(LF)(SN),5.21,52.1,In stock,Motor connectors
 "OFFERT finns för nedanstående, se bifogad fil",,,,,,,,,
 OFFERT – BROADCOM AEDB-9140-A13,8,https://uk.farnell.com/broadcom-limited/aedb-9140-a13/encoder-3channel-500cpr-8mm/dp/1161087,BROADCOM AEDB-9140-A13,https://uk.farnell.com/b/broadcom,AEDB-9140-A13,309,2472,In stock,Offert från farnell med studentrabatt
+,,,,,,,12904.47,,
