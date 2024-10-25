@@ -42,7 +42,7 @@
   - 100V
     
   ## Kinetic Energy: 
-  $$E_k = \frac{1}{2} m v^2 = 1.66 J$$
+  $$E_k = \frac{1}{2} m v^2 $$
   ## Work:
   $$W = F \cdot d = E_k$$
   ### Required force: 
@@ -51,7 +51,7 @@
   $$ P=V \cdot I $$
 
   ## Capacitor Calculations: 
-  - $$E = \frac{1}{2} 0.046 \cdot 6.5^2 = 0.951 J$$
+  - $$E = \frac{1}{2} 0.046 \cdot 6.5^2 = 0.972 J$$
   - $$E = \frac{1}{2} C V^2 J$$
   - $$C = \frac{2 \cdot E}{V^2} = 190.2uF $$
 
