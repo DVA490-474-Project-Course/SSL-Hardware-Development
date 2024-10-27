@@ -1,6 +1,5 @@
 
 # KiCad files to ignore
-Circuits/Mainboard/Mainboard/Mainboard.step
 # Backup files
 *~
 *.zip
