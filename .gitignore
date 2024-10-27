@@ -51,4 +51,5 @@ _autosave-*
 
 
 # daff
-.gitattributes
+# Needed for big files > 100 mb (step files etc)
+# .gitattributes
