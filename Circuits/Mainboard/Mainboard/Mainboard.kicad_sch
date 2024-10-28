@@ -28272,7 +28272,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X90N"
+		(property "Footprint" "885012007063:CAPC2012X90N"
 			(at -55.55 187.96 0)
 			(effects
 				(font
@@ -31873,7 +31873,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X90N"
+		(property "Footprint" "885012007063:CAPC2012X90N"
 			(at -12.37 106.68 0)
 			(effects
 				(font
@@ -32191,7 +32191,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X90N"
+		(property "Footprint" "885012007063:CAPC2012X90N"
 			(at 512.14 78.74 0)
 			(effects
 				(font
@@ -32476,6 +32476,127 @@
 		)
 	)
 	(symbol
+		(lib_id "885012209073:885012209073")
+		(at 60.96 97.79 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "377a8b64-9f01-4cbc-b932-e87df396ac15")
+		(property "Reference" "C8"
+			(at 56.134 99.314 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10uF"
+			(at 55.118 101.854 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "885012209073:CAPC3225X280N"
+			(at -35.23 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://katalog.we-online.com/pbs/datasheet/885012209073.pdf"
+			(at -135.23 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1210 60pF X7R1210106K050DFCT10000"
+			(at 60.96 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "2.8"
+			(at -335.23 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "710-885012209073"
+			(at -435.23 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/885012209073?qs=sPbYRqrBIVm8PsM2ljQIMg%3D%3D"
+			(at -535.23 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Wurth Elektronik"
+			(at -635.23 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "885012209073"
+			(at -735.23 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e0074802-d35f-411c-8b52-99f8f352537e")
+		)
+		(pin "2"
+			(uuid "38953f4c-a953-4019-b61c-709747a1131c")
+		)
+		(instances
+			(project "Mainboard"
+				(path "/778a7f39-1f28-457f-badd-61056e9c01e2"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 210.82 82.55 0)
 		(unit 1)
@@ -32728,7 +32849,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X90N"
+		(property "Footprint" "885012007063:CAPC2012X90N"
 			(at -26.34 106.68 0)
 			(effects
 				(font
@@ -33930,7 +34051,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X90N"
+		(property "Footprint" "885012007063:CAPC2012X90N"
 			(at -47.93 227.33 0)
 			(effects
 				(font
@@ -34253,7 +34374,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X90N"
+		(property "Footprint" "885012007063:CAPC2012X90N"
 			(at 109.55 76.2 0)
 			(effects
 				(font
@@ -35005,7 +35126,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC3225X280N"
+		(property "Footprint" "885012209073:CAPC3225X280N"
 			(at 101.93 128.27 0)
 			(effects
 				(font
@@ -36408,7 +36529,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X90N"
+		(property "Footprint" "885012007063:CAPC2012X90N"
 			(at -64.44 227.33 0)
 			(effects
 				(font
@@ -38151,127 +38272,6 @@
 		)
 	)
 	(symbol
-		(lib_id "885012209073:885012209073")
-		(at 60.96 97.79 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "82062502-e20d-48f4-a370-2718ecfdfbe8")
-		(property "Reference" "C8"
-			(at 56.134 99.314 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uF"
-			(at 55.118 101.854 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "CAPC3225X280N"
-			(at -35.23 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://katalog.we-online.com/pbs/datasheet/885012209073.pdf"
-			(at -135.23 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1210 60pF X7R1210106K050DFCT10000"
-			(at 60.96 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "2.8"
-			(at -335.23 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "710-885012209073"
-			(at -435.23 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/885012209073?qs=sPbYRqrBIVm8PsM2ljQIMg%3D%3D"
-			(at -535.23 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Wurth Elektronik"
-			(at -635.23 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "885012209073"
-			(at -735.23 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9616f78b-f90f-4eb2-8784-c287b01a3459")
-		)
-		(pin "2"
-			(uuid "593b1d51-29fc-4d48-af07-826e4d38bddd")
-		)
-		(instances
-			(project "Mainboard"
-				(path "/778a7f39-1f28-457f-badd-61056e9c01e2"
-					(reference "C8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "B5P-VH-LF-SN:B5P-VH_LF__SN_")
 		(at 350.52 120.65 180)
 		(unit 1)
@@ -39041,7 +39041,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X90N"
+		(property "Footprint" "885012007063:CAPC2012X90N"
 			(at 211.15 121.92 0)
 			(effects
 				(font
@@ -39297,7 +39297,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPAE1030X1050N"
+		(property "Footprint" "865080657018:CAPAE1030X1050N"
 			(at 94.31 146.05 0)
 			(effects
 				(font
@@ -40262,7 +40262,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X90N"
+		(property "Footprint" "885012007063:CAPC2012X90N"
 			(at -13.64 142.24 0)
 			(effects
 				(font
@@ -40517,7 +40517,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X90N"
+		(property "Footprint" "885012007063:CAPC2012X90N"
 			(at 254 -23.8 0)
 			(effects
 				(font
@@ -40772,7 +40772,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X90N"
+		(property "Footprint" "885012007063:CAPC2012X90N"
 			(at -56.82 227.33 0)
 			(effects
 				(font
@@ -40893,7 +40893,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC3225X280N"
+		(property "Footprint" "885012209073:CAPC3225X280N"
 			(at 498.17 78.74 0)
 			(effects
 				(font
@@ -44146,7 +44146,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X90N"
+		(property "Footprint" "885012007063:CAPC2012X90N"
 			(at 9.22 231.14 0)
 			(effects
 				(font
@@ -44831,7 +44831,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X90N"
+		(property "Footprint" "885012007063:CAPC2012X90N"
 			(at -40.31 227.33 0)
 			(effects
 				(font
@@ -45019,7 +45019,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X90N"
+		(property "Footprint" "885012007063:CAPC2012X90N"
 			(at -45.39 187.96 0)
 			(effects
 				(font
@@ -45330,7 +45330,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC3225X280N"
+		(property "Footprint" "885012209073:CAPC3225X280N"
 			(at -36.5 142.24 0)
 			(effects
 				(font
@@ -45523,7 +45523,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X90N"
+		(property "Footprint" "885012007063:CAPC2012X90N"
 			(at 109.55 128.27 0)
 			(effects
 				(font
@@ -45764,7 +45764,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC3225X280N"
+		(property "Footprint" "885012209073:CAPC3225X280N"
 			(at 101.93 76.2 0)
 			(effects
 				(font
@@ -47406,7 +47406,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X90N"
+		(property "Footprint" "885012007063:CAPC2012X90N"
 			(at 524.84 325.12 0)
 			(effects
 				(font
@@ -47595,7 +47595,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X90N"
+		(property "Footprint" "885012007063:CAPC2012X90N"
 			(at 453.72 90.17 0)
 			(effects
 				(font
@@ -47717,7 +47717,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X90N"
+		(property "Footprint" "885012007063:CAPC2012X90N"
 			(at -26.34 142.24 0)
 			(effects
 				(font
@@ -49123,7 +49123,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X90N"
+		(property "Footprint" "885012007063:CAPC2012X90N"
 			(at 306.4 300.99 0)
 			(effects
 				(font
@@ -49244,7 +49244,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X90N"
+		(property "Footprint" "885012007063:CAPC2012X90N"
 			(at 624.51 337.82 0)
 			(effects
 				(font

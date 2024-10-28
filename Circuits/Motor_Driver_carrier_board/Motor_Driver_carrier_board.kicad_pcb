@@ -291,6 +291,7 @@
 			(uuid "6bd60926-8dbf-47ae-8c36-405bb88e23b9")
 		)
 		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/B-G431B-ESC1/B-G431B-ESC1.step"
+			(hide yes)
 			(offset
 				(xyz -15.5 -43.6 0)
 			)
