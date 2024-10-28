@@ -17107,371 +17107,6 @@
 				)
 			)
 		)
-		(symbol "Socket_header_6_pins_single_straight:61300211821"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at -0.254 -10.414 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-				)
-			)
-			(property "Value" "61300211821"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "Socket_header_6_pins_single_straight:61300211821"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "WR-PHD Socket Header, THT, Vertical, pitch 2.54mm, 1 Row, 2P"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer Part Number" "61300211821"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Category" "Board-to-Board Connectors"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Match Code" "WR-PHD"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "ComponentLink1Description" "Website Link"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "ComponentLink1URL" "https://www.we-online.com/redexpert/article/61300211821?ad"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "ComponentLink2Description" "Datasheet Link"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "ComponentLink2URL" "https://www.we-online.com/redexpert/spec/61300211821?ad"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "Wurth Elektronik"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Mount" "Through Hole"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Operating Temperature Max" "125°C"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Operating Temperature Min" "-40°C"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Packaging" "Tray"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Contact Resistance" "20mOhm"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Gender" "Socket Header"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Number of Pins" "2"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Number of Rows" "1"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Orientation" "Vertical"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Pitch" "2.54mm"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Rated Current" "3A"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Working Voltage" "250V"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Withstanding Voltage" "500V"
-				(at -5.588 2.54 0)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "*61300211821*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "61300211821_1_0"
-				(polyline
-					(pts
-						(xy 0 -5.08) (xy 1.778 -5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.54) (xy 1.778 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 0) (xy 0 0) (xy 0 -7.62) (xy 5.08 -7.62) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.54 -5.08)
-					(radius 0.762)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.54 -2.54)
-					(radius 0.762)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -5.08 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Socket_header_6_pins_single_straight:61300611821"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -24763,7 +24398,7 @@
 		)
 		(uuid "17be5c9a-c793-49b7-9847-db25ca4f5ad7")
 	)
-	(label "5V_RF"
+	(label "5V"
 		(at 350.52 146.05 0)
 		(fields_autoplaced yes)
 		(effects
@@ -24896,7 +24531,7 @@
 		(uuid "27f2edf9-c335-4d17-b648-aab9fa7c46b8")
 	)
 	(label "M3_Encoder_A"
-		(at 377.19 99.06 0)
+		(at 377.19 96.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -24905,6 +24540,17 @@
 			(justify left bottom)
 		)
 		(uuid "29f05370-41b5-4659-8e8c-3527ec4b07c9")
+	)
+	(label "GND"
+		(at 449.58 101.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2a77f573-5ba5-4100-a50d-e0de9fc70ea4")
 	)
 	(label "M4_H1"
 		(at 424.18 143.51 0)
@@ -25027,6 +24673,17 @@
 		)
 		(uuid "3411bf63-1b1d-4623-ab7a-372752bb0ce6")
 	)
+	(label "5V"
+		(at 377.19 93.98 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "34351bda-47ec-408c-8023-88f13e0758b3")
+	)
 	(label "2.8V"
 		(at 488.95 104.14 0)
 		(fields_autoplaced yes)
@@ -25083,7 +24740,7 @@
 		(uuid "39443881-9653-46e0-808f-d48199a21e46")
 	)
 	(label "M1_Encoder_A"
-		(at 375.92 34.29 0)
+		(at 375.92 31.75 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -25116,7 +24773,7 @@
 		(uuid "3e62c0ad-fc8a-4b85-bbe0-be534bf4a798")
 	)
 	(label "M4_Encoder_B"
-		(at 449.58 96.52 0)
+		(at 449.58 99.06 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -25215,7 +24872,7 @@
 		(uuid "456d0a68-8d3e-491a-85cb-f59ddbb723e5")
 	)
 	(label "M4_Encoder_A"
-		(at 449.58 99.06 0)
+		(at 449.58 96.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -25346,6 +25003,17 @@
 		)
 		(uuid "5a95b719-15b9-4ffc-93c9-f86cb1f9de59")
 	)
+	(label "GND"
+		(at 377.19 101.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5ad552f6-22ab-47e2-aee3-0af6d0a33da2")
+	)
 	(label "5V"
 		(at 449.58 74.93 180)
 		(fields_autoplaced yes)
@@ -25369,7 +25037,7 @@
 		(uuid "5f1314d5-fbb6-4a6f-aec3-ebe26483f191")
 	)
 	(label "M3_Encoder_B"
-		(at 377.19 96.52 0)
+		(at 377.19 99.06 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -25533,6 +25201,17 @@
 		)
 		(uuid "7708b919-4283-40a0-a1fd-ad32503430dd")
 	)
+	(label "5V"
+		(at 449.58 29.21 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "78b55e39-ca1f-4c96-92d6-586671cd8723")
+	)
 	(label "24V"
 		(at 379.73 52.07 180)
 		(fields_autoplaced yes)
@@ -25555,8 +25234,19 @@
 		)
 		(uuid "7bfe528a-cac2-42e6-aacf-43187650e250")
 	)
+	(label "5V"
+		(at 449.58 93.98 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "88764532-d1e7-4527-883b-1e3472242304")
+	)
 	(label "M1_Encoder_B"
-		(at 375.92 31.75 0)
+		(at 375.92 34.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -25820,7 +25510,7 @@
 		(uuid "a86b1c1e-4502-4fe4-b601-37d018eb17d7")
 	)
 	(label "M2_Encoder_B"
-		(at 449.58 31.75 0)
+		(at 449.58 34.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -25951,6 +25641,17 @@
 		)
 		(uuid "b43712f0-d830-4b6d-946d-74e034fbb4ee")
 	)
+	(label "GND"
+		(at 375.92 36.83 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b43808ec-933c-4166-a3c1-82cafb7f5070")
+	)
 	(label "5V"
 		(at 386.08 203.2 0)
 		(fields_autoplaced yes)
@@ -26027,6 +25728,17 @@
 			(justify right bottom)
 		)
 		(uuid "c2a15b2f-c6a1-4886-87fa-c6c2ed0823a7")
+	)
+	(label "GND"
+		(at 449.58 36.83 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c3d712d0-66a3-46a2-aaff-337843785142")
 	)
 	(label "M5_RX"
 		(at 349.25 353.06 180)
@@ -26270,6 +25982,17 @@
 		)
 		(uuid "e142ea9b-ba7e-47d1-8eb2-3ed18e4ac043")
 	)
+	(label "5V"
+		(at 375.92 29.21 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e2eeb212-8928-4008-a350-0cdead4e1b10")
+	)
 	(label "24V"
 		(at 384.81 118.11 0)
 		(fields_autoplaced yes)
@@ -26447,7 +26170,7 @@
 		(uuid "f26ce927-5eb3-4b22-b5c2-7faf5cff3e8d")
 	)
 	(label "M2_Encoder_A"
-		(at 449.58 34.29 0)
+		(at 449.58 31.75 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -26871,6 +26594,79 @@
 			(project "Mainboard"
 				(path "/778a7f39-1f28-457f-badd-61056e9c01e2"
 					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x04_Pin")
+		(at 444.5 96.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "04650369-6e8a-432c-8b07-fa1f4d233042")
+		(property "Reference" "J27"
+			(at 441.198 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x04_Pin"
+			(at 442.722 103.632 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+			(at 444.5 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 444.5 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 444.5 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0cdefec4-d759-42af-86c5-06e880156440")
+		)
+		(pin "3"
+			(uuid "f60a78ca-4b15-4dd2-8a86-11f0ed65dc04")
+		)
+		(pin "2"
+			(uuid "13cdc11c-0682-4274-b5a6-77d603c124b2")
+		)
+		(pin "4"
+			(uuid "1cdb5052-fadd-4a64-910d-da21ca59f78b")
+		)
+		(instances
+			(project "Mainboard"
+				(path "/778a7f39-1f28-457f-badd-61056e9c01e2"
+					(reference "J27")
 					(unit 1)
 				)
 			)
@@ -32166,286 +31962,6 @@
 			(project "Mainboard"
 				(path "/778a7f39-1f28-457f-badd-61056e9c01e2"
 					(reference "C3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Socket_header_6_pins_single_straight:61300211821")
-		(at 444.5 101.6 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "31b3cbcd-4676-4377-afad-b648352e74d3")
-		(property "Reference" "J9"
-			(at 441.96 91.44 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-			)
-		)
-		(property "Value" "61300211821"
-			(at 444.5 101.6 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Socket_header_6_pins_single_straight:61300211821"
-			(at 444.5 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 444.5 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "WR-PHD Socket Header, THT, Vertical, pitch 2.54mm, 1 Row, 2P"
-			(at 444.5 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "61300211821"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Category" "Board-to-Board Connectors"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Match Code" "WR-PHD"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ComponentLink1Description" "Website Link"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ComponentLink1URL" "https://www.we-online.com/redexpert/article/61300211821?ad"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ComponentLink2Description" "Datasheet Link"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ComponentLink2URL" "https://www.we-online.com/redexpert/spec/61300211821?ad"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Wurth Elektronik"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Mount" "Through Hole"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Operating Temperature Max" "125°C"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Operating Temperature Min" "-40°C"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Packaging" "Tray"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Contact Resistance" "20mOhm"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Gender" "Socket Header"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Number of Pins" "2"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Number of Rows" "1"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Orientation" "Vertical"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Pitch" "2.54mm"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Rated Current" "3A"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Working Voltage" "250V"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Withstanding Voltage" "500V"
-			(at 450.088 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "df915c8a-e968-4fe0-b53c-270dab4ce0a7")
-		)
-		(pin "2"
-			(uuid "1689281d-f55f-41d8-9917-fa895930d4ca")
-		)
-		(instances
-			(project ""
-				(path "/778a7f39-1f28-457f-badd-61056e9c01e2"
-					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -40524,7 +40040,7 @@
 	)
 	(symbol
 		(lib_id "SMA-J-P-H-RA-TH1:SMA-J-P-H-RA-TH1")
-		(at 205.74 223.52 0)
+		(at 189.23 214.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -40533,7 +40049,7 @@
 		(fields_autoplaced yes)
 		(uuid "9ff6e85e-1e72-444f-840e-b9375381edce")
 		(property "Reference" "J15"
-			(at 215.9 215.9 0)
+			(at 199.39 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40541,7 +40057,7 @@
 			)
 		)
 		(property "Value" "SMA-J-P-H-RA-TH1"
-			(at 215.9 218.44 0)
+			(at 199.39 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40549,7 +40065,7 @@
 			)
 		)
 		(property "Footprint" "SMA-J-P-H-RA-TH1:SMAJPHRATH1"
-			(at 222.25 318.44 0)
+			(at 205.74 309.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40559,7 +40075,7 @@
 			)
 		)
 		(property "Datasheet" "http://suddendocs.samtec.com/prints/sma-j-p-x-ra-th1-mkt.pdf"
-			(at 222.25 418.44 0)
+			(at 205.74 409.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40569,7 +40085,7 @@
 			)
 		)
 		(property "Description" "Samtec Right Angle 50 Through Hole SMA Jack, Solder Termination Coaxial"
-			(at 205.74 223.52 0)
+			(at 189.23 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40578,7 +40094,7 @@
 			)
 		)
 		(property "Height" "9.86"
-			(at 222.25 618.44 0)
+			(at 205.74 609.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40588,7 +40104,7 @@
 			)
 		)
 		(property "Mouser Part Number" "200-SMAJPHRATH1"
-			(at 222.25 718.44 0)
+			(at 205.74 709.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40598,7 +40114,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-RA-TH1?qs=IAPfasySNH9bBmPI%2F132gw%3D%3D"
-			(at 222.25 818.44 0)
+			(at 205.74 809.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40608,7 +40124,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "SAMTEC"
-			(at 222.25 918.44 0)
+			(at 205.74 909.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40618,7 +40134,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SMA-J-P-H-RA-TH1"
-			(at 222.25 1018.44 0)
+			(at 205.74 1009.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41540,7 +41056,7 @@
 	)
 	(symbol
 		(lib_id "SKY66122-11:SKY66122-11")
-		(at 140.97 203.2 0)
+		(at 149.86 200.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -41549,7 +41065,7 @@
 		(fields_autoplaced yes)
 		(uuid "abe99248-b9ae-476b-a06b-8fa004bf7ed4")
 		(property "Reference" "IC5"
-			(at 182.88 196.8814 0)
+			(at 191.77 194.3414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41557,7 +41073,7 @@
 			)
 		)
 		(property "Value" "SKY66122-11"
-			(at 182.88 199.4214 0)
+			(at 191.77 196.8814 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41565,7 +41081,7 @@
 			)
 		)
 		(property "Footprint" "SKY66122-11:QFN50P400X400X100-25N-D"
-			(at 175.26 287.96 0)
+			(at 184.15 285.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41575,7 +41091,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 175.26 387.96 0)
+			(at 184.15 385.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41585,7 +41101,7 @@
 			)
 		)
 		(property "Description" "RF Front End OFDM, 863 to 928 MHz, Wi-SUN, FEM"
-			(at 140.97 203.2 0)
+			(at 149.86 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41594,7 +41110,7 @@
 			)
 		)
 		(property "Height" "1"
-			(at 175.26 587.96 0)
+			(at 184.15 585.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41604,7 +41120,7 @@
 			)
 		)
 		(property "Mouser Part Number" "873-SKY66122-11"
-			(at 175.26 687.96 0)
+			(at 184.15 685.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41614,7 +41130,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SKY66122-11?qs=stqOd1AaK7%2F9zH4JdBCX2A%3D%3D"
-			(at 175.26 787.96 0)
+			(at 184.15 785.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41624,7 +41140,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Skyworks"
-			(at 175.26 887.96 0)
+			(at 184.15 885.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41634,7 +41150,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SKY66122-11"
-			(at 175.26 987.96 0)
+			(at 184.15 985.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41758,6 +41274,79 @@
 			(project ""
 				(path "/778a7f39-1f28-457f-badd-61056e9c01e2"
 					(reference "IC5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x04_Pin")
+		(at 444.5 31.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ac64b34c-882e-48d8-8885-c06261a4378e")
+		(property "Reference" "J9"
+			(at 440.69 25.146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x04_Pin"
+			(at 438.912 27.686 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+			(at 444.5 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 444.5 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 444.5 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "daf1deb1-7724-4d9a-aacb-d81c775f662e")
+		)
+		(pin "3"
+			(uuid "9ff87179-c108-4712-82ad-fd70145f84da")
+		)
+		(pin "2"
+			(uuid "8310e60e-8421-446e-b55c-7b040f77785f")
+		)
+		(pin "4"
+			(uuid "6d517a80-d227-4f48-8194-3a81a9e27e34")
+		)
+		(instances
+			(project "Mainboard"
+				(path "/778a7f39-1f28-457f-badd-61056e9c01e2"
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -41913,7 +41502,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "XT60PW-M:CONN_XT60PW-M_AMA"
+		(property "Footprint" "Connector_AMASS:AMASS_XT60PW-M_1x02_P7.20mm_Horizontal"
 			(at 33.02 140.97 0)
 			(effects
 				(font
@@ -42442,286 +42031,6 @@
 			(project ""
 				(path "/778a7f39-1f28-457f-badd-61056e9c01e2"
 					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Socket_header_6_pins_single_straight:61300211821")
-		(at 370.84 36.83 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b338295a-2a8f-483b-8a2e-ec756bd2622e")
-		(property "Reference" "J23"
-			(at 368.3 26.67 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-			)
-		)
-		(property "Value" "61300211821"
-			(at 370.84 36.83 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Socket_header_6_pins_single_straight:61300211821"
-			(at 370.84 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 370.84 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "WR-PHD Socket Header, THT, Vertical, pitch 2.54mm, 1 Row, 2P"
-			(at 370.84 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "61300211821"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Category" "Board-to-Board Connectors"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Match Code" "WR-PHD"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ComponentLink1Description" "Website Link"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ComponentLink1URL" "https://www.we-online.com/redexpert/article/61300211821?ad"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ComponentLink2Description" "Datasheet Link"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ComponentLink2URL" "https://www.we-online.com/redexpert/spec/61300211821?ad"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Wurth Elektronik"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Mount" "Through Hole"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Operating Temperature Max" "125°C"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Operating Temperature Min" "-40°C"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Packaging" "Tray"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Contact Resistance" "20mOhm"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Gender" "Socket Header"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Number of Pins" "2"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Number of Rows" "1"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Orientation" "Vertical"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Pitch" "2.54mm"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Rated Current" "3A"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Working Voltage" "250V"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Withstanding Voltage" "500V"
-			(at 376.428 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "583b9f7d-032a-4153-a712-68112a3c2210")
-		)
-		(pin "2"
-			(uuid "7dc2767d-c043-400c-99d6-cd9fa66ceae6")
-		)
-		(instances
-			(project "Mainboard"
-				(path "/778a7f39-1f28-457f-badd-61056e9c01e2"
-					(reference "J23")
 					(unit 1)
 				)
 			)
@@ -46142,7 +45451,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "XT60PW-M:CONN_XT60PW-M_AMA"
+		(property "Footprint" "Connector_AMASS:AMASS_XT60PW-M_1x02_P7.20mm_Horizontal"
 			(at 33.02 101.6 0)
 			(effects
 				(font
@@ -47698,566 +47007,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Socket_header_6_pins_single_straight:61300211821")
-		(at 372.11 101.6 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d4e6ac7d-ea64-4a9b-ada7-20ff9469032e")
-		(property "Reference" "J24"
-			(at 369.57 91.44 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-			)
-		)
-		(property "Value" "61300211821"
-			(at 372.11 101.6 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Socket_header_6_pins_single_straight:61300211821"
-			(at 372.11 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 372.11 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "WR-PHD Socket Header, THT, Vertical, pitch 2.54mm, 1 Row, 2P"
-			(at 372.11 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "61300211821"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Category" "Board-to-Board Connectors"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Match Code" "WR-PHD"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ComponentLink1Description" "Website Link"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ComponentLink1URL" "https://www.we-online.com/redexpert/article/61300211821?ad"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ComponentLink2Description" "Datasheet Link"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ComponentLink2URL" "https://www.we-online.com/redexpert/spec/61300211821?ad"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Wurth Elektronik"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Mount" "Through Hole"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Operating Temperature Max" "125°C"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Operating Temperature Min" "-40°C"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Packaging" "Tray"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Contact Resistance" "20mOhm"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Gender" "Socket Header"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Number of Pins" "2"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Number of Rows" "1"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Orientation" "Vertical"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Pitch" "2.54mm"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Rated Current" "3A"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Working Voltage" "250V"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Withstanding Voltage" "500V"
-			(at 377.698 104.14 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2c95b7c2-33d1-4cb0-b11d-67cce4ad8646")
-		)
-		(pin "2"
-			(uuid "56d7c6c7-e774-42b9-8277-60971d0d9311")
-		)
-		(instances
-			(project "Mainboard"
-				(path "/778a7f39-1f28-457f-badd-61056e9c01e2"
-					(reference "J24")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Socket_header_6_pins_single_straight:61300211821")
-		(at 444.5 36.83 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d4eb71aa-2e97-4c00-a23d-c322df0b01d8")
-		(property "Reference" "J22"
-			(at 441.96 26.67 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-			)
-		)
-		(property "Value" "61300211821"
-			(at 444.5 36.83 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Socket_header_6_pins_single_straight:61300211821"
-			(at 444.5 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 444.5 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "WR-PHD Socket Header, THT, Vertical, pitch 2.54mm, 1 Row, 2P"
-			(at 444.5 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "61300211821"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Category" "Board-to-Board Connectors"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Match Code" "WR-PHD"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ComponentLink1Description" "Website Link"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ComponentLink1URL" "https://www.we-online.com/redexpert/article/61300211821?ad"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ComponentLink2Description" "Datasheet Link"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ComponentLink2URL" "https://www.we-online.com/redexpert/spec/61300211821?ad"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Wurth Elektronik"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Mount" "Through Hole"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Operating Temperature Max" "125°C"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Operating Temperature Min" "-40°C"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Packaging" "Tray"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Contact Resistance" "20mOhm"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Gender" "Socket Header"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Number of Pins" "2"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Number of Rows" "1"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Orientation" "Vertical"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Pitch" "2.54mm"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Rated Current" "3A"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Working Voltage" "250V"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Withstanding Voltage" "500V"
-			(at 450.088 39.37 0)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6646a773-54bb-4fb0-a90a-4ab5616541a7")
-		)
-		(pin "2"
-			(uuid "e16e19d0-d027-41d4-8635-13cc5d7a10c9")
-		)
-		(instances
-			(project "Mainboard"
-				(path "/778a7f39-1f28-457f-badd-61056e9c01e2"
-					(reference "J22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 31.75 233.68 0)
 		(unit 1)
@@ -49057,6 +47806,79 @@
 			(project "Mainboard"
 				(path "/778a7f39-1f28-457f-badd-61056e9c01e2"
 					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x04_Pin")
+		(at 370.84 31.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ee299391-0aba-40cd-978b-b5173062998b")
+		(property "Reference" "J22"
+			(at 366.268 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x04_Pin"
+			(at 365.252 28.194 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+			(at 370.84 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 370.84 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 370.84 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "06121dd1-834c-4a01-9658-0a4f43b0197b")
+		)
+		(pin "3"
+			(uuid "762f279f-73e8-4a12-a0b2-ef000ad4d67b")
+		)
+		(pin "2"
+			(uuid "577b2407-a333-4c15-a6fb-310cb9165a07")
+		)
+		(pin "4"
+			(uuid "59819370-d924-415e-aea5-0265cf9c61ac")
+		)
+		(instances
+			(project "Mainboard"
+				(path "/778a7f39-1f28-457f-badd-61056e9c01e2"
+					(reference "J22")
 					(unit 1)
 				)
 			)
@@ -51861,6 +50683,79 @@
 				(path "/778a7f39-1f28-457f-badd-61056e9c01e2"
 					(reference "U1")
 					(unit 8)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x04_Pin")
+		(at 372.11 96.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ff11af70-c1c1-45ad-9424-1557dc9329e0")
+		(property "Reference" "J23"
+			(at 366.522 90.678 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x04_Pin"
+			(at 365.76 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+			(at 372.11 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 372.11 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 372.11 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "90f4d57d-b5b5-4fae-914b-2218cabc1bbd")
+		)
+		(pin "3"
+			(uuid "1e2f8081-ff64-497d-8123-6b0ea161ab78")
+		)
+		(pin "2"
+			(uuid "d35a0ee5-cdb8-491f-8fc3-f2f8392d8a05")
+		)
+		(pin "4"
+			(uuid "30160add-2445-4a05-b2b6-2669541476ea")
+		)
+		(instances
+			(project "Mainboard"
+				(path "/778a7f39-1f28-457f-badd-61056e9c01e2"
+					(reference "J23")
+					(unit 1)
 				)
 			)
 		)
