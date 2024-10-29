@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DA2034-ALD"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-07-11-12:32:34)
+    (mountForm default
+        (footprintRef "SOP300P3000X1143-12N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,168 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "DA2034-ALD"
+   (description "Audio Transformers / Signal Transformers DA2032 Cap Chrgr For Linear LT3750/51")
+   (family "XFR")
+   (package "SOP300P3000X1143-12N")
+   (attribute "Datasheet Link" "https://www.coilcraft.com/pdfs/da2032.pdf")
+   (attribute "Geometry.Height" "11.43mm")
+   (attribute "Mouser Part Number" "994-DA2034-ALD")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Coilcraft/DA2034-ALD?qs=ZYnrCdKdyedtN304hL7iMg%3D%3D")
+   (attribute "Manufacturer_Name" "COILCRAFT")
+   (attribute "Manufacturer_Part_Number" "DA2034-ALD")
+   (gate
+    (symbol "DA2034-ALD")
+    (pin "SEC_1" 1 PS)
+    (pin "NC_1" 2 PS)
+    (pin "PRI_1" 3 PS)
+    (pin "PRI_2" 4 PS)
+    (pin "PRI_3" 5 PS)
+    (pin "PRI_4" 6 PS)
+    (pin "SEC_2" 12 PS)
+    (pin "NC_2" 11 PS)
+    (pin "PRI_8" 10 PS)
+    (pin "PRI_7" 9 PS)
+    (pin "PRI_6" 8 PS)
+    (pin "PRI_5" 7 PS)
+   )
+  )
+  (symbol "DA2034-ALD"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -600) (pt 200 -600) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOP300P3000X1143-12N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -15.7 10.535)
+      (pt 15.7 10.535)
+      (pt 15.7 -10.535)
+      (pt -15.7 -10.535)
+      (pt -15.7 10.535))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -10.5 10.285)
+      (pt 10.5 10.285)
+      (pt 10.5 -10.285)
+      (pt -10.5 -10.285)
+      (pt -10.5 10.285))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -10.5 7.285)
+      (pt -7.5 10.285))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -12.15 10.285)
+      (pt 12.15 10.285)
+      (pt 12.15 -10.285)
+      (pt -12.15 -10.285)
+      (pt -12.15 10.285))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -15.45 8.35)
+      (pt -12.5 8.35))))
+   (leg 1 (pt -13.975 7.5) (padstack 0))
+   (leg 2 (pt -13.975 4.5) (padstack 0))
+   (leg 3 (pt -13.975 1.5) (padstack 0))
+   (leg 4 (pt -13.975 -1.5) (padstack 0))
+   (leg 5 (pt -13.975 -4.5) (padstack 0))
+   (leg 6 (pt -13.975 -7.5) (padstack 0))
+   (leg 7 (pt 13.975 -7.5) (padstack 0))
+   (leg 8 (pt 13.975 -4.5) (padstack 0))
+   (leg 9 (pt 13.975 -1.5) (padstack 0))
+   (leg 10 (pt 13.975 1.5) (padstack 0))
+   (leg 11 (pt 13.975 4.5) (padstack 0))
+   (leg 12 (pt 13.975 7.5) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1 2.95 0 0 0))
+   )
+   (model "DA2034-ALD.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

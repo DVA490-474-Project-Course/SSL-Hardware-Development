@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SOP300P3000X1143-12N"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SOP300P3000X1143-12N")
+        (spec "default")
+    )
+)

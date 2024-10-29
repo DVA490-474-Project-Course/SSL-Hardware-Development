@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "WE-FC_ET17"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "WE-FC_ET17")
+        (spec "default")
+    )
+)

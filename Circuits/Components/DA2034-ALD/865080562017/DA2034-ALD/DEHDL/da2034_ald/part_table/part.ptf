@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DA2034_ALD'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "COILCRAFT", "DA2034-ALD" (!) = "", "SOP300P3000X1143-12N", "Small Outline Packages", "994-DA2034-ALD", "https://www.mouser.co.uk/ProductDetail/Coilcraft/DA2034-ALD?qs=ZYnrCdKdyedtN304hL7iMg%3D%3D", "Audio Transformers / Signal Transformers DA2032 Cap Chrgr For Linear LT3750/51", "https://www.coilcraft.com/pdfs/da2032.pdf", "11.43 mm"
+END_PART
+
+END.

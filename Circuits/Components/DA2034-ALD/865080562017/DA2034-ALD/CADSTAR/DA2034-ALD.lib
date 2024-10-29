@@ -1,0 +1,16 @@
+.DA2034-ALD :1 ;Audio Transformers / Signal Transformers DA2032 Cap Chrgr For Linear LT3750/51
+SOP300P3000X1143-12N
+*STM T
+*NGS
+*PLB 1="SEC_1" 2="NC_1" 3="PRI_1" 4="PRI_2" 5="PRI_3" 6="PRI_4" 7="PRI_5" 8="PRI_6" 9="PRI_7" 10="PRI_8" 11="NC_2" 12="SEC_2"
+*MXP 12
+*DFN DA2034-ALD
+~!Mouser Part Number (994-DA2034-ALD)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Coilcraft/DA2034-ALD?qs=ZYnrCdKdyedtN304hL7iMg%3D%3D)
+~!Manufacturer_Name (COILCRAFT)
+~!Manufacturer_Part_Number (DA2034-ALD)
+~!Link Datasheet (https://www.coilcraft.com/pdfs/da2032.pdf)
+~!Height (11.43mm)
+~!3D_Model (DA2034-ALD)
+DA2034-ALD
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 12.1!U 11.1!U 10.1!U 9.1!U 8.1!U 7.1!U 

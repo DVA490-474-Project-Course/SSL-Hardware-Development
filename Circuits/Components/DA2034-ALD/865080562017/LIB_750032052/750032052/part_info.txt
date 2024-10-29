@@ -1,0 +1,9 @@
+Manufacturer=Würth Elektronik
+PartNumber=750032052
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=4
+Version=3.1
+Released=2017-01-12 20:05:57
+Downloaded=2024-10-22 07:25:17
+3D=Y
