@@ -40040,7 +40040,7 @@
 	)
 	(symbol
 		(lib_id "SMA-J-P-H-RA-TH1:SMA-J-P-H-RA-TH1")
-		(at 189.23 214.63 0)
+		(at 196.85 214.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -40049,7 +40049,7 @@
 		(fields_autoplaced yes)
 		(uuid "9ff6e85e-1e72-444f-840e-b9375381edce")
 		(property "Reference" "J15"
-			(at 199.39 207.01 0)
+			(at 207.01 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40057,7 +40057,7 @@
 			)
 		)
 		(property "Value" "SMA-J-P-H-RA-TH1"
-			(at 199.39 209.55 0)
+			(at 207.01 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40065,7 +40065,7 @@
 			)
 		)
 		(property "Footprint" "SMA-J-P-H-RA-TH1:SMAJPHRATH1"
-			(at 205.74 309.55 0)
+			(at 213.36 309.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40075,7 +40075,7 @@
 			)
 		)
 		(property "Datasheet" "http://suddendocs.samtec.com/prints/sma-j-p-x-ra-th1-mkt.pdf"
-			(at 205.74 409.55 0)
+			(at 213.36 409.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40085,7 +40085,7 @@
 			)
 		)
 		(property "Description" "Samtec Right Angle 50 Through Hole SMA Jack, Solder Termination Coaxial"
-			(at 189.23 214.63 0)
+			(at 196.85 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40094,7 +40094,7 @@
 			)
 		)
 		(property "Height" "9.86"
-			(at 205.74 609.55 0)
+			(at 213.36 609.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40104,7 +40104,7 @@
 			)
 		)
 		(property "Mouser Part Number" "200-SMAJPHRATH1"
-			(at 205.74 709.55 0)
+			(at 213.36 709.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40114,7 +40114,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-RA-TH1?qs=IAPfasySNH9bBmPI%2F132gw%3D%3D"
-			(at 205.74 809.55 0)
+			(at 213.36 809.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40124,7 +40124,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "SAMTEC"
-			(at 205.74 909.55 0)
+			(at 213.36 909.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40134,7 +40134,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SMA-J-P-H-RA-TH1"
-			(at 205.74 1009.55 0)
+			(at 213.36 1009.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
