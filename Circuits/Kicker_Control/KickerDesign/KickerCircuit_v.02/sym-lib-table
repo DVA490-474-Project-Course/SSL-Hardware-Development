@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Transformer_flyback_Coilcraft_HA4060-AL")(type "KiCad")(uri "${KIPRJMOD}/Transformer_flyback_Coilcraft_HA4060-AL.kicad_sym")(options "")(descr ""))
+)
