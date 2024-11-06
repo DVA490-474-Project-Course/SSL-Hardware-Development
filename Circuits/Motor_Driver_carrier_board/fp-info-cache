@@ -1,4 +1,4 @@
-25944530093230147
+27718168599504129
 61300511021
 62300421021
 WR-PHD1.27 mm SMT Dual Socket Header, H=4.50 mm, 4 Pins
@@ -10735,8 +10735,8 @@ ESC_Adapter_pins_right_angle
 Pin Header, pitch 2.54 mm, THT, Angled, dual row, 10p
 
 0
-20
-20
+10
+10
 61301021821
 62300421021
 WR-PHD1.27 mm SMT Dual Socket Header, H=4.50 mm, 4 Pins
@@ -14314,6 +14314,3583 @@ WR-PHD{return}2.00 mm Dual Socket Header THT, 44 Pins
 0
 28
 28
+61302021021 Pin header
+62300421021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+62300821021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+62301021021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+62301421021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+62301621021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+62302021021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+62302821021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 28p
+
+0
+28
+28
+61302021021 Pin header
+62330421021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+62330821021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+62331021021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+62331421021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+62331621021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+62332021021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+62332821021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 28p
+
+0
+28
+28
+61302021021 Pin header
+621004242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+621004245821
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+621006242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+621006245821
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+621008242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+621008245821
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+621010242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+621010245821
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+621014242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+621014245821
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+621016242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+621016245821
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+621020242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+621020245821
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+621024242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 24p
+
+0
+24
+24
+61302021021 Pin header
+621024245821
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 24p
+
+0
+24
+24
+61302021021 Pin header
+621032242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 32p
+
+0
+32
+32
+61302021021 Pin header
+621044242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 44p
+
+0
+44
+44
+61302021021 Pin header
+621104284621
+Socket Header, Pitch 2.00 mm, SMT, Angled, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+621106284621
+Socket Header, Pitch 2.00 mm, SMT, Angled, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+621108284621
+Socket Header, Pitch 2.00 mm, SMT, Angled, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+621110284621
+Socket Header, Pitch 2.00 mm, SMT, Angled, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+621112284621
+Socket Header, Pitch 2.00 mm, SMT, Angled, dual row, 12p
+
+0
+12
+12
+61302021021 Pin header
+621114284621
+Socket Header, Pitch 2.00 mm, SMT, Angled, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+621116284621
+Socket Header, Pitch 2.00 mm, SMT, Angled, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+621120284621
+Socket Header, Pitch 2.00 mm, SMT, Angled, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+621304242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+621304245821
+2.00 mm SMT Dual Pin Header Low Profile (Reel), 4p
+
+0
+4
+4
+61302021021 Pin header
+621304284521
+Pin Header, pitch 2.00 mm, SMD, Angled, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+621306242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+621306245821
+2.00 mm SMT Dual Pin Header Low Profile (Reel), 6p
+
+0
+6
+6
+61302021021 Pin header
+621306284521
+Pin Header, pitch 2.00 mm, SMD, Angled, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+621308242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+621308245821
+2.00 mm SMT Dual Pin Header Low Profile (Reel), 8p
+
+0
+8
+8
+61302021021 Pin header
+621308284521
+Pin Header, pitch 2.00 mm, SMD, Angled, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+621310242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+621310245821
+2.00 mm SMT Dual Pin Header Low Profile (Reel), 10p
+
+0
+10
+10
+61302021021 Pin header
+621310284521
+Pin Header, pitch 2.00 mm, SMD, Angled, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+621312284521
+Pin Header, pitch 2.00 mm, SMD, Angled, dual row, 12p
+
+0
+12
+12
+61302021021 Pin header
+621314242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+621314245821
+2.00 mm SMT Dual Pin Header Low Profile (Reel), 14p
+
+0
+14
+14
+61302021021 Pin header
+621314284521
+Pin Header, pitch 2.00 mm, SMD, Angled, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+621316242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+621316245821
+2.00 mm SMT Dual Pin Header Low Profile (Reel), 16p
+
+0
+16
+16
+61302021021 Pin header
+621316284521
+Pin Header, pitch 2.00 mm, SMD, Angled, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+621320242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+621320245821
+2.00 mm SMT Dual Pin Header Low Profile (Reel), 20p
+
+0
+20
+20
+61302021021 Pin header
+621320284521
+Pin Header, pitch 2.00 mm, SMD, Angled, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+621324242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 24p
+
+0
+24
+24
+61302021021 Pin header
+621324245821
+2.00 mm SMT Dual Pin Header Low Profile (Reel), 24p
+
+0
+24
+24
+61302021021 Pin header
+621344242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 44p
+
+0
+44
+44
+61302021021 Pin header
+613002143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 2p
+
+0
+2
+2
+61302021021 Pin header
+613003143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 3p
+
+0
+3
+3
+61302021021 Pin header
+613004143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 4p
+
+0
+4
+4
+61302021021 Pin header
+613004216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+613004243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+613005143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 5p
+
+0
+5
+5
+61302021021 Pin header
+613006143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 6p
+
+0
+6
+6
+61302021021 Pin header
+613006216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+613006243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+613007143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 7p
+
+0
+7
+7
+61302021021 Pin header
+613008143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 18p
+
+0
+8
+8
+61302021021 Pin header
+613008216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+613008243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+613009143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 19p
+
+0
+9
+9
+61302021021 Pin header
+613010143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 10p
+
+0
+10
+10
+61302021021 Pin header
+613010216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+613010243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+613011143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 11p
+
+0
+11
+11
+61302021021 Pin header
+613012143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 12p
+
+0
+12
+12
+61302021021 Pin header
+613012216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 12p
+
+0
+12
+12
+61302021021 Pin header
+613012243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 12p
+
+0
+12
+12
+61302021021 Pin header
+613013143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 13p
+
+0
+13
+13
+61302021021 Pin header
+613014243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+613015143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 15p
+
+0
+15
+15
+61302021021 Pin header
+613016143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 16p
+
+0
+16
+16
+61302021021 Pin header
+613016216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+613016243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+613018143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 18p
+
+0
+18
+18
+61302021021 Pin header
+613018216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 18p
+
+0
+18
+18
+61302021021 Pin header
+613020143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 20p
+
+0
+20
+20
+61302021021 Pin header
+613020216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+613020243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+613022216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 22p
+
+0
+22
+22
+61302021021 Pin header
+613022243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 22p
+
+0
+22
+22
+61302021021 Pin header
+613024143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 24p
+
+0
+24
+24
+61302021021 Pin header
+613024216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 24p
+
+0
+24
+24
+61302021021 Pin header
+613024243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 24p
+
+0
+24
+24
+61302021021 Pin header
+613026216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 26p
+
+0
+26
+26
+61302021021 Pin header
+613026243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 26p
+
+0
+26
+26
+61302021021 Pin header
+613032143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 32p
+
+0
+32
+32
+61302021021 Pin header
+613032216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 32p
+
+0
+32
+32
+61302021021 Pin header
+613032243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 32p
+
+0
+32
+32
+61302021021 Pin header
+613034216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 34p
+
+0
+34
+34
+61302021021 Pin header
+613034243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 34p
+
+0
+34
+34
+61302021021 Pin header
+613036143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 36p
+
+0
+36
+36
+61302021021 Pin header
+613040216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 40p
+
+0
+40
+40
+61302021021 Pin header
+613040243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 40p
+
+0
+40
+40
+61302021021 Pin header
+613064243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 64p
+
+0
+64
+64
+61302021021 Pin header
+613072243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 72p
+
+0
+72
+72
+61302021021 Pin header
+610004243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+610006243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+610008243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+610010243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+610012243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 12p
+
+0
+12
+12
+61302021021 Pin header
+610016243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+610018243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 18p
+
+0
+18
+18
+61302021021 Pin header
+610020243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+610022243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 22p
+
+0
+22
+22
+61302021021 Pin header
+610024243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 24p
+
+0
+24
+24
+61302021021 Pin header
+610026243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 26p
+
+0
+26
+26
+61302021021 Pin header
+610032243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 32p
+
+0
+32
+32
+61302021021 Pin header
+610034243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 34p
+
+0
+34
+34
+61302021021 Pin header
+610040243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 40p
+
+0
+40
+40
+61302021021 Pin header
+610106249121
+Pin Header, pitch 2.54 mm, SMD, Angled, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+610106249221
+Socket Header, Pitch 2.54 mm, SMT, Angled, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+610108249121
+Pin Header, pitch 2.54 mm, SMD, Angled, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+610108249221
+Socket Header, Pitch 2.54 mm, SMT, Angled, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+610110249121
+Pin Header, pitch 2.54 mm, SMD, Angled, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+610110249221
+Socket Header, Pitch 2.54 mm, SMT, Angled, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+610112249121
+Pin Header, pitch 2.54 mm, SMD, Angled, dual row, 12p
+
+0
+12
+12
+61302021021 Pin header
+610112249221
+Socket Header, Pitch 2.54 mm, SMT, Angled, dual row, 12p
+
+0
+12
+12
+61302021021 Pin header
+610114249121
+Pin Header, pitch 2.54 mm, SMD, Angled, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+610114249221
+Socket Header, Pitch 2.54 mm, SMT, Angled, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+610116249121
+Pin Header, pitch 2.54 mm, SMD, Angled, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+610116249221
+Socket Header, Pitch 2.54 mm, SMT, Angled, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+610120249121
+Pin Header, pitch 2.54 mm, SMD, Angled, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+610120249221
+Socket Header, Pitch 2.54 mm, SMT, Angled, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+610122249121
+Pin Header, pitch 2.54 mm, SMD, Angled, dual row, 22p
+
+0
+22
+22
+61302021021 Pin header
+610122249221
+Socket Header, Pitch 2.54 mm, SMT, Angled, dual row, 22p
+
+0
+22
+22
+61302021021 Pin header
+610124249121
+Pin Header, pitch 2.54 mm, SMD, Angled, dual row, 24p
+
+0
+24
+24
+61302021021 Pin header
+610124249221
+Socket Header, Pitch 2.54 mm, SMT, Angled, dual row, 24p
+
+0
+24
+24
+61302021021 Pin header
+610126249121
+Pin Header, pitch 2.54 mm, SMD, Angled, dual row, 26p
+
+0
+26
+26
+61302021021 Pin header
+610126249221
+Socket Header, Pitch 2.54 mm, SMT, Angled, dual row, 26p
+
+0
+26
+26
+61302021021 Pin header
+610304243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+610306243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+610308243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+610310243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+610312243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 12p
+
+0
+12
+12
+61302021021 Pin header
+610316243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+610318243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 18p
+
+0
+18
+18
+61302021021 Pin header
+610320243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+623310235321
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+623310235521
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+623326235321
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 26p
+
+0
+26
+26
+61302021021 Pin header
+623326235521
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 26p
+
+0
+26
+26
+61302021021 Pin header
+623350235321
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 50p
+
+0
+50
+50
+61302021021 Pin header
+623350235521
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 50p
+
+0
+50
+50
+61302021021 Pin header
+61000411921
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 4p
+
+0
+4
+4
+61302021021 Pin header
+61000413321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 4p
+
+0
+4
+4
+61302021021 Pin header
+61000418221
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 4p
+
+0
+4
+4
+61302021021 Pin header
+61000418321
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 4p
+
+0
+4
+4
+61302021021 Pin header
+61000421121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+61000421821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+61000511921
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 5p
+
+0
+5
+5
+61302021021 Pin header
+61000513321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 5p
+
+0
+5
+5
+61302021021 Pin header
+61000611921
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 6p
+
+0
+6
+6
+61302021021 Pin header
+61000613321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 6p
+
+0
+6
+6
+61302021021 Pin header
+61000618221
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 6p
+
+0
+6
+6
+61302021021 Pin header
+61000618321
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 6p
+
+0
+6
+6
+61302021021 Pin header
+61000621121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+61000621821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+61000811921
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 8p
+
+0
+8
+8
+61302021021 Pin header
+61000813321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 8p
+
+0
+8
+8
+61302021021 Pin header
+61000821121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+61000821821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+61001011921
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 10p
+
+0
+10
+10
+61302021021 Pin header
+61001013321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 10p
+
+0
+10
+10
+61302021021 Pin header
+61001018221
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 10p
+
+0
+10
+10
+61302021021 Pin header
+61001018321
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 8p
+
+0
+10
+10
+61302021021 Pin header
+61001021121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+61001021821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+61001211921
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 12p
+
+0
+12
+12
+61302021021 Pin header
+61001213321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 12p
+
+0
+12
+12
+61302021021 Pin header
+61001221121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 12p
+
+0
+12
+12
+61302021021 Pin header
+61001221821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 12p
+
+0
+12
+12
+61302021021 Pin header
+61001413321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 14p
+
+0
+14
+14
+61302021021 Pin header
+61001418221
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 14p
+
+0
+14
+14
+61302021021 Pin header
+61001421121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+61001421821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+61001511921
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 15p
+
+0
+15
+15
+61302021021 Pin header
+61001513321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 15p
+
+0
+15
+15
+61302021021 Pin header
+61001518221
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 15p
+
+0
+15
+15
+61302021021 Pin header
+61001611921
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 16p
+
+0
+16
+16
+61302021021 Pin header
+61001613321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 16p
+
+0
+16
+16
+61302021021 Pin header
+61001618221
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 16p
+
+0
+16
+16
+61302021021 Pin header
+61001618321
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 16p
+
+0
+16
+16
+61302021021 Pin header
+61001621121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+61001621821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+61001821821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 18p
+
+0
+18
+18
+61302021021 Pin header
+61002011921
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 20p
+
+0
+20
+20
+61302021021 Pin header
+61002013321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 20p
+
+0
+20
+20
+61302021021 Pin header
+61002021121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+61002021821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+61002221121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 22p
+
+0
+22
+22
+61302021021 Pin header
+61002221821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 22p
+
+0
+22
+22
+61302021021 Pin header
+61002411921
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 24p
+
+0
+24
+24
+61302021021 Pin header
+61002413321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 24p
+
+0
+24
+24
+61302021021 Pin header
+61002418221
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 24p
+
+0
+24
+24
+61302021021 Pin header
+61002418321
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 24p
+
+0
+24
+24
+61302021021 Pin header
+61002421121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 24p
+
+0
+24
+24
+61302021021 Pin header
+61002421821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 24p
+
+0
+24
+24
+61302021021 Pin header
+61002621121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 26p
+
+0
+26
+26
+61302021021 Pin header
+61002621821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 26p
+
+0
+26
+26
+61302021021 Pin header
+61002821821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 28p
+
+0
+28
+28
+61302021021 Pin header
+61003021821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 30p
+
+0
+30
+30
+61302021021 Pin header
+61003218221
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 32p
+
+0
+32
+32
+61302021021 Pin header
+61003218321
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 32p
+
+0
+32
+32
+61302021021 Pin header
+61003221121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 32p
+
+0
+32
+32
+61302021021 Pin header
+61003221821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 32p
+
+0
+32
+32
+61302021021 Pin header
+61003418321
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 34p
+
+0
+34
+34
+61302021021 Pin header
+61003421121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 34p
+
+0
+34
+34
+61302021021 Pin header
+61003421821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 34p
+
+0
+34
+34
+61302021021 Pin header
+61003618321
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 36p
+
+0
+36
+36
+61302021021 Pin header
+61003621121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 36p
+
+0
+36
+36
+61302021021 Pin header
+61003621821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 36p
+
+0
+36
+36
+61302021021 Pin header
+61004021821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 40p
+
+0
+40
+40
+61302021021 Pin header
+61030421121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+61030421821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+61030621121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+61030621821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+61030821121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+61030821821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+61031021121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+61031021821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+61031221121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 12p
+
+0
+12
+12
+61302021021 Pin header
+61031221821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 12p
+
+0
+12
+12
+61302021021 Pin header
+61031421121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+61031421821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+61031621121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+61031621821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+61031821821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 18p
+
+0
+18
+18
+61302021021 Pin header
+61032021121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+61032021821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+61032221821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 22p
+
+0
+22
+22
+61302021021 Pin header
+61032421821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 24p
+
+0
+24
+24
+61302021021 Pin header
+61032621821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 26p
+
+0
+26
+26
+61302021021 Pin header
+61300111121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 1p
+
+0
+1
+1
+61302021021 Pin header
+61300211021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 2p
+
+0
+2
+2
+61302021021 Pin header
+61300211121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 2p
+
+0
+2
+2
+61302021021 Pin header
+61300211821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 2p
+
+0
+2
+2
+61302021021 Pin header
+61300311021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 3p
+
+0
+3
+3
+61302021021 Pin header
+61300311121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 3p
+
+0
+3
+3
+61302021021 Pin header
+61300311821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 3p
+
+0
+3
+3
+61302021021 Pin header
+61300411021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 4p
+
+0
+4
+4
+61302021021 Pin header
+61300411121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 4p
+
+0
+4
+4
+61302021021 Pin header
+61300411821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 4p
+
+0
+4
+4
+61302021021 Pin header
+61300415721
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 4p
+
+0
+4
+4
+61302021021 Pin header
+61300421021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+61300421121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+61300421821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+61300425721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 4p
+
+0
+4
+4
+61302021021 Pin header
+61300511021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 5p
+
+0
+5
+5
+61302021021 Pin header
+61300511121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 5p
+
+0
+5
+5
+61302021021 Pin header
+61300511821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 5p
+
+0
+5
+5
+61302021021 Pin header
+61300515721
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 5p
+
+0
+5
+5
+61302021021 Pin header
+61300611021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 6p
+
+0
+6
+6
+61302021021 Pin header
+61300611121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 6p
+
+0
+6
+6
+61302021021 Pin header
+61300611821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 6p
+
+0
+6
+6
+61302021021 Pin header
+61300615721
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 6p
+
+0
+6
+6
+61302021021 Pin header
+61300621021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+61300621121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+61300621821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+61300625721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 6p
+
+0
+6
+6
+61302021021 Pin header
+61300711021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 7p
+
+0
+7
+7
+61302021021 Pin header
+61300711121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 7p
+
+0
+7
+7
+61302021021 Pin header
+61300711821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 7p
+
+0
+7
+7
+61302021021 Pin header
+61300811021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 8p
+
+0
+8
+8
+61302021021 Pin header
+61300811121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 8p
+
+0
+8
+8
+61302021021 Pin header
+61300811821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 8p
+
+0
+8
+8
+61302021021 Pin header
+61300815721
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 8p
+
+0
+8
+8
+61302021021 Pin header
+61300821021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+61300821121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+61300821821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+61300825721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 8p
+
+0
+8
+8
+61302021021 Pin header
+61300911021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 9p
+
+0
+9
+9
+61302021021 Pin header
+61300911121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 9p
+
+0
+9
+9
+61302021021 Pin header
+61300911821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 9p
+
+0
+9
+9
+61302021021 Pin header
+61301011021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 10p
+
+0
+10
+10
+61302021021 Pin header
+61301011121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 10p
+
+0
+10
+10
+61302021021 Pin header
+61301011821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 10p
+
+0
+10
+10
+61302021021 Pin header
+61301015721
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 10p
+
+0
+10
+10
+61302021021 Pin header
+61301021021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+61301021121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+61301021821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+61301025721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 10p
+
+0
+10
+10
+61302021021 Pin header
+61301111821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 11p
+
+0
+11
+11
+61302021021 Pin header
+61301211021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 12p
+
+0
+12
+12
+61302021021 Pin header
+61301211121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 12p
+
+0
+12
+12
+61302021021 Pin header
+61301211821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 12p
+
+0
+12
+12
+61302021021 Pin header
+61301221021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 12p
+
+0
+12
+12
+61302021021 Pin header
+61301221121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 12p
+
+0
+12
+12
+61302021021 Pin header
+61301221821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 12p
+
+0
+12
+12
+61302021021 Pin header
+61301225721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 12p
+
+0
+12
+12
+61302021021 Pin header
+61301311121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 13p
+
+0
+13
+13
+61302021021 Pin header
+61301311821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 13p
+
+0
+13
+13
+61302021021 Pin header
+61301411021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 14p
+
+0
+14
+14
+61302021021 Pin header
+61301411121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 14p
+
+0
+14
+14
+61302021021 Pin header
+61301411821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 14p
+
+0
+14
+14
+61302021021 Pin header
+61301421021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+61301421121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+61301421821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+61301511021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 15p
+
+0
+15
+15
+61302021021 Pin header
+61301511121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 15p
+
+0
+15
+15
+61302021021 Pin header
+61301511821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 15p
+
+0
+15
+15
+61302021021 Pin header
+61301611021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 16p
+
+0
+16
+16
+61302021021 Pin header
+61301611121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 16p
+
+0
+16
+16
+61302021021 Pin header
+61301611821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 16p
+
+0
+16
+16
+61302021021 Pin header
+61301621021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+61301621121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+61301621821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+61301625721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 16p
+
+0
+16
+16
+61302021021 Pin header
+61301811021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 18p
+
+0
+18
+18
+61302021021 Pin header
+61301811121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 18p
+
+0
+18
+18
+61302021021 Pin header
+61301811821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 18p
+
+0
+18
+18
+61302021021 Pin header
+61301821021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 18p
+
+0
+18
+18
+61302021021 Pin header
+61301821121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 18p
+
+0
+18
+18
+61302021021 Pin header
+61301821821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 18p
+
+0
+18
+18
+61302021021 Pin header
+61302011121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 20p
+
+0
+20
+20
+61302021021 Pin header
+61302011821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 20p
+
+0
+20
+20
+61302021021 Pin header
+61302015721
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 20p
+
+0
+20
+20
+61302021021 Pin header
+61302021021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+61302021121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+61302021821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+61302025721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 20p
+
+0
+20
+20
+61302021021 Pin header
+61302211021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 22p
+
+0
+22
+22
+61302021021 Pin header
+61302211121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 22p
+
+0
+22
+22
+61302021021 Pin header
+61302211821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 22p
+
+0
+22
+22
+61302021021 Pin header
+61302221021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 22p
+
+0
+22
+22
+61302021021 Pin header
+61302221121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 22p
+
+0
+22
+22
+61302021021 Pin header
+61302221821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 22p
+
+0
+22
+22
+61302021021 Pin header
+61302411121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 24p
+
+0
+24
+24
+61302021021 Pin header
+61302411821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 24p
+
+0
+24
+24
+61302021021 Pin header
+61302421021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 24p
+
+0
+24
+24
+61302021021 Pin header
+61302421121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 24p
+
+0
+24
+24
+61302021021 Pin header
+61302421821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 24p
+
+0
+24
+24
+61302021021 Pin header
+61302425721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 24p
+
+0
+24
+24
+61302021021 Pin header
+61302511121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 25p
+
+0
+25
+25
+61302021021 Pin header
+61302511821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 25p
+
+0
+25
+25
+61302021021 Pin header
+61302621021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 26p
+
+0
+26
+26
+61302021021 Pin header
+61302621121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 26p
+
+0
+26
+26
+61302021021 Pin header
+61302621821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 26p
+
+0
+26
+26
+61302021021 Pin header
+61302625721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 26p
+
+0
+26
+26
+61302021021 Pin header
+61302821121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 28p
+
+0
+28
+28
+61302021021 Pin header
+61302821821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 28p
+
+0
+28
+28
+61302021021 Pin header
+61303021121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 30p
+
+0
+30
+30
+61302021021 Pin header
+61303021821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 30p
+
+0
+30
+30
+61302021021 Pin header
+61303211021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 32p
+
+0
+32
+32
+61302021021 Pin header
+61303211121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 32p
+
+0
+32
+32
+61302021021 Pin header
+61303211221
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 32p
+
+0
+32
+32
+61302021021 Pin header
+61303211321
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 32p
+
+0
+32
+32
+61302021021 Pin header
+61303211821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 32p
+
+0
+32
+32
+61302021021 Pin header
+61303218421
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 32p
+
+0
+32
+32
+61302021021 Pin header
+61303218521
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 32p
+
+0
+32
+32
+61302021021 Pin header
+61303221021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 32p
+
+0
+32
+32
+61302021021 Pin header
+61303221121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 32p
+
+0
+32
+32
+61302021021 Pin header
+61303221821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 32p
+
+0
+32
+32
+61302021021 Pin header
+61303225721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 32p
+
+0
+32
+32
+61302021021 Pin header
+61303411021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 34p
+
+0
+34
+34
+61302021021 Pin header
+61303421021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 34p
+
+0
+34
+34
+61302021021 Pin header
+61303421121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 34p
+
+0
+34
+34
+61302021021 Pin header
+61303421821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 34p
+
+0
+34
+34
+61302021021 Pin header
+61303425721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 34p
+
+0
+34
+34
+61302021021 Pin header
+61303611021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 36p
+
+0
+36
+36
+61302021021 Pin header
+61303611121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 36p
+
+0
+36
+36
+61302021021 Pin header
+61303611821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 36p
+
+0
+36
+36
+61302021021 Pin header
+61303621021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 36p
+
+0
+36
+36
+61302021021 Pin header
+61303621121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 36p
+
+0
+36
+36
+61302021021 Pin header
+61303621821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 36p
+
+0
+36
+36
+61302021021 Pin header
+61304011021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 40p
+
+0
+40
+40
+61302021021 Pin header
+61304011121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 40p
+
+0
+40
+40
+61302021021 Pin header
+61304011821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 40p
+
+0
+40
+40
+61302021021 Pin header
+61304021021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 40p
+
+0
+40
+40
+61302021021 Pin header
+61304021121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 40p
+
+0
+40
+40
+61302021021 Pin header
+61304021821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 40p
+
+0
+40
+40
+61302021021 Pin header
+61304421121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 44p
+
+0
+44
+44
+61302021021 Pin header
+61304421821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 44p
+
+0
+44
+44
+61302021021 Pin header
+61306421021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 64p
+
+0
+64
+64
+61302021021 Pin header
+61306421121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 64p
+
+0
+64
+64
+61302021021 Pin header
+61306421221
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 64p
+
+0
+64
+64
+61302021021 Pin header
+61306421321
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 64p
+
+0
+64
+64
+61302021021 Pin header
+61306421821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 64p
+
+0
+64
+64
+61302021021 Pin header
+61306428421
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 64p
+
+0
+64
+64
+61302021021 Pin header
+61306428521
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 64p
+
+0
+64
+64
+61302021021 Pin header
+61307221021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 72p
+
+0
+72
+72
+61302021021 Pin header
+61307221121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 72p
+
+0
+72
+72
+61302021021 Pin header
+61307221821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 72p
+
+0
+72
+72
+61302021021 Pin header
+61308021121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 80p
+
+0
+80
+80
+61302021021 Pin header
+62000211121
+Pin Header, pitch 2.00 mm, THT, Vertical, single row, 2p
+
+0
+2
+2
+61302021021 Pin header
+62000211821
+Socket Header, Pitch 2.00 mm, THT, Vertical, single row, 2p
+
+0
+2
+2
+61302021021 Pin header
+62000311121
+Pin Header, pitch 2.00 mm, THT, Vertical, single row, 3p
+
+0
+3
+3
+61302021021 Pin header
+62000411121
+Pin Header, pitch 2.00 mm, THT, Vertical, single row, 4p
+
+0
+4
+4
+61302021021 Pin header
+62000411821
+Socket Header, Pitch 2.00 mm, THT, Vertical, single row, 4p
+
+0
+4
+4
+61302021021 Pin header
+62000421121
+2.00 mm THT Dual Pin Header, 4p
+
+0
+4
+4
+61302021021 Pin header
+62000421821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+62000611121
+Pin Header, pitch 2.00 mm, THT, Vertical, single row, 6p
+
+0
+6
+6
+61302021021 Pin header
+62000611821
+Socket Header, Pitch 2.00 mm, THT, Vertical, single row, 6p
+
+0
+6
+6
+61302021021 Pin header
+62000621121
+2.00 mm THT Dual Pin Header, 6p
+
+0
+6
+6
+61302021021 Pin header
+62000621821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+62000811121
+Pin Header, pitch 2.00 mm, THT, Vertical, single row, 8p
+
+0
+8
+8
+61302021021 Pin header
+62000811821
+Socket Header, Pitch 2.00 mm, THT, Vertical, single row, 8p
+
+0
+8
+8
+61302021021 Pin header
+62000821121
+2.00 mm THT Dual Pin Header, 8p
+
+0
+8
+8
+61302021021 Pin header
+62000821821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+62001011121
+Pin Header, pitch 2.00 mm, THT, Vertical, single row, 10p
+
+0
+10
+10
+61302021021 Pin header
+62001011821
+Socket Header, Pitch 2.00 mm, THT, Vertical, single row, 10p
+
+0
+10
+10
+61302021021 Pin header
+62001021121
+2.00 mm THT Dual Pin Header, 10p
+
+0
+10
+10
+61302021021 Pin header
+62001021821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+62001421821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+62001621121
+2.00 mm THT Dual Pin Header, 16p
+
+0
+16
+16
+61302021021 Pin header
+62001621821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+62002011121
+Pin Header, pitch 2.00 mm, THT, Vertical, single row, 20p
+
+0
+20
+20
+61302021021 Pin header
+62002011821
+Socket Header, Pitch 2.00 mm, THT, Vertical, single row, 20p
+
+0
+20
+20
+61302021021 Pin header
+62002021121
+2.00 mm THT Dual Pin Header, 20p
+
+0
+20
+20
+61302021021 Pin header
+62002021821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+62002421121
+2.00 mm THT Dual Pin Header, 24p
+
+0
+24
+24
+61302021021 Pin header
+62002421821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 24p
+
+0
+24
+24
+61302021021 Pin header
+62002821121
+2.00 mm THT Dual Pin Header, 28p
+
+0
+28
+28
+61302021021 Pin header
+62002821821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 28p
+
+0
+28
+28
+61302021021 Pin header
+62003211121
+Pin Header, pitch 2.00 mm, THT, Vertical, single row, 32p
+
+0
+32
+32
+61302021021 Pin header
+62003211821
+Socket Header, Pitch 2.00 mm, THT, Vertical, single row, 32p
+
+0
+32
+32
+61302021021 Pin header
+62003221121
+2.00 mm THT Dual Pin Header, 32p
+
+0
+32
+32
+61302021021 Pin header
+62003221821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 32p
+
+0
+32
+32
+61302021021 Pin header
+62004021121
+2.00 mm THT Dual Pin Header, 40p
+
+0
+40
+40
+61302021021 Pin header
+62004021821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 40p
+
+0
+40
+40
+61302021021 Pin header
+62004421121
+2.00 mm THT Dual Pin Header, 44p
+
+0
+44
+44
+61302021021 Pin header
+62004421821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 44p
+
+0
+44
+44
+61302021021 Pin header
+62100421021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+62100421821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+62100421921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+62100621821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+62100621921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+62100821021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+62100821821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+62100821921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+62101021021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+62101021821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+62101021921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+62101421021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+62101421821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+62101421921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+62101621021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+62101621821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+62101621921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+62102021021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+62102021821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+62102021921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+62102421821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 24p
+
+0
+24
+24
+61302021021 Pin header
+62102421921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 24p
+
+0
+24
+24
+61302021021 Pin header
+62102821021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 28p
+
+0
+28
+28
+61302021021 Pin header
+62103221921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 32p
+
+0
+32
+32
+61302021021 Pin header
+62104021021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 40p
+
+0
+40
+40
+61302021021 Pin header
+62104421021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 44p
+
+0
+44
+44
+61302021021 Pin header
+62104421921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 44p
+
+0
+44
+44
+61302021021 Pin header
+62105021021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 50p
+
+0
+50
+50
+61302021021 Pin header
+62130421021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+62130421821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+62130421921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+62130621021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+62130621821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+62130621921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 6p
+
+0
+6
+6
+61302021021 Pin header
+62130821021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+62130821821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+62130821921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+62131021021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+62131021821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+62131021921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+62131421021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+62131421821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+62131421921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+62131621021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+62131621821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+62131621921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+62132021021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+62132021821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+62132021921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+62132421821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 24p
+
+0
+24
+24
+61302021021 Pin header
+62132421921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 24p
+
+0
+24
+24
+61302021021 Pin header
+62132821021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 28p
+
+0
+28
+28
+61302021021 Pin header
+62133221921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 32p
+
+0
+32
+32
+61302021021 Pin header
+62134021021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 40p
+
+0
+40
+40
+61302021021 Pin header
+62134421021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 44p
+
+0
+44
+44
+61302021021 Pin header
+62134421921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 44p
+
+0
+44
+44
+61302021021 Pin header
+62135021021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 50p
+
+0
+50
+50
+61302021021 Pin header
+62200421121
+Pin Header, pitch 1.27 mm, THT, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+62200421821
+Socket Header, Pitch 1.27 mm, THT, Vertical, dual row, 4p
+
+0
+4
+4
+61302021021 Pin header
+62200821121
+Pin Header, pitch 1.27 mm, THT, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+62200821821
+Socket Header, Pitch 1.27 mm, THT, Vertical, dual row, 8p
+
+0
+8
+8
+61302021021 Pin header
+62201021121
+Pin Header, pitch 1.27 mm, THT, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+62201021821
+Socket Header, Pitch 1.27 mm, THT, Vertical, dual row, 10p
+
+0
+10
+10
+61302021021 Pin header
+62201421121
+Pin Header, pitch 1.27 mm, THT, Vertical, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+62201421821
+Socket Header, Pitch 1.27 mm, THT, Vertical, dual row, 14p
+
+0
+14
+14
+61302021021 Pin header
+62201621121
+Pin Header, pitch 1.27 mm, THT, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+62201621821
+Socket Header, Pitch 1.27 mm, THT, Vertical, dual row, 16p
+
+0
+16
+16
+61302021021 Pin header
+62202021121
+Pin Header, pitch 1.27 mm, THT, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+62202021821
+Socket Header, Pitch 1.27 mm, THT, Vertical, dual row, 20p
+
+0
+20
+20
+61302021021 Pin header
+62202821121
+Pin Header, pitch 1.27 mm, THT, Vertical, dual row, 28p
+
+0
+28
+28
+61302021021 Pin header
+62202821821
+Socket Header, Pitch 1.27 mm, THT, Vertical, dual row, 28p
+
+0
+28
+28
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -14342,6 +17919,20 @@ B-G431B-ESC1_MOUNT_V2
 0
 5
 5
+B-G431B-ESC1
+ESC_Adapter_pins_right_angle
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 10p
+
+0
+30
+30
+B-G431B-ESC1
+ESC_Adapter_socket
+WR-PHD 2.54 mm Dual Socket Header,10 Pins
+
+0
+30
+30
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -74696,6 +78287,13 @@ Eagle_WR-PHD (rev24c)
 0
 28
 28
+Encoder
+ODFN8-3X3
+
+
+0
+9
+9
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -108443,6 +112041,3583 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 0
 48
 48
+Socket_header_6_pins_single_straight
+62300421021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+62300821021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+62301021021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+62301421021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+62301621021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+62302021021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+62302821021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 28p
+
+0
+28
+28
+Socket_header_6_pins_single_straight
+62330421021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+62330821021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+62331021021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+62331421021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+62331621021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+62332021021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+62332821021
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 28p
+
+0
+28
+28
+Socket_header_6_pins_single_straight
+621004242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+621004245821
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+621006242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+621006245821
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+621008242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+621008245821
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+621010242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+621010245821
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+621014242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+621014245821
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+621016242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+621016245821
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+621020242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+621020245821
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+621024242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+621024245821
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+621032242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+621044242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 44p
+
+0
+44
+44
+Socket_header_6_pins_single_straight
+621104284621
+Socket Header, Pitch 2.00 mm, SMT, Angled, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+621106284621
+Socket Header, Pitch 2.00 mm, SMT, Angled, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+621108284621
+Socket Header, Pitch 2.00 mm, SMT, Angled, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+621110284621
+Socket Header, Pitch 2.00 mm, SMT, Angled, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+621112284621
+Socket Header, Pitch 2.00 mm, SMT, Angled, dual row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+621114284621
+Socket Header, Pitch 2.00 mm, SMT, Angled, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+621116284621
+Socket Header, Pitch 2.00 mm, SMT, Angled, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+621120284621
+Socket Header, Pitch 2.00 mm, SMT, Angled, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+621304242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+621304245821
+2.00 mm SMT Dual Pin Header Low Profile (Reel), 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+621304284521
+Pin Header, pitch 2.00 mm, SMD, Angled, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+621306242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+621306245821
+2.00 mm SMT Dual Pin Header Low Profile (Reel), 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+621306284521
+Pin Header, pitch 2.00 mm, SMD, Angled, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+621308242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+621308245821
+2.00 mm SMT Dual Pin Header Low Profile (Reel), 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+621308284521
+Pin Header, pitch 2.00 mm, SMD, Angled, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+621310242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+621310245821
+2.00 mm SMT Dual Pin Header Low Profile (Reel), 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+621310284521
+Pin Header, pitch 2.00 mm, SMD, Angled, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+621312284521
+Pin Header, pitch 2.00 mm, SMD, Angled, dual row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+621314242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+621314245821
+2.00 mm SMT Dual Pin Header Low Profile (Reel), 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+621314284521
+Pin Header, pitch 2.00 mm, SMD, Angled, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+621316242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+621316245821
+2.00 mm SMT Dual Pin Header Low Profile (Reel), 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+621316284521
+Pin Header, pitch 2.00 mm, SMD, Angled, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+621320242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+621320245821
+2.00 mm SMT Dual Pin Header Low Profile (Reel), 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+621320284521
+Pin Header, pitch 2.00 mm, SMD, Angled, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+621324242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+621324245821
+2.00 mm SMT Dual Pin Header Low Profile (Reel), 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+621344242921
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 44p
+
+0
+44
+44
+Socket_header_6_pins_single_straight
+613002143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 2p
+
+0
+2
+2
+Socket_header_6_pins_single_straight
+613003143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 3p
+
+0
+3
+3
+Socket_header_6_pins_single_straight
+613004143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+613004216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+613004243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+613005143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 5p
+
+0
+5
+5
+Socket_header_6_pins_single_straight
+613006143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+613006216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+613006243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+613007143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 7p
+
+0
+7
+7
+Socket_header_6_pins_single_straight
+613008143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 18p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+613008216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+613008243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+613009143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 19p
+
+0
+9
+9
+Socket_header_6_pins_single_straight
+613010143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+613010216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+613010243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+613011143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 11p
+
+0
+11
+11
+Socket_header_6_pins_single_straight
+613012143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+613012216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+613012243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+613013143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 13p
+
+0
+13
+13
+Socket_header_6_pins_single_straight
+613014243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+613015143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 15p
+
+0
+15
+15
+Socket_header_6_pins_single_straight
+613016143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+613016216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+613016243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+613018143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 18p
+
+0
+18
+18
+Socket_header_6_pins_single_straight
+613018216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 18p
+
+0
+18
+18
+Socket_header_6_pins_single_straight
+613020143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+613020216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+613020243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+613022216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 22p
+
+0
+22
+22
+Socket_header_6_pins_single_straight
+613022243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 22p
+
+0
+22
+22
+Socket_header_6_pins_single_straight
+613024143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+613024216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+613024243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+613026216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 26p
+
+0
+26
+26
+Socket_header_6_pins_single_straight
+613026243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 26p
+
+0
+26
+26
+Socket_header_6_pins_single_straight
+613032143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+613032216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+613032243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+613034216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 34p
+
+0
+34
+34
+Socket_header_6_pins_single_straight
+613034243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 34p
+
+0
+34
+34
+Socket_header_6_pins_single_straight
+613036143121
+Socket Header, Pitch 2.54 mm, THT, Angled, single row, 36p
+
+0
+36
+36
+Socket_header_6_pins_single_straight
+613040216921
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 40p
+
+0
+40
+40
+Socket_header_6_pins_single_straight
+613040243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 40p
+
+0
+40
+40
+Socket_header_6_pins_single_straight
+613064243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 64p
+
+0
+64
+64
+Socket_header_6_pins_single_straight
+613072243121
+Socket Header, Pitch 2.54 mm, THT, Angled, dual row, 72p
+
+0
+72
+72
+Socket_header_6_pins_single_straight
+610004243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+610006243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+610008243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+610010243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+610012243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+610016243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+610018243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 18p
+
+0
+18
+18
+Socket_header_6_pins_single_straight
+610020243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+610022243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 22p
+
+0
+22
+22
+Socket_header_6_pins_single_straight
+610024243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+610026243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 26p
+
+0
+26
+26
+Socket_header_6_pins_single_straight
+610032243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+610034243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 34p
+
+0
+34
+34
+Socket_header_6_pins_single_straight
+610040243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 40p
+
+0
+40
+40
+Socket_header_6_pins_single_straight
+610106249121
+Pin Header, pitch 2.54 mm, SMD, Angled, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+610106249221
+Socket Header, Pitch 2.54 mm, SMT, Angled, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+610108249121
+Pin Header, pitch 2.54 mm, SMD, Angled, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+610108249221
+Socket Header, Pitch 2.54 mm, SMT, Angled, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+610110249121
+Pin Header, pitch 2.54 mm, SMD, Angled, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+610110249221
+Socket Header, Pitch 2.54 mm, SMT, Angled, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+610112249121
+Pin Header, pitch 2.54 mm, SMD, Angled, dual row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+610112249221
+Socket Header, Pitch 2.54 mm, SMT, Angled, dual row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+610114249121
+Pin Header, pitch 2.54 mm, SMD, Angled, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+610114249221
+Socket Header, Pitch 2.54 mm, SMT, Angled, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+610116249121
+Pin Header, pitch 2.54 mm, SMD, Angled, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+610116249221
+Socket Header, Pitch 2.54 mm, SMT, Angled, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+610120249121
+Pin Header, pitch 2.54 mm, SMD, Angled, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+610120249221
+Socket Header, Pitch 2.54 mm, SMT, Angled, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+610122249121
+Pin Header, pitch 2.54 mm, SMD, Angled, dual row, 22p
+
+0
+22
+22
+Socket_header_6_pins_single_straight
+610122249221
+Socket Header, Pitch 2.54 mm, SMT, Angled, dual row, 22p
+
+0
+22
+22
+Socket_header_6_pins_single_straight
+610124249121
+Pin Header, pitch 2.54 mm, SMD, Angled, dual row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+610124249221
+Socket Header, Pitch 2.54 mm, SMT, Angled, dual row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+610126249121
+Pin Header, pitch 2.54 mm, SMD, Angled, dual row, 26p
+
+0
+26
+26
+Socket_header_6_pins_single_straight
+610126249221
+Socket Header, Pitch 2.54 mm, SMT, Angled, dual row, 26p
+
+0
+26
+26
+Socket_header_6_pins_single_straight
+610304243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+610306243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+610308243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+610310243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+610312243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+610316243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+610318243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 18p
+
+0
+18
+18
+Socket_header_6_pins_single_straight
+610320243021
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+623310235321
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+623310235521
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+623326235321
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 26p
+
+0
+26
+26
+Socket_header_6_pins_single_straight
+623326235521
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 26p
+
+0
+26
+26
+Socket_header_6_pins_single_straight
+623350235321
+Socket Header, Pitch 1.27 mm, SMT, Vertical, dual row, 50p
+
+0
+50
+50
+Socket_header_6_pins_single_straight
+623350235521
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 50p
+
+0
+50
+50
+Socket_header_6_pins_single_straight
+61000411921
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+61000413321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+61000418221
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+61000418321
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+61000421121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+61000421821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+61000511921
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 5p
+
+0
+5
+5
+Socket_header_6_pins_single_straight
+61000513321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 5p
+
+0
+5
+5
+Socket_header_6_pins_single_straight
+61000611921
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+61000613321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+61000618221
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+61000618321
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+61000621121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+61000621821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+61000811921
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+61000813321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+61000821121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+61000821821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+61001011921
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+61001013321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+61001018221
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+61001018321
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 8p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+61001021121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+61001021821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+61001211921
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+61001213321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+61001221121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+61001221821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+61001413321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+61001418221
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+61001421121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+61001421821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+61001511921
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 15p
+
+0
+15
+15
+Socket_header_6_pins_single_straight
+61001513321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 15p
+
+0
+15
+15
+Socket_header_6_pins_single_straight
+61001518221
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 15p
+
+0
+15
+15
+Socket_header_6_pins_single_straight
+61001611921
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+61001613321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+61001618221
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+61001618321
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+61001621121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+61001621821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+61001821821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 18p
+
+0
+18
+18
+Socket_header_6_pins_single_straight
+61002011921
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+61002013321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+61002021121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+61002021821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+61002221121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 22p
+
+0
+22
+22
+Socket_header_6_pins_single_straight
+61002221821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 22p
+
+0
+22
+22
+Socket_header_6_pins_single_straight
+61002411921
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+61002413321
+Socket Header, Pitch 2.54 mm, SMT, Vertical, single row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+61002418221
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+61002418321
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+61002421121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+61002421821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+61002621121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 26p
+
+0
+26
+26
+Socket_header_6_pins_single_straight
+61002621821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 26p
+
+0
+26
+26
+Socket_header_6_pins_single_straight
+61002821821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 28p
+
+0
+28
+28
+Socket_header_6_pins_single_straight
+61003021821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 30p
+
+0
+30
+30
+Socket_header_6_pins_single_straight
+61003218221
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+61003218321
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+61003221121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+61003221821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+61003418321
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 34p
+
+0
+34
+34
+Socket_header_6_pins_single_straight
+61003421121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 34p
+
+0
+34
+34
+Socket_header_6_pins_single_straight
+61003421821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 34p
+
+0
+34
+34
+Socket_header_6_pins_single_straight
+61003618321
+Pin Header, pitch 2.54 mm, SMD, Vertical, single row, 36p
+
+0
+36
+36
+Socket_header_6_pins_single_straight
+61003621121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 36p
+
+0
+36
+36
+Socket_header_6_pins_single_straight
+61003621821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 36p
+
+0
+36
+36
+Socket_header_6_pins_single_straight
+61004021821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 40p
+
+0
+40
+40
+Socket_header_6_pins_single_straight
+61030421121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+61030421821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+61030621121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+61030621821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+61030821121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+61030821821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+61031021121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+61031021821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+61031221121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+61031221821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+61031421121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+61031421821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+61031621121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+61031621821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+61031821821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 18p
+
+0
+18
+18
+Socket_header_6_pins_single_straight
+61032021121
+Pin Header, pitch 2.54 mm, SMD, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+61032021821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+61032221821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 22p
+
+0
+22
+22
+Socket_header_6_pins_single_straight
+61032421821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+61032621821
+Socket Header, Pitch 2.54 mm, SMT, Vertical, dual row, 26p
+
+0
+26
+26
+Socket_header_6_pins_single_straight
+61300111121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 1p
+
+0
+1
+1
+Socket_header_6_pins_single_straight
+61300211021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 2p
+
+0
+2
+2
+Socket_header_6_pins_single_straight
+61300211121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 2p
+
+0
+2
+2
+Socket_header_6_pins_single_straight
+61300211821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 2p
+
+0
+2
+2
+Socket_header_6_pins_single_straight
+61300311021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 3p
+
+0
+3
+3
+Socket_header_6_pins_single_straight
+61300311121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 3p
+
+0
+3
+3
+Socket_header_6_pins_single_straight
+61300311821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 3p
+
+0
+3
+3
+Socket_header_6_pins_single_straight
+61300411021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+61300411121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+61300411821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+61300415721
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+61300421021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+61300421121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+61300421821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+61300425721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+61300511021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 5p
+
+0
+5
+5
+Socket_header_6_pins_single_straight
+61300511121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 5p
+
+0
+5
+5
+Socket_header_6_pins_single_straight
+61300511821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 5p
+
+0
+5
+5
+Socket_header_6_pins_single_straight
+61300515721
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 5p
+
+0
+5
+5
+Socket_header_6_pins_single_straight
+61300611021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+61300611121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+61300611821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+61300615721
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+61300621021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+61300621121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+61300621821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+61300625721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+61300711021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 7p
+
+0
+7
+7
+Socket_header_6_pins_single_straight
+61300711121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 7p
+
+0
+7
+7
+Socket_header_6_pins_single_straight
+61300711821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 7p
+
+0
+7
+7
+Socket_header_6_pins_single_straight
+61300811021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+61300811121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+61300811821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+61300815721
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+61300821021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+61300821121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+61300821821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+61300825721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+61300911021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 9p
+
+0
+9
+9
+Socket_header_6_pins_single_straight
+61300911121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 9p
+
+0
+9
+9
+Socket_header_6_pins_single_straight
+61300911821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 9p
+
+0
+9
+9
+Socket_header_6_pins_single_straight
+61301011021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+61301011121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+61301011821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+61301015721
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+61301021021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+61301021121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+61301021821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+61301025721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+61301111821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 11p
+
+0
+11
+11
+Socket_header_6_pins_single_straight
+61301211021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+61301211121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+61301211821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+61301221021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+61301221121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+61301221821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+61301225721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 12p
+
+0
+12
+12
+Socket_header_6_pins_single_straight
+61301311121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 13p
+
+0
+13
+13
+Socket_header_6_pins_single_straight
+61301311821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 13p
+
+0
+13
+13
+Socket_header_6_pins_single_straight
+61301411021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+61301411121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+61301411821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+61301421021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+61301421121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+61301421821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+61301511021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 15p
+
+0
+15
+15
+Socket_header_6_pins_single_straight
+61301511121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 15p
+
+0
+15
+15
+Socket_header_6_pins_single_straight
+61301511821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 15p
+
+0
+15
+15
+Socket_header_6_pins_single_straight
+61301611021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+61301611121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+61301611821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+61301621021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+61301621121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+61301621821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+61301625721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+61301811021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 18p
+
+0
+18
+18
+Socket_header_6_pins_single_straight
+61301811121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 18p
+
+0
+18
+18
+Socket_header_6_pins_single_straight
+61301811821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 18p
+
+0
+18
+18
+Socket_header_6_pins_single_straight
+61301821021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 18p
+
+0
+18
+18
+Socket_header_6_pins_single_straight
+61301821121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 18p
+
+0
+18
+18
+Socket_header_6_pins_single_straight
+61301821821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 18p
+
+0
+18
+18
+Socket_header_6_pins_single_straight
+61302011121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+61302011821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+61302015721
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+61302021021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+61302021121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+61302021821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+61302025721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+61302211021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 22p
+
+0
+22
+22
+Socket_header_6_pins_single_straight
+61302211121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 22p
+
+0
+22
+22
+Socket_header_6_pins_single_straight
+61302211821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 22p
+
+0
+22
+22
+Socket_header_6_pins_single_straight
+61302221021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 22p
+
+0
+22
+22
+Socket_header_6_pins_single_straight
+61302221121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 22p
+
+0
+22
+22
+Socket_header_6_pins_single_straight
+61302221821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 22p
+
+0
+22
+22
+Socket_header_6_pins_single_straight
+61302411121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+61302411821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+61302421021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+61302421121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+61302421821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+61302425721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+61302511121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 25p
+
+0
+25
+25
+Socket_header_6_pins_single_straight
+61302511821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 25p
+
+0
+25
+25
+Socket_header_6_pins_single_straight
+61302621021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 26p
+
+0
+26
+26
+Socket_header_6_pins_single_straight
+61302621121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 26p
+
+0
+26
+26
+Socket_header_6_pins_single_straight
+61302621821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 26p
+
+0
+26
+26
+Socket_header_6_pins_single_straight
+61302625721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 26p
+
+0
+26
+26
+Socket_header_6_pins_single_straight
+61302821121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 28p
+
+0
+28
+28
+Socket_header_6_pins_single_straight
+61302821821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 28p
+
+0
+28
+28
+Socket_header_6_pins_single_straight
+61303021121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 30p
+
+0
+30
+30
+Socket_header_6_pins_single_straight
+61303021821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 30p
+
+0
+30
+30
+Socket_header_6_pins_single_straight
+61303211021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+61303211121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+61303211221
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+61303211321
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+61303211821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+61303218421
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+61303218521
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+61303221021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+61303221121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+61303221821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+61303225721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+61303411021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 34p
+
+0
+34
+34
+Socket_header_6_pins_single_straight
+61303421021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 34p
+
+0
+34
+34
+Socket_header_6_pins_single_straight
+61303421121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 34p
+
+0
+34
+34
+Socket_header_6_pins_single_straight
+61303421821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 34p
+
+0
+34
+34
+Socket_header_6_pins_single_straight
+61303425721
+Dual Socket Header Bottom Entry, pitch 2.54mm, 34p
+
+0
+34
+34
+Socket_header_6_pins_single_straight
+61303611021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 36p
+
+0
+36
+36
+Socket_header_6_pins_single_straight
+61303611121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 36p
+
+0
+36
+36
+Socket_header_6_pins_single_straight
+61303611821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 36p
+
+0
+36
+36
+Socket_header_6_pins_single_straight
+61303621021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 36p
+
+0
+36
+36
+Socket_header_6_pins_single_straight
+61303621121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 36p
+
+0
+36
+36
+Socket_header_6_pins_single_straight
+61303621821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 36p
+
+0
+36
+36
+Socket_header_6_pins_single_straight
+61304011021
+Pin Header, pitch 2.54 mm, THT, Angled, single row, 40p
+
+0
+40
+40
+Socket_header_6_pins_single_straight
+61304011121
+Pin Header, pitch 2.54 mm, THT, Vertical, single row, 40p
+
+0
+40
+40
+Socket_header_6_pins_single_straight
+61304011821
+Socket Header, Pitch 2.54 mm, THT, Vertical, single row, 40p
+
+0
+40
+40
+Socket_header_6_pins_single_straight
+61304021021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 40p
+
+0
+40
+40
+Socket_header_6_pins_single_straight
+61304021121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 40p
+
+0
+40
+40
+Socket_header_6_pins_single_straight
+61304021821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 40p
+
+0
+40
+40
+Socket_header_6_pins_single_straight
+61304421121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 44p
+
+0
+44
+44
+Socket_header_6_pins_single_straight
+61304421821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 44p
+
+0
+44
+44
+Socket_header_6_pins_single_straight
+61306421021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 64p
+
+0
+64
+64
+Socket_header_6_pins_single_straight
+61306421121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 64p
+
+0
+64
+64
+Socket_header_6_pins_single_straight
+61306421221
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 64p
+
+0
+64
+64
+Socket_header_6_pins_single_straight
+61306421321
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 64p
+
+0
+64
+64
+Socket_header_6_pins_single_straight
+61306421821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 64p
+
+0
+64
+64
+Socket_header_6_pins_single_straight
+61306428421
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 64p
+
+0
+64
+64
+Socket_header_6_pins_single_straight
+61306428521
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 64p
+
+0
+64
+64
+Socket_header_6_pins_single_straight
+61307221021
+Pin Header, pitch 2.54 mm, THT, Angled, dual row, 72p
+
+0
+72
+72
+Socket_header_6_pins_single_straight
+61307221121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 72p
+
+0
+72
+72
+Socket_header_6_pins_single_straight
+61307221821
+Socket Header, Pitch 2.54 mm, THT, Vertical, dual row, 72p
+
+0
+72
+72
+Socket_header_6_pins_single_straight
+61308021121
+Pin Header, pitch 2.54 mm, THT, Vertical, dual row, 80p
+
+0
+80
+80
+Socket_header_6_pins_single_straight
+62000211121
+Pin Header, pitch 2.00 mm, THT, Vertical, single row, 2p
+
+0
+2
+2
+Socket_header_6_pins_single_straight
+62000211821
+Socket Header, Pitch 2.00 mm, THT, Vertical, single row, 2p
+
+0
+2
+2
+Socket_header_6_pins_single_straight
+62000311121
+Pin Header, pitch 2.00 mm, THT, Vertical, single row, 3p
+
+0
+3
+3
+Socket_header_6_pins_single_straight
+62000411121
+Pin Header, pitch 2.00 mm, THT, Vertical, single row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+62000411821
+Socket Header, Pitch 2.00 mm, THT, Vertical, single row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+62000421121
+2.00 mm THT Dual Pin Header, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+62000421821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+62000611121
+Pin Header, pitch 2.00 mm, THT, Vertical, single row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+62000611821
+Socket Header, Pitch 2.00 mm, THT, Vertical, single row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+62000621121
+2.00 mm THT Dual Pin Header, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+62000621821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+62000811121
+Pin Header, pitch 2.00 mm, THT, Vertical, single row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+62000811821
+Socket Header, Pitch 2.00 mm, THT, Vertical, single row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+62000821121
+2.00 mm THT Dual Pin Header, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+62000821821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+62001011121
+Pin Header, pitch 2.00 mm, THT, Vertical, single row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+62001011821
+Socket Header, Pitch 2.00 mm, THT, Vertical, single row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+62001021121
+2.00 mm THT Dual Pin Header, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+62001021821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+62001421821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+62001621121
+2.00 mm THT Dual Pin Header, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+62001621821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+62002011121
+Pin Header, pitch 2.00 mm, THT, Vertical, single row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+62002011821
+Socket Header, Pitch 2.00 mm, THT, Vertical, single row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+62002021121
+2.00 mm THT Dual Pin Header, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+62002021821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+62002421121
+2.00 mm THT Dual Pin Header, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+62002421821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+62002821121
+2.00 mm THT Dual Pin Header, 28p
+
+0
+28
+28
+Socket_header_6_pins_single_straight
+62002821821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 28p
+
+0
+28
+28
+Socket_header_6_pins_single_straight
+62003211121
+Pin Header, pitch 2.00 mm, THT, Vertical, single row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+62003211821
+Socket Header, Pitch 2.00 mm, THT, Vertical, single row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+62003221121
+2.00 mm THT Dual Pin Header, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+62003221821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+62004021121
+2.00 mm THT Dual Pin Header, 40p
+
+0
+40
+40
+Socket_header_6_pins_single_straight
+62004021821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 40p
+
+0
+40
+40
+Socket_header_6_pins_single_straight
+62004421121
+2.00 mm THT Dual Pin Header, 44p
+
+0
+44
+44
+Socket_header_6_pins_single_straight
+62004421821
+Socket Header, Pitch 2.00 mm, THT, Vertical, dual row, 44p
+
+0
+44
+44
+Socket_header_6_pins_single_straight
+62100421021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+62100421821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+62100421921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+62100621821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+62100621921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+62100821021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+62100821821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+62100821921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+62101021021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+62101021821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+62101021921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+62101421021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+62101421821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+62101421921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+62101621021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+62101621821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+62101621921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+62102021021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+62102021821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+62102021921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+62102421821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+62102421921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+62102821021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 28p
+
+0
+28
+28
+Socket_header_6_pins_single_straight
+62103221921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+62104021021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 40p
+
+0
+40
+40
+Socket_header_6_pins_single_straight
+62104421021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 44p
+
+0
+44
+44
+Socket_header_6_pins_single_straight
+62104421921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 44p
+
+0
+44
+44
+Socket_header_6_pins_single_straight
+62105021021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 50p
+
+0
+50
+50
+Socket_header_6_pins_single_straight
+62130421021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+62130421821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+62130421921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+62130621021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+62130621821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+62130621921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 6p
+
+0
+6
+6
+Socket_header_6_pins_single_straight
+62130821021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+62130821821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+62130821921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+62131021021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+62131021821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+62131021921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+62131421021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+62131421821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+62131421921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+62131621021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+62131621821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+62131621921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+62132021021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+62132021821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+62132021921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+62132421821
+Socket Header, Pitch 2.00 mm, SMT, Vertical, dual row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+62132421921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 24p
+
+0
+24
+24
+Socket_header_6_pins_single_straight
+62132821021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 28p
+
+0
+28
+28
+Socket_header_6_pins_single_straight
+62133221921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 32p
+
+0
+32
+32
+Socket_header_6_pins_single_straight
+62134021021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 40p
+
+0
+40
+40
+Socket_header_6_pins_single_straight
+62134421021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 44p
+
+0
+44
+44
+Socket_header_6_pins_single_straight
+62134421921
+Pin Header, pitch 2.00 mm, SMD, Vertical, dual row, 44p
+
+0
+44
+44
+Socket_header_6_pins_single_straight
+62135021021
+Pin Header, pitch 1.27 mm, SMD, Vertical, dual row, 50p
+
+0
+50
+50
+Socket_header_6_pins_single_straight
+62200421121
+Pin Header, pitch 1.27 mm, THT, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+62200421821
+Socket Header, Pitch 1.27 mm, THT, Vertical, dual row, 4p
+
+0
+4
+4
+Socket_header_6_pins_single_straight
+62200821121
+Pin Header, pitch 1.27 mm, THT, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+62200821821
+Socket Header, Pitch 1.27 mm, THT, Vertical, dual row, 8p
+
+0
+8
+8
+Socket_header_6_pins_single_straight
+62201021121
+Pin Header, pitch 1.27 mm, THT, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+62201021821
+Socket Header, Pitch 1.27 mm, THT, Vertical, dual row, 10p
+
+0
+10
+10
+Socket_header_6_pins_single_straight
+62201421121
+Pin Header, pitch 1.27 mm, THT, Vertical, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+62201421821
+Socket Header, Pitch 1.27 mm, THT, Vertical, dual row, 14p
+
+0
+14
+14
+Socket_header_6_pins_single_straight
+62201621121
+Pin Header, pitch 1.27 mm, THT, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+62201621821
+Socket Header, Pitch 1.27 mm, THT, Vertical, dual row, 16p
+
+0
+16
+16
+Socket_header_6_pins_single_straight
+62202021121
+Pin Header, pitch 1.27 mm, THT, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+62202021821
+Socket Header, Pitch 1.27 mm, THT, Vertical, dual row, 20p
+
+0
+20
+20
+Socket_header_6_pins_single_straight
+62202821121
+Pin Header, pitch 1.27 mm, THT, Vertical, dual row, 28p
+
+0
+28
+28
+Socket_header_6_pins_single_straight
+62202821821
+Socket Header, Pitch 1.27 mm, THT, Vertical, dual row, 28p
+
+0
+28
+28
 Solderpads
 Solder_Pad_5.0x3.0mm
 SMD rectangular pad as test Point, square 3.0mm side length
