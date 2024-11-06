@@ -5,73 +5,42 @@
 \usepackage{float}
 \usepackage{array}
 \usepackage{lipsum}
-% \usepackage{cite}
 \geometry{margin=0.5in}
-% \usepackage{booktabs}
-% \usepackage{bookmark}
 \usepackage[table]{xcolor}
 \usepackage{graphicx}
-% \usepackage{tabularx}
 \usepackage{longtable}
 \usepackage{amsmath}
 \usepackage{caption}
 
 \newcommand\IEEEhyperrefsetup{
 bookmarks=true,bookmarksnumbered=true,%
-colorlinks=true,linkcolor={black},citecolor={black},urlcolor={black}%
+colorlinks=true,linkcolor={blue},citecolor={black},urlcolor={blue}%
 }
-% Preferred hyperref setup, Michael Shell
 \usepackage[\IEEEhyperrefsetup, pdftex]{hyperref}
 \hypersetup{pdfborder=0 0 0}
-% \usepackage{tocloft}
 
 \begin{document}
 
   \begin{center}
-    \begin{longtable}{|p{3cm}|p{3cm}|p{3cm}|p{1cm}|p{3cm}| }
-      \caption{Desired BOM}
-      \\ \hline \rowcolor{gray!50} \textbf{Component} & \textbf{Description} & \textbf{Purpose} & \textbf{\#} & \textbf{á price (price per robot) SEK}\\ \endhead \hline
+    \begin{longtable}{|p{3cm}|p{3cm}|p{3cm}|p{1cm}|p{3cm}|p{3cm}|}
+      \caption{Main components}
+      \\ \hline \rowcolor{gray!50} \textbf{Component} & \textbf{Description} & \textbf{Purpose} & \textbf{\#} & \textbf{á price (price per robot) SEK} & \textbf{Price in USD}\\ \endhead \hline
 
-      \rowcolor{gray!50} \textbf{Total price for 1 robot} & \textbf{10457.69} \endlastfoot \hline
+      % \rowcolor{gray!50} \textbf{Total price for 1 robot} & \textbf{10457.69} \endlastfoot \hline
 
-      DF45L024048-A & Brushless direct current (BLDC) motor with integrated hall sensors for the wheels & Used to spin the wheels of the robot. & 4 & 830.4 (3273.60)\\ \hline 
-      Hobbywing FPV XRotor 3110 900KV & Brushelss DC motor & High revolutions per minute (RPM) motor used to control the dribbler. & 1 & 175.20 (175.20) \\ \hline 
-      B-G431B-ESC1 & BLDC motor driver & Motor driver with embedded $\mu\text{Controller}$ current sensing and hall sensing to form a closed-loop control algorithm & 5 & 208.96 (1044.8) \\ \hline 
-      NUCLEO-H723ZG & $\mu\text{Controller}$ & Computational power and real-time processing capabilities, supports $\mu\text{ROS}$ & 1 & 322.58 (322.58) \\ \hline 
-      Raspberry Pi 4 Model B/8GB & Single-board computer & Processing camera input and performing local path planning & 1 & 979 (979) \\ \hline
-      TOF400C-VL53L1 & Lidar & Chosen by UdeA for obstacle detection & 2 & 176.32 (176.32) \\ \hline
-      VL6180 TOF & Lidar & Chosen by UdeA for obstacle detection & 1 & 39.62 (39.62) \\ \hline
-      SX1280IMLTRT & Radio frequency (RF) transceiver & Used to transmit data over 2.4Ghz network & 1 & 75.44 (75.44) \\ \hline 
-      SKY66122-11 & Integrated front-end-moduel (FEM) & Simplified integration with the RF circuit & 1 & 40.48 (40.48) \\ \hline 
-      6s 1300mAh -120C - GNB HV XT60 & LiPo-battery & Used to power the robot & 1 & 351.20 (351.20) \\ \hline 
-      LT3750 & Charging controller for the capacitors of the kicker & Charge controller for the kicker circuit & 1 & 146.93 (146.93)\\ \hline 
-      iC-PX2604 + PX01S 26-30 & Wheel encoders & Will be used for odometry of the robot & 4 & 224.40 (897.60) \\ \hline 
-      WSEN-ISDS 6 Axis IMU & 6-DoF IMU & Will be used for odometry of the robot & 10 & N/A\\ \hline 
-      Raspberry Pi Camera-module 3 & Camera & Provide images in front of the robot to detect the ball and obstacles & 1 & 369 (369) \\ \hline 
-      IR Break Beam Sensor - 5mm LEDs & Infrared (IR) sensor & Used to detect if the ball is close to the robot & 1 & 99 (99) \\ \hline 
-      JST 6B-PH-K-S & Connector & Hall sensor connector from the motor & 4 & 3.85 (15.4) \\ \hline 
-      JST B5P-VH & Connector & Motor connector & 4 & 4.06 (16.24) \\ \hline 
-      Connectors & Passive component & Supplied by Würth & N/A & N/A \\ \hline 
-      Shaft hub with clamping bracket 4mm & Coupler & Couple the wheels with the motor shaft & 4 & 139 (556) \\ \hline 
-      Bearings & Bearings & Make the roller spin (dribbler) & 2 & 18 (36)\\ \hline 
-      Resistors & Passive component & Supplied by Würth or 326 & N/A & N/A \\ \hline 
-      Capacitors & Passive component & Supplied by Würth or 326 & N/A & N/A \\ \hline 
-      Voltage regulators & DC/DC buck converters & Supplied by Würth & N/A & N/A \\ \hline 
-      Solenoid & Solenoid & Supplied by MDU & 1 & N/A \\ \hline 
-      PCB & Printed circuit board (PCB) & The students will supply any custom PCB designed & 2 & N/A\\ \hline
-      LM74500\break-QDDFRQ1 & Reverse polarity protection & Used to
-      protect against wrong polarity connections & 1 & 16.45 (16.45) \\ \hline 
-      BUK9Y8R5-80EX & N-channel mosfet & Used with the LM74500\break-QDDFRQ1 & 1 & 17.95 (17.95) \\ \hline 
-      SMBJ58A & TVS+ & ESD protection diode, used in reverse polarity circuit & 1 & 4.5 (4.5) \\ \hline 
-      SMBJ26A & TVS- & ESD protection diode, used in reverse polairiy circuit & 1 & 3.53 (3.53) \\ \hline
-      M3 16mm galvanized steel countersunk screw, 100 pack & Mounting screws & Screws for robot chassi & 1 & 21.6 (21.6) \\ \hline
-      M3 galvanized steel locking washers, 200 pack & Washers & Chassi assembly & 1 & 69.7 (69.7) \\ \hline
-      M3 steel locking washers, 200 pack & Locking washers & Chassi assembly & 1 & 83.3 (83.3) \\ \hline
-      M3 stainless steel nut, 100 pack & Screw nut & Chassi assembly & 1 & 21.85 (21.85) \\ \hline
-      M3 threaded inserts 3mm, 50 pack & Threades inserts & Chassi assembly & 1 & 95 (95) \\ \hline
-      Bearings with flange iglidur® M250 & Bearings for miniwheels & Wheel assembly & 100 & 3.34 (334) \\ \hline
-      X-RING 3.63X2.62/NBR70 & Fasten the miniwheels & Wheel assembly & 100 & 6.2 (620) \\ \hline
-      Wheel hub 4mm & Fasten wheels to motor & Wheel assembly & 4 & 139 (556) \\ \hline
+      \href{https://www.nanotec.com/fileadmin/files/Datenblaetter/BLDC/DF45/DF45L024048-A.pdf?1656012533}{DF45L024048-A} & Brushless direct current (BLDC) motor with integrated hall sensors for the wheels & Used to spin the wheels of the robot. & 4 & 830.4 (3273.60) & 74.74 (294.6)\\ \hline 
+      \href{https://www.hobbywing.com/en/products/xrotor3110}{Hobbywing FPV XRotor 3110 900KV} & Brushless DC motor & High revolutions per minute (RPM) motor used to control the dribbler. & 1 & 175.20 (175.20) & 15.77 (15.77) \\ \hline 
+      \href{https://www.mouser.se/datasheet/2/389/b-g431b-esc1-1848063.pdf}{B-G431B-ESC1} & BLDC motor driver & Motor driver with embedded $\mu\text{Controller}$ current sensing and hall sensing to form a closed-loop control algorithm & 5 & 208.96 (1044.8) &  18.8 (94.032)\\ \hline 
+      \href{https://www.st.com/en/evaluation-tools/nucleo-h723zg.html}{NUCLEO-H723ZG} & $\mu\text{Controller}$ & Computational power and real-time processing capabilities, supports $\mu\text{ROS}$ & 1 & 322.58 (322.58) & 29 (29) \\ \hline 
+      \href{https://datasheets.raspberrypi.com/rpi4/raspberry-pi-4-datasheet.pdf}{Raspberry Pi 4 Model B/8GB} & Single-board computer & Processing camera input and performing local path planning & 1 & 979 (979) & 88.11 (88.11) \\ \hline
+      \href{https://learn.adafruit.com/adafruit-vl53l4cd-time-of-flight-distance-sensor?view=all}{VL53L4CD ToF} & Lidar & Obstacle detection (Could not find VL53X ToF) & 2 & 176.32 (176.32) & 15.87 (15.87) \\ \hline
+      \href{https://www.electrokit.com/upload/product/41013/41013634/DM00112632.pdf}{VL6180 TOF} & Lidar & Obstacle detection & 1 & 39.62 (39.62) & 3.57 (3.57)\\ \hline
+      \href{https://docs.broadcom.com/doc/AV02-4191EN}{APDS-9960} & RGB Sensor & Ball detection & 1 & 199 (199) & 17.91 (17.91) \\ \hline
+      \href{https://wiki.dfrobot.com/BNO055_Intelligent_9_Axis_Sensor_Module_SKU_SEN0374}{SENS0374} & 9-Dof IMU & Acceleration, Gyroscope, Magnetometer & 1 & 191 (191) & 17.19 (17.19) \\ \hline
+      \href{https://www.elefun.se/p/prod.aspx?v=65193}{6s 1300mAh -120C - GNB HV XT60} & LiPo-battery & Used to power the robot & 1 & 351.20 (351.20) & 31.6 (31.6)\\ \hline 
+      \href{https://www.ichaus.de/product/ic-px-series/#documents}{iC-PX2604 + PX01S 26-30} & Wheel encoders & Will be used for odometry and determining the RPM & 4 & 224.40 (897.60) & 20.2 (80.78) \\ \hline 
+      \href{https://www.we-online.com/components/products/datasheet/2536030320001.pdf}{WSEN-ISDS 6 Axis IMU} & 6-DoF IMU & Will be used for odometry of the robot & 10 & N/A & N/A\\ \hline 
+      \href{https://www.electrokit.com/upload/product/41020/41020240/Camera_Module_3_Product_Brief.pdf}{Raspberry Pi Camera-module 3} & Camera & Provide images in front of the robot to detect the ball and obstacles & 1 & 369 (369) & 33.21 (33.21)\\ \hline 
     \end{longtable}
   \end{center}
 
