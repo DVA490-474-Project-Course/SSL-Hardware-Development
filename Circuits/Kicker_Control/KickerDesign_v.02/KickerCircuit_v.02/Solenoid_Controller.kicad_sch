@@ -1359,7 +1359,7 @@
 		(at 48.26 140.97)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b13b2015-7297-423c-aceb-b135e353b8f8")
+		(uuid "f5e98d73-1242-4eae-94fe-e0ccb7cc7a30")
 	)
 	(junction
 		(at 124.46 140.97)
@@ -1376,6 +1376,10 @@
 	(no_connect
 		(at 162.56 100.33)
 		(uuid "6926b47a-16ab-41f8-85bb-fc8191a0bb3f")
+	)
+	(no_connect
+		(at 111.76 93.98)
+		(uuid "b28b353b-abf6-4275-9f96-fd0eb7ec4170")
 	)
 	(wire
 		(pts
@@ -1426,16 +1430,6 @@
 			(type default)
 		)
 		(uuid "17e8e7c9-90fd-4af0-8ab6-9bbb5352c00f")
-	)
-	(wire
-		(pts
-			(xy 48.26 140.97) (xy 48.26 157.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20c0f9fd-7c98-4266-a029-c6ef7f293c47")
 	)
 	(wire
 		(pts
@@ -1506,6 +1500,16 @@
 			(type default)
 		)
 		(uuid "4a45a435-b1a8-4e23-9c8a-2e76e0c662ae")
+	)
+	(wire
+		(pts
+			(xy 48.26 156.21) (xy 48.26 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "514a4daa-634d-4b63-990f-f810aba4bc69")
 	)
 	(wire
 		(pts
@@ -1682,6 +1686,18 @@
 			(justify left)
 		)
 		(uuid "2c0dc7a7-cd6c-4d32-9248-4e8ce7f13566")
+	)
+	(hierarchical_label "GND"
+		(shape input)
+		(at 48.26 156.21 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "30a527e6-c447-4f5b-9382-7b68a0b09c4f")
 	)
 	(hierarchical_label "Vout (100v) "
 		(shape input)
@@ -2062,72 +2078,6 @@
 			(project "KickerCircuit_v.02"
 				(path "/195e0b9a-2769-4e8c-bb1a-7b2ff7d334c1/8ea0fb2c-3f33-455d-b64b-216de07f6907"
 					(reference "Q2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 48.26 157.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6f0ef95d-720a-4000-b702-9075ec120579")
-		(property "Reference" "#PWR014"
-			(at 48.26 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 48.26 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 48.26 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 48.26 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 48.26 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5d7f492c-b1ef-4e08-b4f7-3eff860edec8")
-		)
-		(instances
-			(project "KickerCircuit_v.02"
-				(path "/195e0b9a-2769-4e8c-bb1a-7b2ff7d334c1/8ea0fb2c-3f33-455d-b64b-216de07f6907"
-					(reference "#PWR014")
 					(unit 1)
 				)
 			)
