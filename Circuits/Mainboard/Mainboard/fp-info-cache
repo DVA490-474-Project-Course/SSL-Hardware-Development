@@ -1,4 +1,4 @@
-26006703968389067
+26018865394805766
 0805_C
 CAPC2012X135N
 0805 (1.35 thickness)-1
@@ -60990,13 +60990,6 @@ WCAP-CSGP MLCCs 1812{return}4.5X3.2X2.5(LXWXH)
 0
 2
 2
-Electrolytic_C
-CAPAE1030X1050N
-10.5*10.3
-Capacitor Polarised
-0
-2
-2
 Encoder
 ODFN8-3X3
 
@@ -105713,21 +105706,63 @@ Varistor VF
 0
 2
 2
-WE-HCC (rev24a)
+WCAP-ASLI Aluminum Electrolytic Capacitors
+CAPAE1030X1050N
+10.5*10.3
+Capacitor Polarised
+0
+2
+2
+WCAP-PSLP Aluminum Polymer Capacitors
+WCAP-PSLP_D4H5.5
+Aluminum Polymer Capacitors, body diameter 4mm
+
+0
+2
+2
+WCAP-PSLP Aluminum Polymer Capacitors
+WCAP-PSLP_D5H5.5
+Aluminum Polymer Capacitors, body diameter 5mm
+
+0
+2
+2
+WCAP-PSLP Aluminum Polymer Capacitors
+WCAP-PSLP_D5H5.8
+Aluminum Polymer Capacitors, body diameter 5mm
+
+0
+2
+2
+WCAP-PSLP Aluminum Polymer Capacitors
+WCAP-PSLP_D6.3H5.8
+Aluminum Polymer Capacitors, body diameter 6.3mm
+
+0
+2
+2
+WCAP-PSLP Aluminum Polymer Capacitors
+WCAP-PSLP_D6.3H7.7
+Aluminum Polymer Capacitors, body diameter 6.3mm
+
+0
+2
+2
+WE-HCC SMT High Current Cube Inductor
 WE-HCC_1090
 SMT High Current Cube Inductor, 2-Leads, body 10.9x10mm
 
 0
 2
 2
-WE-HCC (rev24a)
+WE-HCC SMT High Current Cube Inductor
 WE-HCC_1210
 SMT High Current Cube Inductor, 2-Leads, body 12.1x11.4mm
 
 0
 2
 2
-WE-HCC (rev24a)
+WE-HCC SMT High Current Cube Inductor
 WE-HCC_8070
 SMT High Current Cube Inductor, 2-Leads, body 7.9x7.9mm
 
