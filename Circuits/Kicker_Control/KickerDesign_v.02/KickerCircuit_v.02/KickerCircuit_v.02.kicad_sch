@@ -536,54 +536,88 @@
 		)
 	)
 	(junction
-		(at 100.33 45.72)
+		(at 100.33 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2968bab5-13d4-46cb-828a-0a5b46d5cdf2")
+		(uuid "b32db7ed-a0f9-43cb-baf6-76dcaa4a2994")
+	)
+	(no_connect
+		(at 63.5 41.91)
+		(uuid "35be822f-289f-4635-8249-3e4d50935602")
+	)
+	(no_connect
+		(at 176.53 104.14)
+		(uuid "62303a90-9411-4193-976f-82a61c2d9b42")
+	)
+	(no_connect
+		(at 156.21 101.6)
+		(uuid "856f55b8-6d3f-4713-9d84-4c515259cd23")
+	)
+	(no_connect
+		(at 176.53 99.06)
+		(uuid "d1669ba6-c1c7-4a0a-8268-124e657d6e74")
+	)
+	(no_connect
+		(at 176.53 101.6)
+		(uuid "e973bc15-12e3-4c5b-a2b0-0042e71bb798")
+	)
+	(no_connect
+		(at 63.5 39.37)
+		(uuid "fc59031b-5c03-47f0-973b-e8e241bb1aea")
 	)
 	(wire
 		(pts
-			(xy 49.53 38.1) (xy 104.14 38.1)
+			(xy 140.97 104.14) (xy 156.21 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0d4f57ec-4436-4ed6-8efc-793de6c0a33d")
+		(uuid "13dd6acc-acca-49dd-9444-64d9fc1a6298")
 	)
 	(wire
 		(pts
-			(xy 49.53 86.36) (xy 49.53 95.25)
+			(xy 102.87 95.25) (xy 62.23 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "16a72a59-2e11-45e4-b9ec-5e21732f78df")
+		(uuid "1c048eda-71dc-460a-a1d7-ddea22275a91")
 	)
 	(wire
 		(pts
-			(xy 102.87 86.36) (xy 69.85 86.36)
+			(xy 102.87 41.91) (xy 102.87 38.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "283b8a9e-c5a5-4eab-81f3-286656689b39")
+		(uuid "3054821b-3c38-45c4-9866-7b842122bf7f")
 	)
 	(wire
 		(pts
-			(xy 45.72 35.56) (xy 45.72 83.82)
+			(xy 83.82 44.45) (xy 100.33 44.45)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "413d53cc-1360-4d62-83f6-4b0635aedf64")
+		(uuid "44ca013c-e43d-4041-885b-3dd0c2a04ed7")
 	)
 	(wire
 		(pts
-			(xy 100.33 43.18) (xy 100.33 45.72)
+			(xy 156.21 97.79) (xy 140.97 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46cf3565-b6e7-4ce3-8d95-74a39423f2c7")
+	)
+	(wire
+		(pts
+			(xy 100.33 43.18) (xy 100.33 44.45)
 		)
 		(stroke
 			(width 0)
@@ -593,13 +627,23 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 83.82) (xy 100.33 83.82)
+			(xy 62.23 44.45) (xy 63.5 44.45)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "73f495f4-2e46-4766-9ae4-7df8669737e4")
+		(uuid "5f62d524-2be4-46db-9227-cefcba335f0d")
+	)
+	(wire
+		(pts
+			(xy 100.33 44.45) (xy 100.33 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6db12ca5-af7e-4cbb-bdf2-d0703701a594")
 	)
 	(wire
 		(pts
@@ -633,23 +677,23 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 83.82) (xy 100.33 45.72)
+			(xy 99.06 39.37) (xy 99.06 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "89fa1796-c490-4555-b7c3-b784987df264")
+		(uuid "89fa19ee-e37f-47bb-a991-47edb4bc9c11")
 	)
 	(wire
 		(pts
-			(xy 104.14 35.56) (xy 45.72 35.56)
+			(xy 83.82 39.37) (xy 99.06 39.37)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "91bd5c16-697b-4ace-9f20-5573176209d2")
+		(uuid "8ddb553a-7e51-4539-a410-bcaf23c20f46")
 	)
 	(wire
 		(pts
@@ -663,23 +707,43 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 81.28) (xy 49.53 38.1)
+			(xy 99.06 35.56) (xy 104.14 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a99fafab-cb60-490d-a8d9-d9568b680dfc")
+		(uuid "a55d6827-7115-4c52-af86-0476292b4342")
 	)
 	(wire
 		(pts
-			(xy 45.72 83.82) (xy 49.53 83.82)
+			(xy 83.82 41.91) (xy 102.87 41.91)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c49edd69-9c63-4993-8bef-3ac7dbfe45d2")
+		(uuid "a843a84d-b7b3-4b54-b0fe-40e2e2abd57c")
+	)
+	(wire
+		(pts
+			(xy 62.23 95.25) (xy 62.23 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b33d9738-45b7-4b0d-b727-25449127d913")
+	)
+	(wire
+		(pts
+			(xy 156.21 97.79) (xy 156.21 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b415b54f-d8f4-4404-9ecc-362ff4858974")
 	)
 	(wire
 		(pts
@@ -693,17 +757,17 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 95.25) (xy 102.87 95.25)
+			(xy 102.87 38.1) (xy 104.14 38.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "db68df01-1bfe-4b1c-87c7-50cf48c65876")
+		(uuid "dc0bd6a2-1435-4134-a321-fdbdffa0985c")
 	)
 	(symbol
 		(lib_id "WR-MPC3 3.00 mm Male Header Dual Row Vertical - THT:66200621124")
-		(at 54.61 78.74 0)
+		(at 68.58 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -712,7 +776,7 @@
 		(fields_autoplaced yes)
 		(uuid "c16bc3ae-0f6b-454c-bc51-d5b320a1aaf2")
 		(property "Reference" "P1"
-			(at 59.69 76.2 0)
+			(at 73.66 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -720,7 +784,7 @@
 			)
 		)
 		(property "Value" "66200621124"
-			(at 54.61 78.74 0)
+			(at 68.58 36.83 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -730,7 +794,7 @@
 			)
 		)
 		(property "Footprint" "Altium_WR-MPC3 (rev23a):66200621124"
-			(at 54.61 78.74 0)
+			(at 68.58 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -739,7 +803,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 78.74 0)
+			(at 68.58 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -748,7 +812,7 @@
 			)
 		)
 		(property "Description" "WR-MPC3 THT Male Header Dual Row Vertical (Selective Gold), pitch 3mm, 6p"
-			(at 54.61 78.74 0)
+			(at 68.58 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -757,7 +821,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "66200621124"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -767,7 +831,7 @@
 			)
 		)
 		(property "Category" "Wire-to-Board Connectors"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -777,7 +841,7 @@
 			)
 		)
 		(property "Match Code" "WR-MPC3"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -787,7 +851,7 @@
 			)
 		)
 		(property "ComponentLink1Description" "Website Link"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -797,7 +861,7 @@
 			)
 		)
 		(property "ComponentLink1URL" "https://www.we-online.com/redexpert/article/66200621124?ad"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -807,7 +871,7 @@
 			)
 		)
 		(property "ComponentLink2Description" "Datasheet Link"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -817,7 +881,7 @@
 			)
 		)
 		(property "ComponentLink2URL" "https://www.we-online.com/redexpert/spec/66200621124?ad"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -827,7 +891,7 @@
 			)
 		)
 		(property "Manufacturer" "Wurth Elektronik"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -837,7 +901,7 @@
 			)
 		)
 		(property "Mount" "Through Hole"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -847,7 +911,7 @@
 			)
 		)
 		(property "Operating Temperature Max" "105°C"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -857,7 +921,7 @@
 			)
 		)
 		(property "Operating Temperature Min" "-40°C"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -867,7 +931,7 @@
 			)
 		)
 		(property "Packaging" "Tube"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -877,7 +941,7 @@
 			)
 		)
 		(property "Contact Resistance" "10mOhm"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -887,7 +951,7 @@
 			)
 		)
 		(property "Gender" "Male"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -897,7 +961,7 @@
 			)
 		)
 		(property "Insulation Resistance" ">1000MOhm"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -907,7 +971,7 @@
 			)
 		)
 		(property "Number of Pins" "6"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -917,7 +981,7 @@
 			)
 		)
 		(property "Number of Rows" "2"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -927,7 +991,7 @@
 			)
 		)
 		(property "Orientation" "Vertical"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -937,7 +1001,7 @@
 			)
 		)
 		(property "Pitch" "3mm"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -947,7 +1011,7 @@
 			)
 		)
 		(property "Rated Current" "5A"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -957,7 +1021,7 @@
 			)
 		)
 		(property "Working Voltage" "250V (AC)"
-			(at 49.022 76.2 0)
+			(at 62.992 34.29 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -995,7 +1059,7 @@
 	)
 	(symbol
 		(lib_id "WR-MPC3 3.00 mm Male Header Dual Row Vertical - THT:66200621124")
-		(at 201.93 63.5 0)
+		(at 161.29 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1004,7 +1068,7 @@
 		(fields_autoplaced yes)
 		(uuid "dfc8c6e0-d771-4681-97c8-51e511b037a4")
 		(property "Reference" "P2"
-			(at 207.01 60.96 0)
+			(at 166.37 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1012,7 +1076,7 @@
 			)
 		)
 		(property "Value" "66200621124"
-			(at 201.93 63.5 0)
+			(at 161.29 96.52 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1022,7 +1086,7 @@
 			)
 		)
 		(property "Footprint" "Altium_WR-MPC3 (rev23a):66200621124"
-			(at 201.93 63.5 0)
+			(at 161.29 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1031,7 +1095,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 201.93 63.5 0)
+			(at 161.29 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1040,7 +1104,7 @@
 			)
 		)
 		(property "Description" "WR-MPC3 THT Male Header Dual Row Vertical (Selective Gold), pitch 3mm, 6p"
-			(at 201.93 63.5 0)
+			(at 161.29 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1049,7 +1113,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "66200621124"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1059,7 +1123,7 @@
 			)
 		)
 		(property "Category" "Wire-to-Board Connectors"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1069,7 +1133,7 @@
 			)
 		)
 		(property "Match Code" "WR-MPC3"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1079,7 +1143,7 @@
 			)
 		)
 		(property "ComponentLink1Description" "Website Link"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1089,7 +1153,7 @@
 			)
 		)
 		(property "ComponentLink1URL" "https://www.we-online.com/redexpert/article/66200621124?ad"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1099,7 +1163,7 @@
 			)
 		)
 		(property "ComponentLink2Description" "Datasheet Link"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1109,7 +1173,7 @@
 			)
 		)
 		(property "ComponentLink2URL" "https://www.we-online.com/redexpert/spec/66200621124?ad"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1119,7 +1183,7 @@
 			)
 		)
 		(property "Manufacturer" "Wurth Elektronik"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1129,7 +1193,7 @@
 			)
 		)
 		(property "Mount" "Through Hole"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1139,7 +1203,7 @@
 			)
 		)
 		(property "Operating Temperature Max" "105°C"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1149,7 +1213,7 @@
 			)
 		)
 		(property "Operating Temperature Min" "-40°C"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1159,7 +1223,7 @@
 			)
 		)
 		(property "Packaging" "Tube"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1169,7 +1233,7 @@
 			)
 		)
 		(property "Contact Resistance" "10mOhm"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1179,7 +1243,7 @@
 			)
 		)
 		(property "Gender" "Male"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1189,7 +1253,7 @@
 			)
 		)
 		(property "Insulation Resistance" ">1000MOhm"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1199,7 +1263,7 @@
 			)
 		)
 		(property "Number of Pins" "6"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1209,7 +1273,7 @@
 			)
 		)
 		(property "Number of Rows" "2"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1219,7 +1283,7 @@
 			)
 		)
 		(property "Orientation" "Vertical"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1229,7 +1293,7 @@
 			)
 		)
 		(property "Pitch" "3mm"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1239,7 +1303,7 @@
 			)
 		)
 		(property "Rated Current" "5A"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1249,7 +1313,7 @@
 			)
 		)
 		(property "Working Voltage" "250V (AC)"
-			(at 196.342 60.96 0)
+			(at 155.702 93.98 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -1325,7 +1389,7 @@
 			)
 			(uuid "7ed312af-c4bd-4b40-bcb1-0e9772930013")
 		)
-		(pin "Output_solenoid" output
+		(pin "Output2_Solenoid" output
 			(at 140.97 104.14 0)
 			(effects
 				(font
@@ -1335,7 +1399,7 @@
 			)
 			(uuid "b2e7058b-0053-4ce1-92f0-572001cc6778")
 		)
-		(pin "Output_Solenoid" output
+		(pin "Output1_Solenoid" output
 			(at 140.97 97.79 0)
 			(effects
 				(font
@@ -1344,16 +1408,6 @@
 				(justify right)
 			)
 			(uuid "fe472503-19cf-4bbe-8220-ff2a195bd1e4")
-		)
-		(pin "Battery_In (24 V) " input
-			(at 102.87 86.36 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "ec25416e-fa5b-4608-aed4-f8d3bea2bb68")
 		)
 		(pin "On_signal{slash}Off_signal" input
 			(at 102.87 95.25 180)
@@ -1432,7 +1486,7 @@
 			)
 			(uuid "86104065-a535-4be0-a33b-6475e00f3741")
 		)
-		(pin "Vcc (24V)" input
+		(pin "Vcc (24V) " input
 			(at 104.14 43.18 180)
 			(effects
 				(font
@@ -1452,7 +1506,7 @@
 			)
 			(uuid "51cb3945-29d5-4146-9fc9-7ae1fbd2a137")
 		)
-		(pin "Vtrans (24 V) " input
+		(pin "Vtrans (24V) " input
 			(at 104.14 45.72 180)
 			(effects
 				(font
