@@ -59210,10 +59210,6 @@
 		(uuid "01da3c80-bbb5-435c-a2ac-ae414edb5153")
 	)
 	(no_connect
-		(at 393.7 302.26)
-		(uuid "0273c682-98e5-4a16-a94d-4a35bebd7f90")
-	)
-	(no_connect
 		(at 393.7 314.96)
 		(uuid "02c0c133-4177-46d9-8d87-7f7ab06c42f7")
 	)
@@ -59450,6 +59446,10 @@
 		(uuid "4315eac3-45e4-48f3-abe2-350e79e72d1d")
 	)
 	(no_connect
+		(at 537.21 54.61)
+		(uuid "43712b98-2c04-4061-a92f-1dfa5690b896")
+	)
+	(no_connect
 		(at 638.81 313.69)
 		(uuid "43b9029c-5c28-4cd6-b72c-a411f274bfd5")
 	)
@@ -59580,6 +59580,10 @@
 	(no_connect
 		(at 539.75 392.43)
 		(uuid "6be3baca-89a2-4386-8dae-a84e36b7aba4")
+	)
+	(no_connect
+		(at 610.87 313.69)
+		(uuid "6d2c6358-df89-4ed6-bdb7-917dd7d8ce21")
 	)
 	(no_connect
 		(at 615.95 379.73)
@@ -59844,6 +59848,10 @@
 	(no_connect
 		(at 358.14 388.62)
 		(uuid "c8f0696b-5b95-4918-8eeb-fb7570491f3f")
+	)
+	(no_connect
+		(at 537.21 57.15)
+		(uuid "ca2aec02-987d-41ab-9fcb-85123805de85")
 	)
 	(no_connect
 		(at 637.54 386.08)
@@ -61285,16 +61293,6 @@
 	)
 	(wire
 		(pts
-			(xy 621.03 326.39) (xy 621.03 331.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3f632d63-517d-4d7c-8007-72921e5e388d")
-	)
-	(wire
-		(pts
 			(xy 27.94 95.25) (xy 60.96 95.25)
 		)
 		(stroke
@@ -61902,16 +61900,6 @@
 			(type default)
 		)
 		(uuid "574cbea8-2871-426b-9862-91dbadc26e0f")
-	)
-	(wire
-		(pts
-			(xy 610.87 313.69) (xy 621.03 313.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5772ed65-320b-4245-b659-7305fd85981c")
 	)
 	(wire
 		(pts
@@ -64745,16 +64733,6 @@
 	)
 	(wire
 		(pts
-			(xy 621.03 313.69) (xy 621.03 318.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee07f5f9-5707-4342-b940-01c6630acd07")
-	)
-	(wire
-		(pts
 			(xy 377.19 139.7) (xy 370.84 139.7)
 		)
 		(stroke
@@ -65634,17 +65612,6 @@
 		)
 		(uuid "01d28a15-e3e2-43fd-9d3a-c6e6f193680d")
 	)
-	(label "3.3V"
-		(at 617.22 313.69 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "020411c4-c855-4a75-97df-32fb562e9354")
-	)
 	(label "M3_OUT1"
 		(at 666.75 196.85 180)
 		(fields_autoplaced yes)
@@ -65787,6 +65754,17 @@
 			(justify right bottom)
 		)
 		(uuid "0e92c23e-9e89-4480-b03c-1f3414cf4170")
+	)
+	(label "LT3751_GPIO_INPUT"
+		(at 557.53 54.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0ee43baa-42f7-47cc-9fe2-a810d1cb2293")
 	)
 	(label "M1_OUT1"
 		(at 494.03 195.58 0)
@@ -66073,6 +66051,17 @@
 			(justify left bottom)
 		)
 		(uuid "2505f2d6-966d-4c76-88e4-1cc22dfd4684")
+	)
+	(label "LT3751_GPIO_OUTPUT"
+		(at 557.53 57.15 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "268f3c9d-0a8e-4f16-a20d-21a8b501ce41")
 	)
 	(label "M1_OUT2"
 		(at 538.48 198.12 0)
@@ -69614,7 +69603,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "0a8f1b1a-2fe0-4500-9234-ac72ad02e02d")
 		(property "Reference" "C34"
@@ -69733,7 +69722,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0bd5b473-eefc-4df9-803e-ba712338410d")
@@ -70748,7 +70737,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d000362-eee9-4a74-bcd7-4e05f1b28d58")
@@ -71071,7 +71060,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "133901a0-67b3-4a68-ab1c-1b8b2cbb45fc")
 		(property "Reference" "C19"
@@ -71638,7 +71627,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "179bd267-0931-4b2f-93a3-1309291f26cf")
 		(property "Reference" "XTAL2"
@@ -71657,7 +71646,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CRYSTAL_FW520WFMT1_DIO"
+		(property "Footprint" "FW520WFMT1:CRYSTAL_FW520WFMT1_DIO"
 			(at 116.84 212.09 0)
 			(effects
 				(font
@@ -71928,7 +71917,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ad5a73f-02b9-4a27-98a0-3b10f913163e")
@@ -71995,7 +71984,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "1b77e3b5-c7b4-4691-ac33-aadfadd899aa")
 		(property "Reference" "C40"
@@ -72062,7 +72051,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b821dfc-77b5-4498-a19d-6dcc4bcaf5c8")
@@ -73222,7 +73211,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fb90a2d-ff52-4d02-86bb-6e8a500726ef")
@@ -73289,7 +73278,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "22c86c71-8de9-4c36-9a8d-4589bb53852f")
 		(property "Reference" "C39"
@@ -73356,7 +73345,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24967f03-4209-4810-a84d-8a53a234906d")
@@ -74439,7 +74428,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2a35d4de-f43f-49ae-b26c-189f1afd6992")
@@ -75454,7 +75443,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b128237-caee-419e-9042-768bf89d3bc6")
@@ -78536,7 +78525,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "43666e27-0905-4eee-a503-e2c9060858a8")
 		(property "Reference" "C17"
@@ -78655,7 +78644,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4382e97a-a8c3-44ce-975e-3dbec67bb1f7")
@@ -78926,7 +78915,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "485f05bf-26e9-481d-9cdf-5814bde9def7")
@@ -79114,7 +79103,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d16adca-5605-42bf-ae75-8aa9faa53ffd")
@@ -79521,7 +79510,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b74473e-fb1e-49e0-a2b6-6f8f71b9a0ed")
@@ -79816,7 +79805,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "615a5eb7-5741-4a63-9584-2bab2eb71022")
 		(property "Reference" "C31"
@@ -81082,7 +81071,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "646fb68a-eb45-44ec-b57d-9b1e4baca832")
@@ -81149,7 +81138,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "65027db7-73ba-4772-b52a-cd8eab20baed")
 		(property "Reference" "C38"
@@ -81216,7 +81205,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "69ac98da-b62c-433a-8699-0031762ea38a")
 		(property "Reference" "C15"
@@ -81493,7 +81482,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b2ebecc-a67e-4ae2-8dbf-30bc17d65194")
@@ -81561,7 +81550,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "6c742183-f6db-47cb-85cf-272e7f7ebf4a")
 		(property "Reference" "C42"
@@ -82328,7 +82317,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78b7717d-0ac9-4f17-a3d8-d498004dc00e")
@@ -83886,7 +83875,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "8450281a-2864-43dc-babc-7b0e4874877e")
 		(property "Reference" "C30"
@@ -84230,7 +84219,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "88d11bf7-7c5a-4cff-992c-b2d08d3bf2fb")
@@ -84484,7 +84473,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d9fdef3-20f6-4d1d-9ade-70f305325693")
@@ -84551,7 +84540,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91970f40-9448-4927-96bc-ea85256d9a14")
@@ -85197,7 +85186,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ff6e85e-1e72-444f-840e-b9375381edce")
@@ -85766,7 +85755,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "a6f7352a-2900-49e2-91c9-18759a341dc6")
 		(property "Reference" "C16"
@@ -86360,7 +86349,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "abe99248-b9ae-476b-a06b-8fa004bf7ed4")
@@ -88099,7 +88088,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b533df15-6ee7-4f00-8e02-5cd484e2ac8b")
@@ -89236,7 +89225,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "b905cfde-0248-43dd-a9ea-3998ef3f1a8e")
 		(property "Reference" "C21"
@@ -89551,7 +89540,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "bcc4239f-b9d3-4b83-ad96-9ca58c2ccaad")
 		(property "Reference" "C41"
@@ -90118,7 +90107,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "c30fa7e8-4d38-475a-871c-0909fe156793")
 		(property "Reference" "C18"
@@ -90372,7 +90361,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "c3ed1014-238c-4915-b69b-238319bac2b5")
 		(property "Reference" "C20"
@@ -91110,7 +91099,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cbf59c6f-ee5e-4f4a-8d14-48c8707ef7f9")
@@ -92586,7 +92575,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4a09ceb-8976-40d5-94ec-4477b0564b3b")
@@ -92719,7 +92708,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d69a00e8-35ca-439d-aa76-3e8fc2858611")
@@ -92934,7 +92923,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d9f35085-c9bd-498a-8d4f-2db561172f5d")
@@ -93668,125 +93657,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 621.03 322.58 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "dfe60e78-0016-4a8c-9e96-623840424c8f")
-		(property "Reference" "C14"
-			(at 624.078 320.802 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 630.936 320.802 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 621.9952 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 621.03 322.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 621.03 322.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "0.9"
-			(at 629.92 718.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "710-885012207098"
-			(at 629.92 818.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/885012207098?qs=0KOYDY2FL29sZCNyRsrK9g%3D%3D"
-			(at 629.92 918.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Wurth Elektronik"
-			(at 629.92 1018.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "885012207098"
-			(at 629.92 1118.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f95e95be-c9ed-4443-bbf8-4bddf0cb3a9e")
-		)
-		(pin "2"
-			(uuid "42aed17d-21bf-4dd7-ba95-67c347f43adf")
-		)
-		(instances
-			(project "Mainboard"
-				(path "/778a7f39-1f28-457f-badd-61056e9c01e2"
-					(reference "C14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 302.26 121.92 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -94410,7 +94280,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "e7abb09c-069c-4fd5-bade-93ba83a56668")
 		(property "Reference" "C33"
@@ -94715,7 +94585,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec6a7b9e-e5d8-4dd9-9b6f-5280aa38bf08")
@@ -95324,7 +95194,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "f1ffc787-1566-48f4-9247-125523182ca5")
 		(property "Reference" "C32"
@@ -96577,7 +96447,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f35a3af2-1f16-4997-827e-0527429b3115")
@@ -96701,73 +96571,6 @@
 			(project "Mainboard"
 				(path "/778a7f39-1f28-457f-badd-61056e9c01e2"
 					(reference "#PWR033")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 621.03 331.47 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f853dd21-4e9e-4d07-b940-b87e7cb1330f")
-		(property "Reference" "#PWR023"
-			(at 621.03 337.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 621.03 336.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 621.03 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 621.03 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 621.03 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "984f8596-ebf7-4c7e-9bb0-e02011c93e0e")
-		)
-		(instances
-			(project "Mainboard"
-				(path "/778a7f39-1f28-457f-badd-61056e9c01e2"
-					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -96913,7 +96716,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "fa995802-2cd7-47ce-8b3e-7bbdab435be9")
 		(property "Reference" "C29"
@@ -97032,7 +96835,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fac5587c-7e7d-4fbc-aaf8-9ba699e593c5")
@@ -97099,7 +96902,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb956586-725f-4271-9b99-61561f470cc1")

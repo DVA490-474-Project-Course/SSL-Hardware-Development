@@ -37,4 +37,5 @@
   (lib (name "ADP121-AUJZ28R7")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/ul_ADP121-AUJZ28R7/KiCADv6/footprints.pretty")(options "")(descr "Linear Voltage Regulator 2.8V output"))
   (lib (name "Power Inductors - SMD WE-PD 5.6uH 6A")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/Power Inductors - SMD WE-PD 5.6uH 6A")(options "")(descr "Power Inductors - SMD WE-PD 5.6uH 6A"))
   (lib (name "WCAP-PSLP Aluminum Polymer Capacitors")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/WCAP-PSLP Aluminum Polymer Capacitors/WCAP-PSLP.pretty/")(options "")(descr "WCAP-PSLP Aluminum Polymer Capacitors"))
+  (lib (name "FW520WFMT1")(type "KiCad")(uri "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/FW520WFMT1")(options "")(descr ""))
 )
