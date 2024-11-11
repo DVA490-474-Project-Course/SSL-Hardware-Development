@@ -125,8 +125,8 @@
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.4,
-        "min_text_thickness": 0.06,
+        "min_text_height": 0.025,
+        "min_text_thickness": 0.05,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.0,
         "min_via_annular_width": 0.0,
@@ -572,7 +572,9 @@
     "meta": {
       "version": 3
     },
-    "net_colors": null,
+    "net_colors": {
+      "GND": "rgb(22, 255, 0)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": [
       {
