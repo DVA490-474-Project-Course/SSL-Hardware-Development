@@ -896,33 +896,9 @@
 			)
 		)
 	)
-	(junction
-		(at 140.97 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2c33bfbe-f2c7-4cd7-85f3-6369dca434b8")
-	)
-	(junction
-		(at 100.33 43.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "72c11261-f300-4e14-aef7-288e43e86731")
-	)
-	(junction
-		(at 140.97 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8bcddc93-6e0b-409d-98b7-7b70a1aad5a8")
-	)
-	(wire
-		(pts
-			(xy 140.97 97.79) (xy 144.78 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1424a367-df38-4da0-aa75-59ce836f1295")
+	(no_connect
+		(at 177.8 86.36)
+		(uuid "df1d8a67-1630-4e2a-a3a1-5626c964ec69")
 	)
 	(wire
 		(pts
@@ -946,43 +922,13 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 19.05) (xy 57.15 19.05)
+			(xy 50.8 102.87) (xy 102.87 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2e0bedff-6dff-48b3-b6c5-74abadc70b15")
-	)
-	(wire
-		(pts
-			(xy 146.05 95.25) (xy 146.05 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "33c316eb-17a3-4b64-9fa1-5f8b59619e99")
-	)
-	(wire
-		(pts
-			(xy 57.15 19.05) (xy 57.15 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "36c317cf-6c16-4cd2-867e-3a5764f5790b")
-	)
-	(wire
-		(pts
-			(xy 139.7 97.79) (xy 140.97 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38d6174a-fe70-49bc-b5eb-c49c0453db4f")
+		(uuid "2f64eff2-69a8-43ba-9546-233a757131b5")
 	)
 	(wire
 		(pts
@@ -996,17 +942,17 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 97.79) (xy 144.78 102.87)
+			(xy 143.51 104.14) (xy 140.97 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "428ecd24-74b3-4fb6-8af9-06b0f921200f")
+		(uuid "41fc4b34-2dc3-41da-b39d-68e7cd509c8e")
 	)
 	(wire
 		(pts
-			(xy 83.82 40.64) (xy 100.33 40.64)
+			(xy 83.82 40.64) (xy 104.14 40.64)
 		)
 		(stroke
 			(width 0)
@@ -1016,13 +962,13 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 43.18) (xy 100.33 45.72)
+			(xy 50.8 102.87) (xy 50.8 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "46d76604-18e5-4bd4-b193-317743953024")
+		(uuid "485fda67-e49c-4e7b-acb2-b2220dbb7b25")
 	)
 	(wire
 		(pts
@@ -1046,43 +992,13 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 53.34) (xy 176.53 53.34)
+			(xy 140.97 53.34) (xy 148.59 53.34)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "74247c18-1024-485b-bed7-8fc4d97067a0")
-	)
-	(wire
-		(pts
-			(xy 100.33 45.72) (xy 104.14 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a131a6a-bcfa-4ce7-8310-0dabf0ab9551")
-	)
-	(wire
-		(pts
-			(xy 104.14 43.18) (xy 100.33 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "868f9cd5-e7a2-42ea-b6d0-99699a66b24b")
-	)
-	(wire
-		(pts
-			(xy 100.33 40.64) (xy 100.33 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "87ad03b1-d0df-440d-9f08-e2d9c1d8975d")
 	)
 	(wire
 		(pts
@@ -1096,7 +1012,17 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 105.41) (xy 143.51 104.14)
+			(xy 140.97 97.79) (xy 149.86 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d309c28-adf7-4834-a2f4-dd54d7210273")
+	)
+	(wire
+		(pts
+			(xy 143.51 100.33) (xy 143.51 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1106,7 +1032,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 105.41) (xy 143.51 105.41)
+			(xy 149.86 100.33) (xy 143.51 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1126,63 +1052,23 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 95.25) (xy 146.05 95.25)
+			(xy 50.8 35.56) (xy 63.5 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b07c403e-b73a-4b13-a35e-bd6c4834d5cc")
+		(uuid "ab5d8f4b-8fda-4542-a2b3-2b234a431e8b")
 	)
 	(wire
 		(pts
-			(xy 140.97 104.14) (xy 143.51 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b62a4e65-7a53-47d5-8650-0fd19f6e0670")
-	)
-	(wire
-		(pts
-			(xy 146.05 90.17) (xy 140.97 90.17)
+			(xy 140.97 90.17) (xy 147.32 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "bf6ce0ad-9595-4261-92e4-5be1e0731750")
-	)
-	(wire
-		(pts
-			(xy 152.4 38.1) (xy 152.4 19.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d7323ec6-a808-4760-b5fe-db8be1a9ef84")
-	)
-	(wire
-		(pts
-			(xy 57.15 35.56) (xy 63.5 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd31781f-d5fa-42a8-b676-c776d3eaee08")
-	)
-	(wire
-		(pts
-			(xy 140.97 97.79) (xy 140.97 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eb40b278-cd2a-4627-b241-0e6c72d562a8")
 	)
 	(wire
 		(pts
@@ -1193,6 +1079,17 @@
 			(type default)
 		)
 		(uuid "f9c94d2b-f843-4143-9d69-7f08f3950b24")
+	)
+	(label "GND"
+		(at 152.4 38.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0d1f5f85-9345-4739-b224-34849710791c")
 	)
 	(label "Vout(100V)"
 		(at 177.8 81.28 180)
@@ -1206,7 +1103,7 @@
 		(uuid "16d78e2a-d2ee-4315-adc2-96f0c60f3787")
 	)
 	(label "Vout(100V)"
-		(at 176.53 53.34 0)
+		(at 148.59 53.34 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1228,7 +1125,7 @@
 		(uuid "508b8a2d-002c-443a-bfb9-4b4826bf76ad")
 	)
 	(label "Vout(100V)"
-		(at 156.21 95.25 0)
+		(at 147.32 90.17 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1238,9 +1135,20 @@
 		)
 		(uuid "e136000e-ca85-441b-b4b8-1ef7d67e0676")
 	)
+	(label "GND"
+		(at 57.15 35.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e48d0ef5-bf29-47ec-8d10-4e9fb54f5c6c")
+	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 149.86 105.41 180)
+		(at 154.94 100.33 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1249,7 +1157,7 @@
 		(fields_autoplaced yes)
 		(uuid "90c98e2d-8389-4d34-af27-167d893b0d5c")
 		(property "Reference" "J1"
-			(at 149.225 110.49 0)
+			(at 154.305 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1257,7 +1165,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 149.225 107.95 0)
+			(at 154.305 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1265,7 +1173,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 149.86 105.41 0)
+			(at 154.94 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1274,7 +1182,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 149.86 105.41 0)
+			(at 154.94 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1283,7 +1191,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 149.86 105.41 0)
+			(at 154.94 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1672,6 +1580,44 @@
 		)
 	)
 	(sheet
+		(at 193.04 41.91)
+		(size 41.91 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4d4ba38f-ec4d-4073-b5b9-37d5509a9ac7")
+		(property "Sheetname" "Buck circuit"
+			(at 193.04 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Buck_circuit.kicad_sch"
+			(at 193.04 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KickerCircuit_v.02"
+				(path "/195e0b9a-2769-4e8c-bb1a-7b2ff7d334c1"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 102.87 78.74)
 		(size 38.1 35.56)
 		(fields_autoplaced yes)
@@ -1711,16 +1657,6 @@
 			)
 			(uuid "7ed312af-c4bd-4b40-bcb1-0e9772930013")
 		)
-		(pin "Output2_Solenoid" output
-			(at 140.97 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "b2e7058b-0053-4ce1-92f0-572001cc6778")
-		)
 		(pin "Output1_Solenoid" output
 			(at 140.97 97.79 0)
 			(effects
@@ -1750,6 +1686,26 @@
 				(justify left)
 			)
 			(uuid "6c3f6223-edf2-456e-8b23-2f40b82a7003")
+		)
+		(pin "Output2_Solenoid_GND" output
+			(at 140.97 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "94cdf3b7-3e61-4e5a-900e-5c2159cadeb2")
+		)
+		(pin "GND" input
+			(at 102.87 102.87 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "0a16ef86-2ff1-489b-b852-36ba7de86b11")
 		)
 		(instances
 			(project "KickerCircuit_v.02"
@@ -1818,16 +1774,6 @@
 			)
 			(uuid "86104065-a535-4be0-a33b-6475e00f3741")
 		)
-		(pin "Vcc (24V) " input
-			(at 104.14 43.18 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "f8d1c312-e95e-4822-8f39-45fb7dee4c60")
-		)
 		(pin "c_charge" input
 			(at 104.14 38.1 180)
 			(effects
@@ -1838,16 +1784,6 @@
 			)
 			(uuid "51cb3945-29d5-4146-9fc9-7ae1fbd2a137")
 		)
-		(pin "Vtrans (24V) " input
-			(at 104.14 45.72 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "4057d287-e87c-4915-ade5-9ca09d590e64")
-		)
 		(pin "GND" input
 			(at 140.97 38.1 0)
 			(effects
@@ -1857,6 +1793,16 @@
 				(justify right)
 			)
 			(uuid "173144db-0ac8-4b75-a253-537ee52e6ef8")
+		)
+		(pin "24V" input
+			(at 104.14 40.64 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2dee5ca5-2f99-4800-949e-780f8feca553")
 		)
 		(instances
 			(project "KickerCircuit_v.02"

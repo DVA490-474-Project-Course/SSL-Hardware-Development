@@ -866,6 +866,10 @@
     [
       "8ea0fb2c-3f33-455d-b64b-216de07f6907",
       "Solenoid Controller"
+    ],
+    [
+      "4d4ba38f-ec4d-4073-b5b9-37d5509a9ac7",
+      "Buck circuit"
     ]
   ],
   "text_variables": {}
