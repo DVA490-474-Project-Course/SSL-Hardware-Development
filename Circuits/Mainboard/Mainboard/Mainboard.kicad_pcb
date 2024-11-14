@@ -4306,7 +4306,6 @@
 			)
 		)
 		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/Dual socket header 20 pins/Download_STP_61302021821_rev1.stp"
-			(opacity 0.5900)
 			(offset
 				(xyz 0 -5.34 4.3)
 			)
@@ -4318,7 +4317,6 @@
 			)
 		)
 		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/61301021821/61301021821.stp"
-			(opacity 0.5900)
 			(offset
 				(xyz 0 -35.4 4.3)
 			)
@@ -6347,7 +6345,6 @@
 			)
 		)
 		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/Dual socket header 20 pins/Download_STP_61302021821_rev1.stp"
-			(opacity 0.5900)
 			(offset
 				(xyz 0 -5.34 4.3)
 			)
@@ -6359,7 +6356,6 @@
 			)
 		)
 		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/61301021821/61301021821.stp"
-			(opacity 0.5900)
 			(offset
 				(xyz 0 -35.4 4.3)
 			)
@@ -6372,7 +6368,7 @@
 		)
 		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Motor_Driver_carrier_board/Motor_Driver_carrier_board.step"
 			(offset
-				(xyz -4.05 -15.2 28.75)
+				(xyz -4 -15.2 28.75)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -8502,7 +8498,6 @@
 			)
 		)
 		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/Dual socket header 20 pins/Download_STP_61302021821_rev1.stp"
-			(opacity 0.5900)
 			(offset
 				(xyz 0 -5.34 4.3)
 			)
@@ -8514,7 +8509,6 @@
 			)
 		)
 		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/61301021821/61301021821.stp"
-			(opacity 0.5900)
 			(offset
 				(xyz 0 -35.4 4.3)
 			)
@@ -12298,7 +12292,6 @@
 			)
 		)
 		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/Dual socket header 20 pins/Download_STP_61302021821_rev1.stp"
-			(opacity 0.5900)
 			(offset
 				(xyz 0 -5.34 4.3)
 			)
@@ -12310,7 +12303,6 @@
 			)
 		)
 		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/61301021821/61301021821.stp"
-			(opacity 0.5900)
 			(offset
 				(xyz 0 -35.4 4.3)
 			)
@@ -21249,6 +21241,105 @@
 			(solder_mask_margin 0.102)
 			(uuid "475178f9-3ecb-41c6-8957-a85dab55573a")
 		)
+		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/Dual socket header 72 pins/61307221821 (rev1).stp"
+			(offset
+				(xyz -30.5 -9.5 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 90)
+			)
+		)
+		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/Dual socket header 72 pins/61307221821 (rev1).stp"
+			(offset
+				(xyz 30.5 -9.5 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
+			)
+		)
+		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/Dual socket header 32 pins/Download_STP_61303421821_rev1.stp"
+			(offset
+				(xyz 22.8 -13.3 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 90)
+			)
+		)
+		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/Dual socket header 30 pins/61303021821 (rev1).stp"
+			(offset
+				(xyz -22.8 -15.9 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 90)
+			)
+		)
+		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/Dual socket header 20 pins/Download_STP_61302021821_rev1.stp"
+			(offset
+				(xyz 23 22.5 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 90)
+			)
+		)
+		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/Dual socket header 16 pins/61301621821.stp"
+			(offset
+				(xyz -24 24.8 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 90)
+			)
+		)
+		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/Dual socket header 2 pins/Downloads_STP_61300211821_rev1.stp"
+			(offset
+				(xyz 31.8 61.5 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 90)
+			)
+		)
+		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/Dual socket header 2 pins/Downloads_STP_61300211821_rev1.stp"
+			(offset
+				(xyz -31.8 61.5 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 90)
+			)
+		)
+		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/NUCLEOH723ZG/MB1364E/Mechanical/MB1364-H723ZG-E01.step"
+			(offset
+				(xyz -35.5 -66.5 10)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 		(layer "F.Cu")
@@ -23477,7 +23568,6 @@
 			)
 		)
 		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/Dual socket header 20 pins/Download_STP_61302021821_rev1.stp"
-			(opacity 0.5900)
 			(offset
 				(xyz 0 -5.34 4.3)
 			)
@@ -23489,7 +23579,6 @@
 			)
 		)
 		(model "/home/pontus/DVA490/SSL-Hardware-Development/Circuits/Components/61301021821/61301021821.stp"
-			(opacity 0.5900)
 			(offset
 				(xyz 0 -35.4 4.3)
 			)
