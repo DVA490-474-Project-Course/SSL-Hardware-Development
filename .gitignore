@@ -4,6 +4,8 @@
 *~
 *.zip
 *#
+*.step
+*.stp
 
 # Autosave files
 _autosave-*
@@ -51,4 +53,4 @@ _autosave-*
 
 # daff
 # Needed for big files > 100 mb (step files etc)
-# .gitattributes
+.gitattributes
