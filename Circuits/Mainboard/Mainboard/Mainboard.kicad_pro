@@ -673,7 +673,7 @@
       "specctra_dsn": "",
       "step": "Mainboard.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "Mainboard.wrl"
     },
     "page_layout_descr_file": ""
   },
