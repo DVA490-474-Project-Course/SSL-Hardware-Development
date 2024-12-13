@@ -4,8 +4,6 @@
 *~
 *.zip
 *#
-*.step
-*.stp
 
 # Autosave files
 _autosave-*
